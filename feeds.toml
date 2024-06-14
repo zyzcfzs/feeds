@@ -20,3 +20,10 @@ entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
 contentSelector = ["a.bcover", "span.updateon > em"]
+
+[cfa]
+title = "CFA Institute Daily Browse"
+url = "https://blogs.cfainstitute.org/"
+entrySelector = "div.post-item"
+titleSelector = "a.post-title"
+linkSelector = "a.post-title"
