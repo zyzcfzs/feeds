@@ -1,25 +1,10 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
-
-
 [manga]
 title = "看漫画 - 日本漫画"
 url = "https://www.manhuagui.com/list/japan_lianzai/update.html"
 entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
-contentSelector = ["a.bcover", "span.updateon > em"]
+contentSelector = ["a.bcover > span.tt", "span.updateon > em"]
 
 
 [cfa]
@@ -28,4 +13,4 @@ url = "https://blogs.cfainstitute.org/"
 entrySelector = "div.post-item"
 titleSelector = "a.post-title"
 linkSelector = "a.post-title"
-
+contentSelector = "p"
