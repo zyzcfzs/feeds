@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blogs.cfainstitute.org/</id>
     <title>CFA Institute Daily Browse</title>
-    <updated>2024-06-14T15:23:01.661Z</updated>
+    <updated>2024-06-14T17:35:48.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blogs.cfainstitute.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Book Review: My Value Creation Journey]]></title>
+        <id>https://blogs.cfainstitute.org/investor/2024/06/14/book-review-my-value-creation-journey/</id>
+        <link href="https://blogs.cfainstitute.org/investor/2024/06/14/book-review-my-value-creation-journey/"/>
+        <updated>2024-06-14T17:35:46.473Z</updated>
+        <content type="html"><![CDATA[Bartley J. Madden has produced a book that challenges business leaders and investment professionals to think outside the box systematically to solve difficult problems.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private Markets’ Governance: A New Era]]></title>
+        <id>https://blogs.cfainstitute.org/investor/2024/06/14/private-markets-governance-a-new-era/</id>
+        <link href="https://blogs.cfainstitute.org/investor/2024/06/14/private-markets-governance-a-new-era/"/>
+        <updated>2024-06-14T17:35:46.475Z</updated>
+        <content type="html"><![CDATA[Now that the SEC Private Fund Adviser rules have been struck down, it's incumbent on the industry to demonstrate how private ordering can work.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Interplay Between Cap Rates and Interest Rates]]></title>
         <id>https://blogs.cfainstitute.org/investor/2024/06/13/the-interplay-between-cap-rates-and-interest-rates/</id>
@@ -60,19 +74,5 @@
         <link href="https://blogs.cfainstitute.org/investor/2024/06/03/monetary-policy-and-financial-conditions-meaningful-relationship/"/>
         <updated>2024-06-14T02:26:06.520Z</updated>
         <content type="html"><![CDATA[An analysis of the Fed's recent rounds of quantitative tightening (QT) and quantitative easing (QE) yields actionable insights about the relationship between monetary policy and financial conditions.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate Data in the Investment Process: Challenges, Resources, and Considerations]]></title>
-        <id>https://blogs.cfainstitute.org/marketintegrity/2024/05/31/climate-data-in-the-investment-process-challenges-resources-and-considerations/</id>
-        <link href="https://blogs.cfainstitute.org/marketintegrity/2024/05/31/climate-data-in-the-investment-process-challenges-resources-and-considerations/"/>
-        <updated>2024-06-14T02:26:06.522Z</updated>
-        <content type="html"><![CDATA[Investors should not be deterred from using climate-related data, despite its imperfections. Instead, they should understand the data’s risks and limitations and apply judgment to make effective use of it. Investors can help improve the current state of climate-related data by encouraging issuers to adopt global disclosure standards and advocating for disclosure regulations.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Quotes from Financial History to Guide Trustees]]></title>
-        <id>https://blogs.cfainstitute.org/investor/2024/05/31/five-quotes-from-financial-history-to-guide-trustees/</id>
-        <link href="https://blogs.cfainstitute.org/investor/2024/05/31/five-quotes-from-financial-history-to-guide-trustees/"/>
-        <updated>2024-06-14T02:26:06.523Z</updated>
-        <content type="html"><![CDATA[If you serve as a trustee of an institutional investment plan, these five quotes may help guide your decisions for the benefit of those who depend on your stewardship.]]></content>
     </entry>
 </feed>
