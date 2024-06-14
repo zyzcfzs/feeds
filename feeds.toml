@@ -14,3 +14,11 @@ entrySelector = "div.post-item"
 titleSelector = "a.post-title"
 linkSelector = "a.post-title"
 contentSelector = "p"
+
+[ai]
+title = "Informed AI News"
+url = "https://informedainews.com/news"
+entrySelector = "article.overflow-hidden"
+titleSelector = "h3"
+linkSelector = "a"
+contentSelector = ["p", "div.text-sm"]
