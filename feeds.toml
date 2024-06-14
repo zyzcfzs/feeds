@@ -19,4 +19,4 @@ url = "https://www.manhuagui.com/list/japan_lianzai/update.html"
 entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
-contentSelector = ["img", "span.tt","span.updateon > em"]
+contentSelector = ["a.bcover > img", "a.bcover > span.tt","span.updateon > em"]
