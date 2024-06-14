@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://informedainews.com/news</id>
+    <title>Informed AI News</title>
+    <updated>2024-06-14T21:01:44.908Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://informedainews.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tech Enthusiast Weekly]]></title>
+        <id>https://informedainews.com/docs/tech-enthusiast-weekly/2-2024-06-14</id>
+        <link href="https://informedainews.com/docs/tech-enthusiast-weekly/2-2024-06-14"/>
+        <updated>2024-06-14T21:01:43.299Z</updated>
+        <content type="html"><![CDATA[ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap 2024-06-14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-14</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-14"/>
+        <updated>2024-06-14T21:01:43.299Z</updated>
+        <content type="html"><![CDATA[ASML Unveils Next-Generation 'Hyper-NA' EUV Technology Roadmap 2024-06-14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-13</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-13"/>
+        <updated>2024-06-14T21:01:43.299Z</updated>
+        <content type="html"><![CDATA[UN Report Accuses Both Hamas and Israel of War Crimes 2024-06-13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-12</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-12"/>
+        <updated>2024-06-14T21:01:43.299Z</updated>
+        <content type="html"><![CDATA[Global Conflict Deaths Reach 30-Year High Amid Complex Conflicts 2024-06-12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-11</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-11"/>
+        <updated>2024-06-14T21:01:43.300Z</updated>
+        <content type="html"><![CDATA[Trump Faces Probation Interview Amid Legal Battle Over Hush Money Conviction 2024-06-11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-10</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-10"/>
+        <updated>2024-06-14T21:01:43.300Z</updated>
+        <content type="html"><![CDATA[Final Day of European Parliament Elections: Voters Shape the Continent's Future 2024-06-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Enthusiast Weekly]]></title>
+        <id>https://informedainews.com/docs/tech-enthusiast-weekly/2-2024-06-10</id>
+        <link href="https://informedainews.com/docs/tech-enthusiast-weekly/2-2024-06-10"/>
+        <updated>2024-06-14T21:01:43.302Z</updated>
+        <content type="html"><![CDATA[5G Commercialization in China: Economic Impact and Network Expansion 2024-06-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Enthusiast Weekly]]></title>
+        <id>https://informedainews.com/docs/ai-enthusiast-daily/3-2024-06-10</id>
+        <link href="https://informedainews.com/docs/ai-enthusiast-daily/3-2024-06-10"/>
+        <updated>2024-06-14T21:01:43.302Z</updated>
+        <content type="html"><![CDATA[Apple's WWDC 2024 to Introduce AI Enhancements in iOS 18 and iPadOS 18 2024-06-10]]></content>
+    </entry>
+</feed>
