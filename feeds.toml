@@ -28,3 +28,10 @@ url = "https://blogs.cfainstitute.org/"
 entrySelector = "div.post-item"
 titleSelector = "a.post-title"
 linkSelector = "a.post-title"
+
+[biztoc]
+title = "Biztoc News"
+url = "https://biztoc.com/light"
+entrySelector = "ul > li"
+titleSelector = "a"
+linkSelector = "a"
