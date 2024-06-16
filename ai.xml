@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://informedainews.com/news</id>
     <title>Informed AI News</title>
-    <updated>2024-06-15T17:33:28.401Z</updated>
+    <updated>2024-06-16T05:35:31.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://informedainews.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-16</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-16"/>
+        <updated>2024-06-16T05:35:30.126Z</updated>
+        <content type="html"><![CDATA[Global Leaders Convene in Switzerland to Forge Ukraine Peace Plan 2024-06-16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World News Daily]]></title>
         <id>https://informedainews.com/docs/world-news-daily/1-2024-06-15</id>
@@ -53,12 +60,5 @@
         <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-10"/>
         <updated>2024-06-14T21:01:43.300Z</updated>
         <content type="html"><![CDATA[Final Day of European Parliament Elections: Voters Shape the Continent's Future 2024-06-10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Enthusiast Weekly]]></title>
-        <id>https://informedainews.com/docs/tech-enthusiast-weekly/2-2024-06-10</id>
-        <link href="https://informedainews.com/docs/tech-enthusiast-weekly/2-2024-06-10"/>
-        <updated>2024-06-14T21:01:43.302Z</updated>
-        <content type="html"><![CDATA[5G Commercialization in China: Economic Impact and Network Expansion 2024-06-10]]></content>
     </entry>
 </feed>
