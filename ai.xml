@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://informedainews.com/news</id>
     <title>Informed AI News</title>
-    <updated>2024-06-16T22:30:31.393Z</updated>
+    <updated>2024-06-17T05:37:54.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://informedainews.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI Enthusiast Weekly]]></title>
+        <id>https://informedainews.com/docs/ai-enthusiast-weekly/3-2024-06-17</id>
+        <link href="https://informedainews.com/docs/ai-enthusiast-weekly/3-2024-06-17"/>
+        <updated>2024-06-17T05:37:53.143Z</updated>
+        <content type="html"><![CDATA[Malaysia Announces New AI-Driven Port to Enhance Logistics Efficiency 2024-06-17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World News Daily]]></title>
+        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-17</id>
+        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-17"/>
+        <updated>2024-06-17T05:37:53.145Z</updated>
+        <content type="html"><![CDATA[Biden's LA Fundraiser with Obama and Hollywood Stars Raises $28 Million 2024-06-17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World News Daily]]></title>
         <id>https://informedainews.com/docs/world-news-daily/1-2024-06-16</id>
@@ -46,19 +60,5 @@
         <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-12"/>
         <updated>2024-06-14T21:01:43.299Z</updated>
         <content type="html"><![CDATA[Global Conflict Deaths Reach 30-Year High Amid Complex Conflicts 2024-06-12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World News Daily]]></title>
-        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-11</id>
-        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-11"/>
-        <updated>2024-06-14T21:01:43.300Z</updated>
-        <content type="html"><![CDATA[Trump Faces Probation Interview Amid Legal Battle Over Hush Money Conviction 2024-06-11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World News Daily]]></title>
-        <id>https://informedainews.com/docs/world-news-daily/1-2024-06-10</id>
-        <link href="https://informedainews.com/docs/world-news-daily/1-2024-06-10"/>
-        <updated>2024-06-14T21:01:43.300Z</updated>
-        <content type="html"><![CDATA[Final Day of European Parliament Elections: Voters Shape the Continent's Future 2024-06-10]]></content>
     </entry>
 </feed>
