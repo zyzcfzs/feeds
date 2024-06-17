@@ -35,6 +35,8 @@ jobs:
         cp -r ../public/. .
         sed -i 's#//cf.mhgui.com#https://cf.mhgui.com#g' ./manga.xml
         sed -i 's#//cf.mhgui.com#https://cf.mhgui.com#g' ./manga.json
+        sed -i 's/data-src/src/g' ./manga.xml
+        sed -i 's/data-src/src/g' ./manga.json
         git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
         git push gh-pages-remote gh-pages:gh-pages
