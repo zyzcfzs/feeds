@@ -11,6 +11,7 @@ url = "https://blogs.cfainstitute.org/"
 entrySelector = "div.post-item"
 titleSelector = "a.post-title"
 linkSelector = "a.post-title"
+contentSelector = ["a.image-wrapper", "p"]
 
 [ai]
 title = "Informed AI News"
