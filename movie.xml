@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-06-18T20:19:17.194Z</updated>
+    <updated>2024-06-18T20:26:24.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[陆月 19 星期三 宜   追求]]></title>
         <id>https://www.cikeee.cc/mov/679993314857536/</id>
-        <link href="https://www.cikeee.cc/mov/679993314857536/"/>
+        <link />
         <updated>2024-06-18T17:05:11.214Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993314857536/" target="_blank">
+        <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
                             <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993314857536.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679993314857536/?>" target="_blank">8.1分&nbsp;剧情&nbsp;2021&nbsp;俄罗斯</div>
+                    <div id="movie-information"  >8.1分&nbsp;剧情&nbsp;2021&nbsp;俄罗斯</div>
                     
                     <blockquote id="movie-text">因为你不知道他们的名字，所以他们才会变成无名之辈。</blockquote>
-                    <div id="movie-name" href="/mov/679993314857536/" target="_blank">——《波斯语课》</div>]]></content>
+                    <div id="movie-name"  >——《波斯语课》</div>]]></content>
     </entry>
 </feed>
