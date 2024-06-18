@@ -9,6 +9,6 @@ linkSelector = "p.ell > a"
 title = "电影日历"
 url = "https://www.cikeee.cc/"
 entrySelector = "div#main-wrap"
-titleSelector = "div#day-wrap"
+titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
 linkSelector = "a#movie-img-a"
 contentSelector = "div#movie-wrap"
