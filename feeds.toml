@@ -5,8 +5,9 @@ entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
 
-[article]
-title = "每日一文"
-url = "https://www.qhsou.com/one/"
-entrySelector = "div.container"
-titleSelector = "h3"
+[movie]
+title = "电影日历"
+url = "https://www.cikeee.cc/"
+entrySelector = "div#main-wrap"
+titleSelector = "div#day-wrap"
+linkSelector = "a#movie-img-a"
