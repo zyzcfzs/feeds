@@ -5,10 +5,3 @@ entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
 
-[cfa]
-title = "CFA Institute Daily Browse"
-url = "https://blogs.cfainstitute.org/"
-entrySelector = "div.post-item"
-titleSelector = "a.post-title"
-linkSelector = "a.post-title"
-contentSelector = ["div.small-12.medium-5.columns", "p"]
