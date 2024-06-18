@@ -1,7 +1,19 @@
 [manga]
-title = "看漫画 - 日本漫画"
-url = "https://www.manhuagui.com/list/japan_lianzai/update.html"
+title = "看漫画"
+url = "https://www.manhuagui.com/list/japan/update.html"
 entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
 
+[movie]
+title = "电影日历"
+url = "https://www.cikeee.cc/"
+entrySelector = "div#main-wrap"
+titleSelector = "div#day-wrap"
+linkSelector = "a#movie-img-a"
+
+[article]
+title = "每日一文"
+url = "https://www.qhsou.com/one/"
+entrySelector = "div.container"
+titleSelector = "h3"
