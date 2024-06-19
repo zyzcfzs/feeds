@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rpc.cfainstitute.org/</id>
     <title>CFA Institute Research</title>
-    <updated>2024-06-19T19:54:59.576Z</updated>
+    <updated>2024-06-19T20:10:17.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://uxpatterns.cfainstitute.org/Content/img/2x/logos/touch-icon-192x192.png?v=ZbXH6_DPPVuE1_tHWCXyO4nyZGmjhbZ3kTC1Azd9Cvw1</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://rpc.cfainstitute.org/en/research/reports/2024/gender-identity-important-factor-in-promotion</id>
         <link href="https://rpc.cfainstitute.org/en/research/reports/2024/gender-identity-important-factor-in-promotion"/>
         <updated>2024-06-19T19:54:58.614Z</updated>
-        <content type="html"><![CDATA[<img src="/-/media/images/cards/new-brand-people-at-work/woman-data-science.jpg?h=443&amp;w=664&amp;la=en&amp;hash=66A24800F11A1F1BCF14D2EBCD25DFB4" class="brand-card__media media__ratio--wide" loading="lazy" alt="woman-data-science">				<div class="brand-card__content">
+        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/new-brand-people-at-work/woman-data-science.jpg?h=443&amp;w=664&amp;la=en&amp;hash=66A24800F11A1F1BCF14D2EBCD25DFB4" class="brand-card__media media__ratio--wide" loading="lazy" alt="woman-data-science">				<div class="brand-card__content">
 <span class="brand-card__content-category">Research Report</span>
 <h4 class="brand-card__content-title">New Study Indicates Gender Identity an Important Factor in Likelihood of Promotion</h4>
 				</div>
@@ -21,7 +21,7 @@
         <id>https://rpc.cfainstitute.org/en/research/reports/2024/gender-diversity-in-investment-management</id>
         <link href="https://rpc.cfainstitute.org/en/research/reports/2024/gender-diversity-in-investment-management"/>
         <updated>2024-06-19T19:54:58.617Z</updated>
-        <content type="html"><![CDATA[<img src="/-/media/images/cards/new-brand-portraits/portrait-woman-12.jpg?h=443&amp;w=664&amp;la=en&amp;hash=D7CA8164DC5BB74DC9E45C2833C96E34" class="brand-card__media media__ratio--wide" loading="lazy" alt="portrait-woman-12">				<div class="brand-card__content">
+        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/new-brand-portraits/portrait-woman-12.jpg?h=443&amp;w=664&amp;la=en&amp;hash=D7CA8164DC5BB74DC9E45C2833C96E34" class="brand-card__media media__ratio--wide" loading="lazy" alt="portrait-woman-12">				<div class="brand-card__content">
 <span class="brand-card__content-category">Research Report</span>
 <h4 class="brand-card__content-title">Gender Diversity in Investment Management: The Challenge and a Solution</h4>
 				</div>
@@ -32,7 +32,7 @@
         <id>https://take15audio.libsyn.com/alfonso-ricciardelli-alternative-credit</id>
         <link href="https://take15audio.libsyn.com/alfonso-ricciardelli-alternative-credit"/>
         <updated>2024-06-19T19:54:58.618Z</updated>
-        <content type="html"><![CDATA[<img src="/-/media/images/cards/podcast-page/2024/EI524-AlfonsoRicciardelli-1920x1080.png?h=374&amp;w=664&amp;la=en&amp;hash=FF22C6E93119DFF8F1733B6593378BD6" class="brand-card__media media__ratio--wide" loading="lazy" alt="Alfonso Ricciardelli">				<div class="brand-card__content">
+        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/podcast-page/2024/EI524-AlfonsoRicciardelli-1920x1080.png?h=374&amp;w=664&amp;la=en&amp;hash=FF22C6E93119DFF8F1733B6593378BD6" class="brand-card__media media__ratio--wide" loading="lazy" alt="Alfonso Ricciardelli">				<div class="brand-card__content">
 <span class="brand-card__content-category">Podcast</span>
 <h4 class="brand-card__content-title">Alfonso Ricciardelli: Alternative Credit</h4>
 				</div>
