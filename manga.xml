@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.manhuagui.com/list/japan/update.html</id>
+    <id>https://www.manhuagui.com/update.html</id>
     <title>看漫画</title>
-    <updated>2024-06-19T05:37:27.195Z</updated>
+    <updated>2024-06-19T07:35:35.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.manhuagui.com/list/japan/favicon.ico</icon>
+    <icon>https://www.manhuagui.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[SANDA]]></title>
         <id>https://www.manhuagui.com/comic/41960/</id>
@@ -38,7 +38,7 @@
         <id>https://www.manhuagui.com/comic/52842/</id>
         <link href="https://www.manhuagui.com/comic/52842/"/>
         <updated>2024-06-19T05:37:22.178Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52842.jpg" alt="Undark"><div class="tt">更新至第01话</div><div class="updateon">更新于：2024-06-19<p>评分： <b>8.4</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52842.jpg" alt="Undark"><div class="tt">更新至第01话</div><div class="updateon">更新于：2024-06-19<p>评分： <b>8.3</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[地元最高！]]></title>
