@@ -12,3 +12,11 @@ entrySelector = "div#main-wrap"
 titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
 linkSelector = "a#movie-img-a"
 contentSelector = "div#movie-wrap"
+
+[cfa]
+title = "CFA Institute Research"
+url = "https://rpc.cfainstitute.org/"
+entrySelector = "section.grid__item--initial a.brand-card.flex__item"
+titleSelector = "h4"
+filters = ["Financial Analysts Journal"]
+
