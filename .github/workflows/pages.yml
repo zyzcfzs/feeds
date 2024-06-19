@@ -34,6 +34,7 @@ jobs:
         git rm -r .
         cp -r ../public/. .
         sed -i -e 's#//cf.mhgui.com#https://cf.mhgui.com#g' -e 's/data-src/src/g' -e 's/<p class="ell">.*<\/p>//g' -e 's/<span class="bg"><\/span>//g' -e 's/<span class="sl"><\/span>//g' -e 's/span/div/g' -e 's/<em>\(.*\)<\/em>/<p>评分： <b>\1<\/b><\/p>/g' -e 's/<a[^>]*>//g;s/<\/a>//g' ./manga.xml
+        sed -i 's#list/japan/##g' ./manga.xml
         sed -i -e 's#/uploads#https://www.cikeee.cc/uploads#g' -e '/<div id="movie-img-fixed">.*<\/div>/d' -e 's/span/blockquote/g' -e 's/<a/<div/g' -e 's/a>/div>/g' -e 's/target.*"//g' -e 's/href.*"//g' ./movie.xml
         git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
