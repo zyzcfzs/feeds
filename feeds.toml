@@ -18,5 +18,6 @@ title = "CFA Institute Research"
 url = "https://rpc.cfainstitute.org/"
 entrySelector = "section.grid__item--initial a.brand-card.flex__item"
 titleSelector = "h4"
+linkSelector = "*"
 filters = ["Financial Analysts Journal"]
 
