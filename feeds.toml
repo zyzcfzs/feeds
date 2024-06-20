@@ -1,11 +1,4 @@
 [manga]
-title = "看漫画"
-url = "https://www.manhuagui.com/list/japan/update.html"
-entrySelector = "ul#contList > li"
-titleSelector = "p.ell"
-linkSelector = "p.ell > a"
-
-[update]
 title = "漫画更新"
 url = "https://www.manhuagui.com/update/"
 entrySelector = "div.latest-cont"
@@ -13,19 +6,4 @@ linkSelector = "h5:first-child a"
 titleSelector = "h5:first-child > strong"
 contentSelector = "div.latest-list:nth-child(2)"
 
-[movie]
-title = "电影日历"
-url = "https://www.cikeee.cc/"
-entrySelector = "div#main-wrap"
-titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
-linkSelector = "a#movie-img-a"
-contentSelector = "div#movie-wrap"
-
-[cfa]
-title = "CFA Institute Research"
-url = "https://rpc.cfainstitute.org/"
-entrySelector = "section.grid__item--initial a.brand-card.flex__item"
-titleSelector = "h4"
-linkSelector = "*"
-filters = ["Financial Analysts Journal"]
 
