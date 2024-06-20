@@ -5,6 +5,14 @@ entrySelector = "ul#contList > li"
 titleSelector = "p.ell"
 linkSelector = "p.ell > a"
 
+[update]
+title = "漫画更新"
+url = "https://www.manhuagui.com/update/"
+entrySelector = "div.latest-cont"
+linkSelector = "h5:first-child a"
+titleSelector = "h5:first-child > strong"
+contentSelector = "div.latest-list:first-child"
+
 [movie]
 title = "电影日历"
 url = "https://www.cikeee.cc/"
