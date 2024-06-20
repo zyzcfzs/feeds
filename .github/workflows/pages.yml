@@ -33,8 +33,8 @@ jobs:
         cd gh-pages
         git rm -r .
         cp -r ../public/. .
-        sed -i -e 's#//cf.mhgui.com#https://cf.mhgui.com#g' -e 's/data-src/src/g' -e 's/<p/<h3/g' -e 's/p>/h3>/g' -e 's/<li/<div/g' -e 's/li>/div>/g' ./manga.xml
-        sed -i -e 's/<em>/<div> 评分为：/g' -e 's/em>/div>/g' ./manga.xml
+        sed -i -e 's#//cf.mhgui.com#https://cf.mhgui.com#g' -e 's/data-src/src/g' -e 's/<p/<h3/g' -e 's/p>/h3>/g' -e 's/<li/<section/g' -e 's#</li>#</section><hr>#g' ./manga.xml
+        sed -i -e 's/<em>/<h6> 评分为：/g' -e 's/em>/h6>/g' -e 's/<span class="updateon"/<div/g' -e 's#</h6></span>#</h6></div>#g' ./manga.xml
         git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
         git push gh-pages-remote gh-pages:gh-pages

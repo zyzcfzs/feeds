@@ -2,6 +2,6 @@
 title = "看漫画"
 url = "https://www.manhuagui.com/list/update.html"
 entrySelector = "div.book-list"
-titleSelector = "ul#contList > li:first-child p.ell"
+titleSelector = "ul#contList > li:first-child span.updateon"
 linkSelector = "ul#contList > li:first-child a.bcover"
 contentSelector = "ul#contList"
