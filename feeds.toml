@@ -4,6 +4,4 @@ url = "https://www.manhuagui.com/update/"
 entrySelector = "div.latest-cont"
 linkSelector = "h5:first-child a"
 titleSelector = "h5:first-child > strong"
-contentSelector = "div.latest-list:nth-child(2)"
-
-
+contentSelector = ["div.latest-list:nth-child(2)", "div.latest-list:nth-child(4)"]
