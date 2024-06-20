@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/update/</id>
     <title>漫画更新</title>
-    <updated>2024-06-20T16:50:44.087Z</updated>
+    <updated>2024-06-20T16:55:43.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/update/favicon.ico</icon>
     <entry>
@@ -10,6 +10,6 @@
         <id>https://www.manhuagui.com/update/#</id>
         <link href="https://www.manhuagui.com/update/#"/>
         <updated>2024-06-20T15:57:49.380Z</updated>
-        <content type="html"><![CDATA[<ul><li><a class="cover" href="/comic/38917/" title="天下第一日本最强武士选拔赛"><img src="https://cf.mhgui.com/cpic/m/38917.jpg" alt="天下第一日本最强武士选拔赛"><span class="bg"></span><span class="tt">更新至38话</span><span class="sl"></span></a><h3 class="ell"><a href="/comic/38917/" title="天下第一日本最强武士选拔赛">天下第一日本最强武士选拔赛</a></h3><span class="dt"></span></li><li><a class="cover" href="/comic/20224/" title="博人传BORUTO"><img src="https://cf.mhgui.com/cpic/m/20224.jpg" alt="博人传BORUTO"><span class="bg"></span><span class="tt">更新至91话</span><span class="sl"></span></a><h3 class="ell"><a href="/comic/20224/" title="博人传BORUTO">博人传BORUTO</a></h3><span class="dt"></span></li></ul>]]></content>
+        <content type="html"><![CDATA[<ul><li><a class="cover" href="/comic/38917/" title="天下第一日本最强武士选拔赛"><img src="https://cf.mhgui.com/cpic/m/38917.jpg" alt="天下第一日本最强武士选拔赛"><span class="bg"></span><span class="tt">更新至38话</span><span class="sl"></span></a><h3 class="ell"><a href="/comic/38917/" title="天下第一日本最强武士选拔赛">天下第一日本最强武士选拔赛</a></h3><span class="dt"><em>2024-06-21</em></span></li><li><a class="cover" href="/comic/20224/" title="博人传BORUTO"><img src="https://cf.mhgui.com/cpic/m/20224.jpg" alt="博人传BORUTO"><span class="bg"></span><span class="tt">更新至91话</span><span class="sl"></span></a><h3 class="ell"><a href="/comic/20224/" title="博人传BORUTO">博人传BORUTO</a></h3><span class="dt"><em>2024-06-21</em></span></li></ul>]]></content>
     </entry>
 </feed>
