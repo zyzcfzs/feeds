@@ -34,8 +34,6 @@ jobs:
         git rm -r .
         cp -r ../public/. .
         sed -i -e 's#//cf.mhgui.com#https://cf.mhgui.com#g' -e 's/data-src/src/g' -e 's/<p/<h3/g' -e 's/p>/h3>/g' ./manga.xml
-        sed -i -E 's#<em>.{10}</em>##g' ./manga.xml
-        sed -i -e 's/<span class="dt"><\/span>/<hr>/g' ./manga.xml
         git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
         git push gh-pages-remote gh-pages:gh-pages
