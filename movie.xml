@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cikeee.cc/</id>
+    <title>电影日历</title>
+    <updated>2024-06-24T14:19:37.100Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cikeee.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[陆月 24 星期一 宜   心中有光]]></title>
+        <id>https://www.cikeee.cc/mov/680139869519358/</id>
+        <link />
+        <updated>2024-06-24T14:19:33.138Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a"  >
+                        <div id="movie-img-box">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139869519358.jpg" alt="">
+                        </div>
+                    </div>
+                    <div id="movie-information"  >7.8分&nbsp;剧情/喜剧/冒险&nbsp;2004&nbsp;美国</div>
+                    
+                    <blockquote id="movie-text">我们驾驶着破烂不堪的船，向着家的方向行驶而去。</blockquote>
+                    <div id="movie-name"  >——《水中生活》</div>]]></content>
+    </entry>
+</feed>
