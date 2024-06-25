@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-06-24T14:19:37.100Z</updated>
+    <updated>2024-06-25T01:14:34.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[陆月 24 星期一 宜   心中有光]]></title>
-        <id>https://www.cikeee.cc/mov/680139869519358/</id>
+        <title type="html"><![CDATA[陆月 25 星期二 宜   珍惜]]></title>
+        <id>https://www.cikeee.cc/mov/680003998976323/</id>
         <link />
-        <updated>2024-06-24T14:19:33.138Z</updated>
+        <updated>2024-06-25T01:14:31.203Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139869519358.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680003998976323.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >7.8分&nbsp;剧情/喜剧/冒险&nbsp;2004&nbsp;美国</div>
+                    <div id="movie-information"  >7.5分&nbsp;科幻/动画&nbsp;2009&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我们驾驶着破烂不堪的船，向着家的方向行驶而去。</blockquote>
-                    <div id="movie-name"  >——《水中生活》</div>]]></content>
+                    <blockquote id="movie-text">有的时候，恐惧是最恰当的反应。</blockquote>
+                    <div id="movie-name"  >——《机器人9号》</div>]]></content>
     </entry>
 </feed>
