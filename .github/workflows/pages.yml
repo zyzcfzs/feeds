@@ -33,7 +33,7 @@ jobs:
         cd gh-pages
         git rm -r .
         cp -r ../public/. .
-        sed -i -e 's#//cf.mhgui.com#https://cf.mhgui.com#g' -e 's/data-src/src/g' -e 's/<p/<h3/g' -e 's/p>/h3>/g' -e 's/<li>/<section>/g' -e 's#</li>#</section><hr>#g' ./manga.xml
+        sed -i -e 's#//cf.mhgui.com#https://cf.mhgui.com#g' -e 's/data-src/src/g' -e 's/<p/<h3/g' -e 's/p>/h3>/g' -e 's/<li>/<section>/g' -e 's#</li>#</section>#g' ./manga.xml
         sed -i -e 's/<em>/<div><b> 评分：/g' -e 's#</em>#</b></div>#g' -e 's/<span/<div/g' -e 's/span>/div>/g' ./manga.xml
         sed -i -e 's#[0-9]\.[0-9]]]>#]]>#' -e 's#<id>.*</id>#<id>https://www\.manhuagui\.com/</id>#' -e 's#<link href="https://www.manhuagui.com/comic/[0-9]*/"/>#<link href="https://www.manhuagui.com/"/>#g' ./manga.xml
         sed -i -e 's#/-/media#https://rpc\.cfainstitute\.org/-/media#g' ./cfa.xml
