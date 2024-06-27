@@ -21,3 +21,11 @@ entrySelector = "section.grid__item--initial a.brand-card.flex__item"
 titleSelector = "h4"
 linkSelector = "*"
 filters = ["Financial Analysts Journal"]
+
+[github]
+title = "Github Trending Daily"
+url = "https://github.com/trending"
+entrySelector = "div.Box"
+titleSelector = "article:first-child h2"
+linkSelector = "nav a:first-child"
+contentSelector = "div:nth-child(2)"
