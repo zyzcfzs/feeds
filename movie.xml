@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cikeee.cc/</id>
+    <title>电影日历</title>
+    <updated>2024-06-27T18:18:20.965Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cikeee.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[陆月 28 星期五 宜   胸有成竹]]></title>
+        <id>https://www.cikeee.cc/mov/679906428347436/</id>
+        <link />
+        <updated>2024-06-27T18:18:17.409Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a"  >
+                        <div id="movie-img-box">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679906428347436.jpg" alt="">
+                        </div>
+                    </div>
+                    <div id="movie-information"  >8.3分&nbsp;剧情/惊悚/犯罪&nbsp;1983&nbsp;美国</div>
+                    
+                    <blockquote id="movie-text">不要低估别人的贪婪！</blockquote>
+                    <div id="movie-name"  >——《疤面煞星》</div>]]></content>
+    </entry>
+</feed>
