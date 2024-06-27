@@ -6,6 +6,14 @@ titleSelector = "ul#contList > li:first-child span.updateon"
 linkSelector = "ul#contList > li:first-child a.bcover"
 contentSelector = "ul#contList"
 
+[movie]
+title = "电影日历"
+url = "https://www.cikeee.cc/"
+entrySelector = "div#main-wrap"
+titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
+linkSelector = "a#movie-img-a"
+contentSelector = "div#movie-wrap"
+
 [cfa]
 title = "CFA Institute Research"
 url = "https://rpc.cfainstitute.org/"
