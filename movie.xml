@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-06-26T12:34:11.719Z</updated>
+    <updated>2024-06-27T01:14:42.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[陆月 26 星期三 宜   专注]]></title>
-        <id>https://www.cikeee.cc/mov/674535262520383/</id>
+        <title type="html"><![CDATA[陆月 27 星期四 宜   惜时如金]]></title>
+        <id>https://www.cikeee.cc/mov/674000298754928/</id>
         <link />
-        <updated>2024-06-26T01:14:21.923Z</updated>
+        <updated>2024-06-27T01:14:38.736Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/105d/674535262520383.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/674000298754928.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >7.5分&nbsp;剧情/动作/科幻&nbsp;2014&nbsp;韩国</div>
+                    <div id="movie-information"  >8.5分&nbsp;剧情/爱情/犯罪&nbsp;1990&nbsp;中国香港</div>
                     
-                    <blockquote id="movie-text">每个人都有自己注定的位置，大家都在自己的位置上。</blockquote>
-                    <div id="movie-name"  >——《雪国列车》</div>]]></content>
+                    <blockquote id="movie-text">世界上有一种鸟是没有脚的，它只可以一直的飞呀飞，飞得累了便在风中睡觉。</blockquote>
+                    <div id="movie-name"  >——《阿飞正传》</div>]]></content>
     </entry>
 </feed>
