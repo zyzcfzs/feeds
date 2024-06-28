@@ -1,10 +1,9 @@
 [manga]
 title = "看漫画"
-url = "https://www.manhuagui.com/list/update.html"
-entrySelector = "div.book-list"
-titleSelector = "ul#contList > li:first-child span.updateon"
-linkSelector = "ul#contList > li:first-child a.bcover"
-contentSelector = "ul#contList"
+url = "https://www.manhuagui.com/list/japan/update.html"
+entrySelector = "ul#contList > li"
+titleSelector = "p.ell"
+linkSelector = "p.ell > a"
 
 [movie]
 title = "电影日历"
