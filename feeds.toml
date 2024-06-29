@@ -1,22 +1,6 @@
 [manga]
 title = "看漫画"
-url = "https://www.manhuagui.com/list/japan/update.html"
-entrySelector = "ul#contList > li"
-titleSelector = "p.ell"
-linkSelector = "p.ell > a"
-
-[movie]
-title = "电影日历"
-url = "https://www.cikeee.cc/"
-entrySelector = "div#main-wrap"
-titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
-linkSelector = "a#movie-img-a"
-contentSelector = "div#movie-wrap"
-
-[cfa]
-title = "CFA Institute Research"
-url = "https://rpc.cfainstitute.org/"
-entrySelector = "section.grid__item--initial a.brand-card.flex__item"
-titleSelector = "h4"
-linkSelector = "*"
-filters = ["Financial Analysts Journal"]
+url = "https://www.manhuagui.com/update/"
+entrySelector = "div.latest-list:nth-child(2) li"
+linkSelector = "a.cover"
+titleSelector = "p.ell a"
