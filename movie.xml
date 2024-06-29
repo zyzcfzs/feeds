@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-06-28T15:53:48.721Z</updated>
+    <updated>2024-06-29T00:00:47.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[陆月 28 星期五 宜   胸有成竹]]></title>
-        <id>https://www.cikeee.cc/mov/679906428347436/</id>
+        <title type="html"><![CDATA[陆月 29 星期六 宜   追梦]]></title>
+        <id>https://www.cikeee.cc/mov/675706868954667/</id>
         <link />
-        <updated>2024-06-27T18:18:17.409Z</updated>
+        <updated>2024-06-29T00:00:43.670Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679906428347436.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706868954667.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.3分&nbsp;剧情/惊悚/犯罪&nbsp;1983&nbsp;美国</div>
+                    <div id="movie-information"  >7.5分&nbsp;悬疑/恐怖&nbsp;1998&nbsp;日本</div>
                     
-                    <blockquote id="movie-text">不要低估别人的贪婪！</blockquote>
-                    <div id="movie-name"  >——《疤面煞星》</div>]]></content>
+                    <blockquote id="movie-text">如果，我真的可以重生的话，即使违背天意，我也要留在你身边。</blockquote>
+                    <div id="movie-name"  >——《午夜凶铃》</div>]]></content>
     </entry>
 </feed>
