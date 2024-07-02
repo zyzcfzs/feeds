@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.cikeee.cc/</id>
+    <title>电影日历</title>
+    <updated>2024-07-02T00:18:27.582Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.cikeee.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[柒月 02 星期二 宜   一鸣惊人]]></title>
+        <id>https://www.cikeee.cc/mov/674844777630180/</id>
+        <link />
+        <updated>2024-07-02T00:18:24.199Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a"  >
+                        <div id="movie-img-box">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/106d/674844777630180.jpg" alt="">
+                        </div>
+                    </div>
+                    <div id="movie-information"  >9.6分&nbsp;剧情/爱情/同性&nbsp;1993&nbsp;中国大陆</div>
+                    
+                    <blockquote id="movie-text">说的是一辈子！差一年，一个月，一天，一个时辰，都不算一辈子！</blockquote>
+                    <div id="movie-name"  >——《霸王别姬》</div>]]></content>
+    </entry>
+</feed>
