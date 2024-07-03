@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rpc.cfainstitute.org/</id>
     <title>CFA Institute Research</title>
-    <updated>2024-07-02T12:32:58.259Z</updated>
+    <updated>2024-07-03T01:17:04.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://uxpatterns.cfainstitute.org/Content/img/2x/logos/touch-icon-192x192.png?v=ZbXH6_DPPVuE1_tHWCXyO4nyZGmjhbZ3kTC1Azd9Cvw1</icon>
+    <entry>
+        <title type="html"><![CDATA[David Blanchett, CFA: The Role of Commodities in Portfolio Allocation]]></title>
+        <id>https://take15audio.libsyn.com/david-blanchett-cfa-the-role-of-commodities-in-portfolio-allocation</id>
+        <link href="https://take15audio.libsyn.com/david-blanchett-cfa-the-role-of-commodities-in-portfolio-allocation"/>
+        <updated>2024-07-03T01:17:04.356Z</updated>
+        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/podcast-page/2024/EI525David-Blanchett-CFA1920x1080.png?h=374&amp;w=664&amp;la=en&amp;hash=E717495022BFEEAA8F5EF7D757A48655" class="brand-card__media media__ratio--wide" loading="lazy" alt="David Blanchett, CFA">				<div class="brand-card__content">
+<span class="brand-card__content-category">Podcast</span>
+<h4 class="brand-card__content-title">David Blanchett, CFA: The Role of Commodities in Portfolio Allocation</h4>
+				</div>
+				<!-- Brand Card Link End-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Investment Model Validation: A Guide for Practitioners]]></title>
         <id>https://rpc.cfainstitute.org/en/research/foundation/2024/investment-model-validation</id>
@@ -13,17 +24,6 @@
         <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/new-brand-people-at-work/man-leaning-over-laptop.jpg?h=443&amp;w=664&amp;la=en&amp;hash=62091834341783B9B1DB1CC3D4FEEC22" class="brand-card__media media__ratio--wide" loading="lazy" alt="man-leaning-over-laptop">				<div class="brand-card__content">
 <span class="brand-card__content-category">Research Foundation</span>
 <h4 class="brand-card__content-title">Investment Model Validation: A Guide for Practitioners</h4>
-				</div>
-				<!-- Brand Card Link End-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment Letter to UK FRC on the Sustainability Assurance Market]]></title>
-        <id>https://rpc.cfainstitute.org/en/policy/comment-letters/2020-2024/uk-frc-on-the-sustainability-assurance-market</id>
-        <link href="https://rpc.cfainstitute.org/en/policy/comment-letters/2020-2024/uk-frc-on-the-sustainability-assurance-market"/>
-        <updated>2024-07-02T00:18:26.986Z</updated>
-        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/new-brand-landscape/ocean-near-field.jpg?h=475&amp;w=664&amp;la=en&amp;hash=FF455201F4BE967D449DE04FE8BC283B" class="brand-card__media media__ratio--wide" loading="lazy" alt="Ocean near field">				<div class="brand-card__content">
-<span class="brand-card__content-category">Comment Letter</span>
-<h4 class="brand-card__content-title">Comment Letter to UK FRC on the Sustainability Assurance Market</h4>
 				</div>
 				<!-- Brand Card Link End-->]]></content>
     </entry>
