@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-07-05T12:17:33.888Z</updated>
+    <updated>2024-07-06T00:42:03.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[家里蹲公主与毒舌骑士]]></title>
+        <id>https://www.manhuagui.com/comic/46760/</id>
+        <link href="https://www.manhuagui.com/comic/46760/"/>
+        <updated>2024-07-06T00:41:56.702Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/46760.jpg" alt="家里蹲公主与毒舌骑士"><div class="tt">更新至第11话[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-06<p>评分： <b>8.5</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜘蛛侠：绿魔之影]]></title>
+        <id>https://www.manhuagui.com/comic/52986/</id>
+        <link href="https://www.manhuagui.com/comic/52986/"/>
+        <updated>2024-07-06T00:41:56.702Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52986.jpg" alt="蜘蛛侠：绿魔之影"><div class="tt">更新至第01卷</div><div class="updateon">更新于：2024-07-05<p>评分： <b>0.0</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜘蛛小子V2]]></title>
+        <id>https://www.manhuagui.com/comic/52987/</id>
+        <link href="https://www.manhuagui.com/comic/52987/"/>
+        <updated>2024-07-06T00:41:56.704Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52987.jpg" alt="蜘蛛小子V2"><div class="tt">更新至第02卷</div><div class="updateon">更新于：2024-07-05<p>评分： <b>0.0</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔷薇园传奇]]></title>
+        <id>https://www.manhuagui.com/comic/37410/</id>
+        <link href="https://www.manhuagui.com/comic/37410/"/>
+        <updated>2024-07-06T00:41:56.704Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/37410.jpg" alt="蔷薇园传奇"><div class="tt">更新至第68.2话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.4</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[死石学园]]></title>
+        <id>https://www.manhuagui.com/comic/49560/</id>
+        <link href="https://www.manhuagui.com/comic/49560/"/>
+        <updated>2024-07-06T00:41:56.704Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/49560.jpg" alt="死石学园"><div class="tt">更新至第13话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>7.3</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坂本 DAYS]]></title>
+        <id>https://www.manhuagui.com/comic/38431/</id>
+        <link href="https://www.manhuagui.com/comic/38431/"/>
+        <updated>2024-07-06T00:41:56.704Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/38431.jpg" alt="坂本 DAYS"><div class="tt">更新至第173话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.8</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怪兽8号]]></title>
+        <id>https://www.manhuagui.com/comic/36859/</id>
+        <link href="https://www.manhuagui.com/comic/36859/"/>
+        <updated>2024-07-06T00:41:56.705Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/36859.jpg" alt="怪兽8号"><div class="tt">更新至第110话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.5</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咒术回战]]></title>
+        <id>https://www.manhuagui.com/comic/28004/</id>
+        <link href="https://www.manhuagui.com/comic/28004/"/>
+        <updated>2024-07-06T00:41:56.705Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/28004.jpg" alt="咒术回战"><div class="tt">更新至第262话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.1</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终末的后宫 玄幻版]]></title>
         <id>https://www.manhuagui.com/comic/27858/</id>
@@ -164,7 +220,7 @@
         <id>https://www.manhuagui.com/comic/52796/</id>
         <link href="https://www.manhuagui.com/comic/52796/"/>
         <updated>2024-07-05T12:17:26.229Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52796.jpg" alt="「宫群」四格漫画剧场"><div class="tt">更新至时光飞逝 6月26日</div><div class="updateon">更新于：2024-07-05<p>评分： <b>6.7</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52796.jpg" alt="「宫群」四格漫画剧场"><div class="tt">更新至时光飞逝 6月26日</div><div class="updateon">更新于：2024-07-05<p>评分： <b>7.1</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[赛博朋克2077]]></title>
@@ -192,7 +248,7 @@
         <id>https://www.manhuagui.com/comic/50774/</id>
         <link href="https://www.manhuagui.com/comic/50774/"/>
         <updated>2024-07-05T12:17:26.235Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50774.jpg" alt="想让我出人头地的最强女师傅们，为了培育方针演变成修罗场"><div class="tt">更新至第10话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.9</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50774.jpg" alt="想让我出人头地的最强女师傅们，为了培育方针演变成修罗场"><div class="tt">更新至第10话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【明日方舟同人】乌有×克洛丝合集]]></title>
@@ -213,7 +269,7 @@
         <id>https://www.manhuagui.com/comic/52722/</id>
         <link href="https://www.manhuagui.com/comic/52722/"/>
         <updated>2024-07-04T12:34:23.943Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52722.jpg" alt="十天后会开始撒娇的阴暗女孩"><div class="tt">更新至第04话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.4</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52722.jpg" alt="十天后会开始撒娇的阴暗女孩"><div class="tt">更新至第04话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.5</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JK除灵师小茜]]></title>
@@ -241,62 +297,6 @@
         <id>https://www.manhuagui.com/comic/30890/</id>
         <link href="https://www.manhuagui.com/comic/30890/"/>
         <updated>2024-07-05T12:17:26.246Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/30890.jpg" alt="要我和你交往也不是不行"><div class="tt">更新至第73话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>7.8</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与今天的卜部小姐一起]]></title>
-        <id>https://www.manhuagui.com/comic/52634/</id>
-        <link href="https://www.manhuagui.com/comic/52634/"/>
-        <updated>2024-07-05T12:17:26.248Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52634.jpg" alt="与今天的卜部小姐一起"><div class="tt">更新至第02话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.6</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凌晨两点的蠢女人]]></title>
-        <id>https://www.manhuagui.com/comic/50405/</id>
-        <link href="https://www.manhuagui.com/comic/50405/"/>
-        <updated>2024-07-05T12:17:26.250Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50405.jpg" alt="凌晨两点的蠢女人"><div class="tt">更新至番外1</div><div class="updateon">更新于：2024-07-05<p>评分： <b>7.4</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱情是烤肉的滋味！]]></title>
-        <id>https://www.manhuagui.com/comic/37922/</id>
-        <link href="https://www.manhuagui.com/comic/37922/"/>
-        <updated>2024-07-04T12:34:23.947Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/37922.jpg" alt="爱情是烤肉的滋味！"><div class="tt">更新至第150话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.3</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷宫指路人]]></title>
-        <id>https://www.manhuagui.com/comic/39628/</id>
-        <link href="https://www.manhuagui.com/comic/39628/"/>
-        <updated>2024-07-05T12:17:26.253Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/39628.jpg" alt="迷宫指路人"><div class="tt">更新至第47话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.2</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔法少女三十有余]]></title>
-        <id>https://www.manhuagui.com/comic/44120/</id>
-        <link href="https://www.manhuagui.com/comic/44120/"/>
-        <updated>2024-07-05T12:17:26.254Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/44120.jpg" alt="魔法少女三十有余"><div class="tt">更新至第25话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.3</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海蓝色眼影的归乡x复仇]]></title>
-        <id>https://www.manhuagui.com/comic/43567/</id>
-        <link href="https://www.manhuagui.com/comic/43567/"/>
-        <updated>2024-07-05T12:17:26.255Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/43567.jpg" alt="海蓝色眼影的归乡x复仇"><div class="tt">更新至第25话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>8.8</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内向的女同桌是我推的歌手]]></title>
-        <id>https://www.manhuagui.com/comic/52984/</id>
-        <link href="https://www.manhuagui.com/comic/52984/"/>
-        <updated>2024-07-05T12:17:26.257Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52984.jpg" alt="内向的女同桌是我推的歌手"><div class="tt">更新至第01话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>7.3</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认识这个孩子吗？]]></title>
-        <id>https://www.manhuagui.com/comic/48568/</id>
-        <link href="https://www.manhuagui.com/comic/48568/"/>
-        <updated>2024-07-05T12:17:26.258Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/48568.jpg" alt="你认识这个孩子吗？"><div class="tt">更新至第33话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>9.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/30890.jpg" alt="要我和你交往也不是不行"><div class="tt">更新至第73话</div><div class="updateon">更新于：2024-07-05<p>评分： <b>7.6</b></p></div>]]></content>
     </entry>
 </feed>

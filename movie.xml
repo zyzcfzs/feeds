@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-05T12:17:33.908Z</updated>
+    <updated>2024-07-06T00:42:03.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 05 星期五 宜   见贤思齐]]></title>
-        <id>https://www.cikeee.cc/mov/680038690986358/</id>
+        <title type="html"><![CDATA[柒月 06 星期六 宜   豁达]]></title>
+        <id>https://www.cikeee.cc/mov/679337733351735/</id>
         <link />
-        <updated>2024-07-04T16:04:24.170Z</updated>
+        <updated>2024-07-06T00:42:00.241Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038690986358.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679337733351735.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >9.5分&nbsp;剧情/悬疑&nbsp;2018&nbsp;日本</div>
+                    <div id="movie-information"  >8.9分&nbsp;剧情&nbsp;2021&nbsp;日本</div>
                     
-                    <blockquote id="movie-text">有时间绝望，还不如去吃好吃的，然后睡个美美的觉。</blockquote>
-                    <div id="movie-name"  >——《非自然死亡》</div>]]></content>
+                    <blockquote id="movie-text">短暂的瞬间，漫长的永远。</blockquote>
+                    <div id="movie-name"  >——《入殓师》</div>]]></content>
     </entry>
 </feed>
