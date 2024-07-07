@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-06T12:16:12.177Z</updated>
+    <updated>2024-07-07T00:48:30.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 06 星期六 宜   豁达]]></title>
-        <id>https://www.cikeee.cc/mov/679337733351735/</id>
+        <title type="html"><![CDATA[柒月 07 星期日 宜   平步青云]]></title>
+        <id>https://www.cikeee.cc/mov/679993591313509/</id>
         <link />
-        <updated>2024-07-06T00:42:00.241Z</updated>
+        <updated>2024-07-07T00:48:27.036Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679337733351735.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993591313509.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.9分&nbsp;剧情&nbsp;2021&nbsp;日本</div>
+                    <div id="movie-information"  >8.0分&nbsp;剧情/惊悚/犯罪&nbsp;2001&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">短暂的瞬间，漫长的永远。</blockquote>
-                    <div id="movie-name"  >——《入殓师》</div>]]></content>
+                    <blockquote id="movie-text">无论是好的决定，还是坏的决定。只要你坚持了，它就是好的决定。</blockquote>
+                    <div id="movie-name"  >——《训练日》</div>]]></content>
     </entry>
 </feed>
