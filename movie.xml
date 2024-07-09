@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-08T12:00:31.465Z</updated>
+    <updated>2024-07-09T12:00:31.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 08 星期一 宜   心花怒放]]></title>
-        <id>https://www.cikeee.cc/mov/676755156561331/</id>
+        <title type="html"><![CDATA[柒月 09 星期二 宜   豁达]]></title>
+        <id>https://www.cikeee.cc/mov/681473748798093/</id>
         <link />
-        <updated>2024-07-08T12:00:28.007Z</updated>
+        <updated>2024-07-09T12:00:23.944Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/102d/676755156561331.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473748798093.webp" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.1分&nbsp;剧情/动作/惊悚/犯罪&nbsp;2006&nbsp;中国香港</div>
+                    <div id="movie-information"  >8.2分&nbsp;剧情/喜剧&nbsp;2009&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">生命以另一个生命为代价，才可以生存下去</blockquote>
-                    <div id="movie-name"  >——《狗咬狗》</div>]]></content>
+                    <blockquote id="movie-text">别害怕，什么都能过去。</blockquote>
+                    <div id="movie-name"  >——《斗牛》</div>]]></content>
     </entry>
 </feed>
