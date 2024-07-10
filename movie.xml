@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-09T12:00:31.809Z</updated>
+    <updated>2024-07-10T12:01:32.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 09 星期二 宜   豁达]]></title>
-        <id>https://www.cikeee.cc/mov/681473748798093/</id>
+        <title type="html"><![CDATA[柒月 10 星期三 宜   惜时]]></title>
+        <id>https://www.cikeee.cc/mov/681473704474797/</id>
         <link />
-        <updated>2024-07-09T12:00:23.944Z</updated>
+        <updated>2024-07-10T12:01:28.869Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473748798093.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473704474797.webp" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.2分&nbsp;剧情/喜剧&nbsp;2009&nbsp;中国大陆</div>
+                    <div id="movie-information"  >8.2分&nbsp;动作/科幻/惊悚&nbsp;1992&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">别害怕，什么都能过去。</blockquote>
-                    <div id="movie-name"  >——《斗牛》</div>]]></content>
+                    <blockquote id="movie-text">我们与机器人的区别是，我们将逝去的人埋葬，而机器人不能。</blockquote>
+                    <div id="movie-name"  >——《终结者》</div>]]></content>
     </entry>
 </feed>

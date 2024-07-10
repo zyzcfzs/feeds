@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rpc.cfainstitute.org/</id>
     <title>CFA Institute Research</title>
-    <updated>2024-07-09T12:00:31.808Z</updated>
+    <updated>2024-07-10T12:01:32.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://uxpatterns.cfainstitute.org/Content/img/2x/logos/touch-icon-192x192.png?v=ZbXH6_DPPVuE1_tHWCXyO4nyZGmjhbZ3kTC1Azd9Cvw1</icon>
+    <entry>
+        <title type="html"><![CDATA[Lindsey Stewart, CFA: Proxy Voting and Investor Engagement Practices]]></title>
+        <id>https://cfaesg.libsyn.com/lindsey-stewart-cfa-proxy-voting-and-investor-engagement-practices</id>
+        <link href="https://cfaesg.libsyn.com/lindsey-stewart-cfa-proxy-voting-and-investor-engagement-practices"/>
+        <updated>2024-07-10T12:01:31.529Z</updated>
+        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/podcast-page/2024/SS-LindseyStewart-1920x1080.png?h=374&amp;w=664&amp;la=en&amp;hash=020811199A6B58B2031751BAB21657C9" class="brand-card__media media__ratio--wide" loading="lazy" alt="Lindsey Stewart, CFA: Proxy Voting and Investor Engagement Practices">				<div class="brand-card__content">
+<span class="brand-card__content-category">Podcast</span>
+<h4 class="brand-card__content-title">Lindsey Stewart, CFA: Proxy Voting and Investor Engagement Practices</h4>
+				</div>
+				<!-- Brand Card Link End-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[David Blanchett, CFA: The Role of Commodities in Portfolio Allocation]]></title>
         <id>https://take15audio.libsyn.com/david-blanchett-cfa-the-role-of-commodities-in-portfolio-allocation</id>
