@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rpc.cfainstitute.org/</id>
     <title>CFA Institute Research</title>
-    <updated>2024-07-10T12:01:32.145Z</updated>
+    <updated>2024-07-11T12:00:44.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://uxpatterns.cfainstitute.org/Content/img/2x/logos/touch-icon-192x192.png?v=ZbXH6_DPPVuE1_tHWCXyO4nyZGmjhbZ3kTC1Azd9Cvw1</icon>
+    <entry>
+        <title type="html"><![CDATA[CFA Institute Survey Report on the ESG Regulatory Framework in the EU]]></title>
+        <id>https://rpc.cfainstitute.org/en/research/surveys/2024/esg-regulatory-framework-in-the-eu</id>
+        <link href="https://rpc.cfainstitute.org/en/research/surveys/2024/esg-regulatory-framework-in-the-eu"/>
+        <updated>2024-07-11T12:00:43.363Z</updated>
+        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/blogs/2024/climate-data-in-the-investment-process.jpg?h=395&amp;w=664&amp;la=en&amp;hash=750EF5B340CFE5061C4A392FC66D0355" class="brand-card__media media__ratio--wide" loading="lazy" alt="climate-data-in-the-investment-process">				<div class="brand-card__content">
+<span class="brand-card__content-category">Survey Report</span>
+<h4 class="brand-card__content-title">CFA Institute Survey Report on the ESG Regulatory Framework in the EU</h4>
+				</div>
+				<!-- Brand Card Link End-->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lindsey Stewart, CFA: Proxy Voting and Investor Engagement Practices]]></title>
         <id>https://cfaesg.libsyn.com/lindsey-stewart-cfa-proxy-voting-and-investor-engagement-practices</id>
@@ -24,17 +35,6 @@
         <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/podcast-page/2024/EI525David-Blanchett-CFA1920x1080.png?h=374&amp;w=664&amp;la=en&amp;hash=E717495022BFEEAA8F5EF7D757A48655" class="brand-card__media media__ratio--wide" loading="lazy" alt="David Blanchett, CFA">				<div class="brand-card__content">
 <span class="brand-card__content-category">Podcast</span>
 <h4 class="brand-card__content-title">David Blanchett, CFA: The Role of Commodities in Portfolio Allocation</h4>
-				</div>
-				<!-- Brand Card Link End-->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investment Model Validation: A Guide for Practitioners]]></title>
-        <id>https://rpc.cfainstitute.org/en/research/foundation/2024/investment-model-validation</id>
-        <link href="https://rpc.cfainstitute.org/en/research/foundation/2024/investment-model-validation"/>
-        <updated>2024-07-02T00:18:26.980Z</updated>
-        <content type="html"><![CDATA[<img src="https://rpc.cfainstitute.org/-/media/images/cards/new-brand-people-at-work/man-leaning-over-laptop.jpg?h=443&amp;w=664&amp;la=en&amp;hash=62091834341783B9B1DB1CC3D4FEEC22" class="brand-card__media media__ratio--wide" loading="lazy" alt="man-leaning-over-laptop">				<div class="brand-card__content">
-<span class="brand-card__content-category">Research Foundation</span>
-<h4 class="brand-card__content-title">Investment Model Validation: A Guide for Practitioners</h4>
 				</div>
 				<!-- Brand Card Link End-->]]></content>
     </entry>

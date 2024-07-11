@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-10T12:01:32.143Z</updated>
+    <updated>2024-07-11T12:00:44.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 10 星期三 宜   惜时]]></title>
-        <id>https://www.cikeee.cc/mov/681473704474797/</id>
+        <title type="html"><![CDATA[柒月 11 星期四 宜   只争朝夕]]></title>
+        <id>https://www.cikeee.cc/mov/673783640287712/</id>
         <link />
-        <updated>2024-07-10T12:01:28.869Z</updated>
+        <updated>2024-07-11T12:00:40.316Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473704474797.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/102d/673783640287712.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.2分&nbsp;动作/科幻/惊悚&nbsp;1992&nbsp;美国</div>
+                    <div id="movie-information"  >7.9分&nbsp;剧情/音乐&nbsp;1984&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">我们与机器人的区别是，我们将逝去的人埋葬，而机器人不能。</blockquote>
-                    <div id="movie-name"  >——《终结者》</div>]]></content>
+                    <blockquote id="movie-text">干石板栽葱扎不下根，咱穷人啥时候能翻身？</blockquote>
+                    <div id="movie-name"  >——《黄土地》</div>]]></content>
     </entry>
 </feed>
