@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-12T12:00:28.948Z</updated>
+    <updated>2024-07-12T20:22:06.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 12 星期五 宜   大胆去干]]></title>
-        <id>https://www.cikeee.cc/mov/680038696593014/</id>
+        <title type="html"><![CDATA[柒月 13 星期六 宜   正大光明]]></title>
+        <id>https://www.cikeee.cc/mov/674000221296928/</id>
         <link />
-        <updated>2024-07-12T12:00:25.361Z</updated>
+        <updated>2024-07-12T20:22:05.593Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038696593014.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/674000221296928.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >9.1分&nbsp;剧情&nbsp;2012&nbsp;丹麦</div>
+                    <div id="movie-information"  >7.2分&nbsp;剧情/科幻/惊悚&nbsp;2018&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">孩子最可怕就在于明明无知，却会本能地以纯真作为武器，让他人深信不疑。</blockquote>
-                    <div id="movie-name"  >——《狩猎》</div>]]></content>
+                    <blockquote id="movie-text">我不知道回去意味着什么，凭什么认为往回走就会比往前走安全呢？</blockquote>
+                    <div id="movie-name"  >——《湮灭》</div>]]></content>
     </entry>
 </feed>
