@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-14T12:20:38.976Z</updated>
+    <updated>2024-07-15T00:39:49.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 14 星期日 宜   坦然]]></title>
-        <id>https://www.cikeee.cc/mov/677023082837960/</id>
+        <title type="html"><![CDATA[柒月 15 星期一 宜   白日梦]]></title>
+        <id>https://www.cikeee.cc/mov/673852320969219/</id>
         <link />
-        <updated>2024-07-14T00:42:15.999Z</updated>
+        <updated>2024-07-15T00:39:48.985Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/103d/677023082837960.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/673852320969219.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.1分&nbsp;动作/科幻/惊悚&nbsp;2018&nbsp;美国</div>
+                    <div id="movie-information"  >8.8分&nbsp;剧情/喜剧/战争&nbsp;1964&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">机器优于人类，在我用机器咬碎你的脑袋之前，你应该记住这个。</blockquote>
-                    <div id="movie-name"  >——《升级》</div>]]></content>
+                    <blockquote id="movie-text">遏制是使敌人害怕进攻的一种艺术。</blockquote>
+                    <div id="movie-name"  >——《奇爱博士》</div>]]></content>
     </entry>
 </feed>
