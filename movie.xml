@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-15T12:15:58.930Z</updated>
+    <updated>2024-07-16T00:38:47.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 15 星期一 宜   白日梦]]></title>
-        <id>https://www.cikeee.cc/mov/673852320969219/</id>
+        <title type="html"><![CDATA[柒月 16 星期二 宜   向善]]></title>
+        <id>https://www.cikeee.cc/mov/675438392449285/</id>
         <link />
-        <updated>2024-07-15T00:39:48.985Z</updated>
+        <updated>2024-07-16T00:38:46.510Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/673852320969219.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438392449285.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.8分&nbsp;剧情/喜剧/战争&nbsp;1964&nbsp;美国</div>
+                    <div id="movie-information"  >8.8分&nbsp;剧情/喜剧/爱情&nbsp;2005&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">遏制是使敌人害怕进攻的一种艺术。</blockquote>
-                    <div id="movie-name"  >——《奇爱博士》</div>]]></content>
+                    <blockquote id="movie-text">我们总是在等待着些什么，就这么年年等下去，我们都在等。</blockquote>
+                    <div id="movie-name"  >——《幸福终点站》</div>]]></content>
     </entry>
 </feed>
