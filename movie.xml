@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-16T12:15:33.730Z</updated>
+    <updated>2024-07-17T00:39:08.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 16 星期二 宜   向善]]></title>
-        <id>https://www.cikeee.cc/mov/675438392449285/</id>
+        <title type="html"><![CDATA[柒月 17 星期三 宜   白日梦]]></title>
+        <id>https://www.cikeee.cc/mov/674267773514792/</id>
         <link />
-        <updated>2024-07-16T00:38:46.510Z</updated>
+        <updated>2024-07-17T00:39:07.650Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438392449285.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674267773514792.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >8.8分&nbsp;剧情/喜剧/爱情&nbsp;2005&nbsp;美国</div>
+                    <div id="movie-information"  >8.9分&nbsp;剧情/情色/战争&nbsp;2000&nbsp;意大利</div>
                     
-                    <blockquote id="movie-text">我们总是在等待着些什么，就这么年年等下去，我们都在等。</blockquote>
-                    <div id="movie-name"  >——《幸福终点站》</div>]]></content>
+                    <blockquote id="movie-text">后来，在我的一生中，爱过很多女人。在拥抱中她们问我会不会记住她们，但是那个我最爱的女人，她却从来没有问过我。</blockquote>
+                    <div id="movie-name"  >——《西西里的美丽传说》</div>]]></content>
     </entry>
 </feed>
