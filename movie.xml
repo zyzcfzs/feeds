@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-20T08:09:24.063Z</updated>
+    <updated>2024-07-20T16:08:21.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 20 星期六 宜   戒骄戒躁]]></title>
-        <id>https://www.cikeee.cc/mov/675706719275980/</id>
+        <title type="html"><![CDATA[柒月 21 星期日 宜   乘风破浪]]></title>
+        <id>https://www.cikeee.cc/mov/676764498397710/</id>
         <link />
-        <updated>2024-07-20T00:37:48.034Z</updated>
+        <updated>2024-07-20T16:08:20.426Z</updated>
         <content type="html"><![CDATA[<div id="movie-img-a"  >
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706719275980.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/102d/676764498397710.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information"  >7.8分&nbsp;剧情/喜剧/奇幻&nbsp;2021&nbsp;中国大陆</div>
+                    <div id="movie-information"  >7.7分&nbsp;动作/惊悚/冒险&nbsp;1990&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">打我有记忆起，妈妈就是个中年妇女的样子。所以我总忘记，妈妈曾经也是个花季少女。</blockquote>
-                    <div id="movie-name"  >——《你好，李焕英》</div>]]></content>
+                    <blockquote id="movie-text">我是政客，擅长说谎骗人</blockquote>
+                    <div id="movie-name"  >——《猎杀红色十月》</div>]]></content>
     </entry>
 </feed>
