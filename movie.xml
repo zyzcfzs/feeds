@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-21T08:10:06.563Z</updated>
+    <updated>2024-07-21T16:10:40.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 21 星期日 宜   乘风破浪]]></title>
-        <id>https://www.cikeee.cc/mov/676764498397710/</id>
-        <link href="https://www.cikeee.cc/mov/676764498397710/"/>
-        <updated>2024-07-20T16:08:20.426Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/676764498397710/" target="_blank">
+        <title type="html"><![CDATA[柒月 22 星期一 宜   开怀]]></title>
+        <id>https://www.cikeee.cc/mov/680139992134591/</id>
+        <link href="https://www.cikeee.cc/mov/680139992134591/"/>
+        <updated>2024-07-21T16:10:39.794Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139992134591/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/102d/676764498397710.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139992134591.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/676764498397710/?>" target="_blank">7.7分&nbsp;动作/惊悚/冒险&nbsp;1990&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680139992134591/?>" target="_blank">8.0分&nbsp;剧情/西部/奇幻/冒险&nbsp;1995&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我是政客，擅长说谎骗人</blockquote>
-                    <div id="movie-name" href="/mov/676764498397710/" target="_blank">——《猎杀红色十月》</div>]]></content>
+                    <blockquote id="movie-text">有些人注定享受快乐，有些人注定承受无尽的黑暗。</blockquote>
+                    <div id="movie-name" href="/mov/680139992134591/" target="_blank">——《离魂异客》</div>]]></content>
     </entry>
 </feed>
