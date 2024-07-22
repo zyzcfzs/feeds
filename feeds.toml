@@ -13,9 +13,4 @@ titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
 linkSelector = "a#movie-img-a"
 contentSelector = "div#movie-wrap"
 
-[biztoc]
-title = "BizToc"
-url = "https://biztoc.com/wire"
-entrySelector = "div#wire_news li"
-titleSelector = "a:not(span)"
-linkSelector = "a"
+
