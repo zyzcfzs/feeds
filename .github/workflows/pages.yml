@@ -6,8 +6,8 @@ on:
       - main
   schedule:
     # * is a special character in YAML so you have to quote this string
-    # Run the action every 4 hours
-    - cron:  '0 */4 * * *'
+    # Run the action every 24 hours
+    - cron:  '0 */24 * * *'
   workflow_dispatch:
 
 env:
