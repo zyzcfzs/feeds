@@ -13,4 +13,10 @@ titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
 linkSelector = "a#movie-img-a"
 contentSelector = "div#movie-wrap"
 
+[biztoc]
+title = "BitToc Hot"
+url = "https://biztoc.com/"
+entrySelector = "div#tpcontent a"
+titleSelector = "a"
+linkSelector = "a"
 
