@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://biztoc.com/</id>
+    <title>BitToc Hot</title>
+    <updated>2024-07-23T22:38:29.781Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://biztoc.com/cdn/800/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://biztoc.com/</id>
+        <link href="https://biztoc.com/"/>
+        <updated>2024-07-23T22:38:29.109Z</updated>
+        <content type="html"><![CDATA[US Investigates Delta's Flight Cancellations Amid Tech Outage]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://biztoc.com/</id>
+        <link href="https://biztoc.com/"/>
+        <updated>2024-07-23T22:38:29.110Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/0ee5ee2dbf7ec861_sq.webp" class="pl" alt="" style="visibility: visible;">                        Hydrothermal Explosion at Yellowstone National Park]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://biztoc.com/</id>
+        <link href="https://biztoc.com/"/>
+        <updated>2024-07-23T22:38:29.112Z</updated>
+        <content type="html"><![CDATA[Palestinian Authority and Hamas Strike Deal in Beijing]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://biztoc.com/</id>
+        <link href="https://biztoc.com/"/>
+        <updated>2024-07-23T22:38:29.113Z</updated>
+        <content type="html"><![CDATA[Meta CEO Pushes for Open-Source AI Development, Debuts Llama AI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://biztoc.com/</id>
+        <link href="https://biztoc.com/"/>
+        <updated>2024-07-23T22:38:29.114Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/6b2405804edca1d9_sq.webp" class="pl" alt="" style="visibility: visible;">                        GM Delays Electric Vehicle Plans Despite Growing Sales]]></content>
+    </entry>
+</feed>

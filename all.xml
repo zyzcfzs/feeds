@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyzcfzs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-23T20:15:15.345Z</updated>
+    <updated>2024-07-23T22:38:29.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[妖精的尾巴 百年任务 (看漫画)]]></title>
@@ -184,7 +184,7 @@
         <id>https://www.manhuagui.com/comic/52944/</id>
         <link href="https://www.manhuagui.com/comic/52944/"/>
         <updated>2024-07-23T12:26:11.313Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/52944/" title="扭曲御宅君一辈子性癖的异种族妹子们"><img data-src="//cf.mhgui.com/cpic/b/52944.jpg" alt="扭曲御宅君一辈子性癖的异种族妹子们"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/52944/" title="扭曲御宅君一辈子性癖的异种族妹子们">扭曲御宅君一辈子性癖的异种族妹子们</a></p><span class="updateon">更新于：2024-07-23<em>8.4</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/52944/" title="扭曲御宅君一辈子性癖的异种族妹子们"><img data-src="//cf.mhgui.com/cpic/b/52944.jpg" alt="扭曲御宅君一辈子性癖的异种族妹子们"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/52944/" title="扭曲御宅君一辈子性癖的异种族妹子们">扭曲御宅君一辈子性癖的异种族妹子们</a></p><span class="updateon">更新于：2024-07-23<em>8.5</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[令我着迷的邻家明星 (看漫画)]]></title>
@@ -313,5 +313,40 @@
                     
                     <span id="movie-text">无论多么痛苦，无论多么黑暗，无论跌的多远，绝不放弃战斗。</span>
                     <a id="movie-name" href="/mov/677620319635792/" target="_blank">——《孤独的幸存者》</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-07-23T22:38:29.109Z</updated>
+        <content type="html"><![CDATA[US Investigates Delta's Flight Cancellations Amid Tech Outage]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-07-23T22:38:29.110Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/0ee5ee2dbf7ec861_sq.webp" class="pl" alt="" style="visibility: visible;">                        Hydrothermal Explosion at Yellowstone National Park]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-07-23T22:38:29.112Z</updated>
+        <content type="html"><![CDATA[Palestinian Authority and Hamas Strike Deal in Beijing]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-07-23T22:38:29.113Z</updated>
+        <content type="html"><![CDATA[Meta CEO Pushes for Open-Source AI Development, Debuts Llama AI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-07-23T22:38:29.114Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/6b2405804edca1d9_sq.webp" class="pl" alt="" style="visibility: visible;">                        GM Delays Electric Vehicle Plans Despite Growing Sales]]></content>
     </entry>
 </feed>
