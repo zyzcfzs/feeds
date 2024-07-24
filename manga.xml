@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-07-24T12:25:23.294Z</updated>
+    <updated>2024-07-24T16:16:37.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[dogsred]]></title>
+        <id>https://www.manhuagui.com/comic/53155/</id>
+        <link href="https://www.manhuagui.com/comic/53155/"/>
+        <updated>2024-07-24T16:16:29.526Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53155.jpg" alt="dogsred"><div class="tt">更新至第02话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>8.2</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金刚狼V1]]></title>
+        <id>https://www.manhuagui.com/comic/53173/</id>
+        <link href="https://www.manhuagui.com/comic/53173/"/>
+        <updated>2024-07-24T16:16:29.526Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53173.jpg" alt="金刚狼V1"><div class="tt">更新至第01卷</div><div class="updateon">更新于：2024-07-24<p>评分： <b>0.0</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[战队大失格]]></title>
         <id>https://www.manhuagui.com/comic/42471/</id>
@@ -66,21 +80,21 @@
         <id>https://www.manhuagui.com/comic/53172/</id>
         <link href="https://www.manhuagui.com/comic/53172/"/>
         <updated>2024-07-24T12:25:16.008Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53172.jpg" alt="这周是三人"><div class="tt">更新至短篇[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-24<p>评分： <b>7.6</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53172.jpg" alt="这周是三人"><div class="tt">更新至短篇[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-24<p>评分： <b>8.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[令我着迷的邻家明星]]></title>
         <id>https://www.manhuagui.com/comic/53157/</id>
         <link href="https://www.manhuagui.com/comic/53157/"/>
         <updated>2024-07-24T08:17:21.084Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53157.jpg" alt="令我着迷的邻家明星"><div class="tt">更新至第08话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>7.8</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53157.jpg" alt="令我着迷的邻家明星"><div class="tt">更新至第08话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>7.5</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[油漆爷爷]]></title>
         <id>https://www.manhuagui.com/comic/53171/</id>
         <link href="https://www.manhuagui.com/comic/53171/"/>
         <updated>2024-07-24T12:25:16.011Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53171.jpg" alt="油漆爷爷"><div class="tt">更新至短篇[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-24<p>评分： <b>9.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53171.jpg" alt="油漆爷爷"><div class="tt">更新至短篇[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-24<p>评分： <b>8.5</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[富士茄鹰老师的推特短篇]]></title>
@@ -164,14 +178,14 @@
         <id>https://www.manhuagui.com/comic/53169/</id>
         <link href="https://www.manhuagui.com/comic/53169/"/>
         <updated>2024-07-24T08:17:21.063Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53169.jpg" alt="梨花沙都的日常"><div class="tt">更新至全一话[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-24<p>评分： <b>2.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53169.jpg" alt="梨花沙都的日常"><div class="tt">更新至全一话[完]</div><div class="fd"></div><div class="updateon">更新于：2024-07-24<p>评分： <b>6.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[绿灯侠-环保之力]]></title>
         <id>https://www.manhuagui.com/comic/53170/</id>
         <link href="https://www.manhuagui.com/comic/53170/"/>
         <updated>2024-07-24T08:17:21.064Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53170.jpg" alt="绿灯侠-环保之力"><div class="tt">更新至第01卷</div><div class="updateon">更新于：2024-07-24<p>评分： <b>6.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53170.jpg" alt="绿灯侠-环保之力"><div class="tt">更新至第01卷</div><div class="updateon">更新于：2024-07-24<p>评分： <b>4.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[婚姻毒素]]></title>
@@ -248,7 +262,7 @@
         <id>https://www.manhuagui.com/comic/38441/</id>
         <link href="https://www.manhuagui.com/comic/38441/"/>
         <updated>2024-07-24T08:17:21.082Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/38441.jpg" alt="温热的银莲花"><div class="tt">更新至第43.2话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>8.3</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/38441.jpg" alt="温热的银莲花"><div class="tt">更新至第43.2话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>8.4</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[超喜欢祥凤提督的舰娘漫画]]></title>
@@ -284,19 +298,5 @@
         <link href="https://www.manhuagui.com/comic/30252/"/>
         <updated>2024-07-24T04:15:56.184Z</updated>
         <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/30252_30.jpg" alt="电锯人"><div class="tt">更新至第172话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>9.5</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[队友太弱所以贯彻辅助的宫廷魔法师，惨遭流放目标却是最强]]></title>
-        <id>https://www.manhuagui.com/comic/41873/</id>
-        <link href="https://www.manhuagui.com/comic/41873/"/>
-        <updated>2024-07-24T04:15:56.184Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/41873.jpg" alt="队友太弱所以贯彻辅助的宫廷魔法师，惨遭流放目标却是最强"><div class="tt">更新至第129话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>8.1</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WIND BREAKER]]></title>
-        <id>https://www.manhuagui.com/comic/41632/</id>
-        <link href="https://www.manhuagui.com/comic/41632/"/>
-        <updated>2024-07-24T04:15:56.184Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/41632.jpg" alt="WIND BREAKER"><div class="tt">更新至第147话</div><div class="updateon">更新于：2024-07-24<p>评分： <b>9.0</b></p></div>]]></content>
     </entry>
 </feed>
