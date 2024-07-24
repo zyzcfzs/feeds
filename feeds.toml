@@ -17,6 +17,6 @@ contentSelector = "div#movie-wrap"
 title = "BitToc Hot"
 url = "https://biztoc.com/"
 entrySelector = "div#tpcontent a"
-titleSelector = "a"
-linkSelector = "a"
+titleSelector = "*"
+linkSelector = "*"
 
