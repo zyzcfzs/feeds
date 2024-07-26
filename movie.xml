@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-26T12:24:26.677Z</updated>
+    <updated>2024-07-26T16:18:07.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 26 星期五 宜   一鸣惊人]]></title>
-        <id>https://www.cikeee.cc/mov/675438599148775/</id>
-        <link href="https://www.cikeee.cc/mov/675438599148775/"/>
-        <updated>2024-07-25T16:18:09.836Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438599148775/" target="_blank">
+        <title type="html"><![CDATA[柒月 27 星期六 宜   坚韧]]></title>
+        <id>https://www.cikeee.cc/mov/679440014142421/</id>
+        <link href="https://www.cikeee.cc/mov/679440014142421/"/>
+        <updated>2024-07-26T16:18:04.223Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679440014142421/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438599148775.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679440014142421.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675438599148775/?>" target="_blank">8.5分&nbsp;剧情/犯罪/奇幻&nbsp;2006&nbsp;德国</div>
+                    <div id="movie-information" href="/mov/679440014142421/?>" target="_blank">8.3分&nbsp;剧情/家庭&nbsp;2012&nbsp;中国香港</div>
                     
-                    <blockquote id="movie-text">它很清新，毫不刺鼻。它像花一般，并不多愁善感。</blockquote>
-                    <div id="movie-name" href="/mov/675438599148775/" target="_blank">——《香水》</div>]]></content>
+                    <blockquote id="movie-text">笑到肚子痛，比哭到心痛好。</blockquote>
+                    <div id="movie-name" href="/mov/679440014142421/" target="_blank">——《桃姐》</div>]]></content>
     </entry>
 </feed>
