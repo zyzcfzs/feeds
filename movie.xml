@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-27T12:25:29.015Z</updated>
+    <updated>2024-07-27T16:16:27.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 27 星期六 宜   坚韧]]></title>
-        <id>https://www.cikeee.cc/mov/679440014142421/</id>
-        <link href="https://www.cikeee.cc/mov/679440014142421/"/>
-        <updated>2024-07-26T16:18:04.223Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679440014142421/" target="_blank">
+        <title type="html"><![CDATA[柒月 28 星期日 宜   坚持]]></title>
+        <id>https://www.cikeee.cc/mov/681024173635305/</id>
+        <link href="https://www.cikeee.cc/mov/681024173635305/"/>
+        <updated>2024-07-27T16:16:23.493Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681024173635305/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679440014142421.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/106d/681024173635305.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679440014142421/?>" target="_blank">8.3分&nbsp;剧情/家庭&nbsp;2012&nbsp;中国香港</div>
+                    <div id="movie-information" href="/mov/681024173635305/?>" target="_blank">8.3分&nbsp;悬疑/惊悚/冒险&nbsp;1959&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">笑到肚子痛，比哭到心痛好。</blockquote>
-                    <div id="movie-name" href="/mov/679440014142421/" target="_blank">——《桃姐》</div>]]></content>
+                    <blockquote id="movie-text">别告诉我我们要去哪，给我个惊喜。</blockquote>
+                    <div id="movie-name" href="/mov/681024173635305/" target="_blank">——《西北偏北》</div>]]></content>
     </entry>
 </feed>
