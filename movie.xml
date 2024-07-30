@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-30T12:25:20.679Z</updated>
+    <updated>2024-07-30T16:17:42.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 30 星期二 宜   放手去做]]></title>
-        <id>https://www.cikeee.cc/mov/680140312626318/</id>
-        <link href="https://www.cikeee.cc/mov/680140312626318/"/>
-        <updated>2024-07-29T16:17:22.462Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140312626318/" target="_blank">
+        <title type="html"><![CDATA[柒月 31 星期三 宜   坚韧]]></title>
+        <id>https://www.cikeee.cc/mov/681024166478684/</id>
+        <link href="https://www.cikeee.cc/mov/681024166478684/"/>
+        <updated>2024-07-30T16:17:39.115Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681024166478684/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140312626318.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/106d/681024166478684.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680140312626318/?>" target="_blank">8.2分&nbsp;动作/奇幻/冒险&nbsp;1995&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/681024166478684/?>" target="_blank">8.3分&nbsp;恐怖&nbsp;1980&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">你必须直面你的恐惧。</blockquote>
-                    <div id="movie-name" href="/mov/680140312626318/" target="_blank">——《勇敢者的游戏》</div>]]></content>
+                    <blockquote id="movie-text">妖怪是真实存在的，魔鬼也是。它们就住在我们体内，而且有时它们还把我们打败了。</blockquote>
+                    <div id="movie-name" href="/mov/681024166478684/" target="_blank">——《闪灵》</div>]]></content>
     </entry>
 </feed>
