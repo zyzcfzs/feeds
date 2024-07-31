@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-07-31T12:26:17.453Z</updated>
+    <updated>2024-07-31T16:16:57.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[柒月 31 星期三 宜   坚韧]]></title>
-        <id>https://www.cikeee.cc/mov/681024166478684/</id>
-        <link href="https://www.cikeee.cc/mov/681024166478684/"/>
-        <updated>2024-07-30T16:17:39.115Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681024166478684/" target="_blank">
+        <title type="html"><![CDATA[捌月 01 星期四 宜   顺心如意]]></title>
+        <id>https://www.cikeee.cc/mov/677547417076223/</id>
+        <link href="https://www.cikeee.cc/mov/677547417076223/"/>
+        <updated>2024-07-31T16:16:53.656Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677547417076223/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/106d/681024166478684.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677547417076223.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681024166478684/?>" target="_blank">8.3分&nbsp;恐怖&nbsp;1980&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/677547417076223/?>" target="_blank">9.0分&nbsp;剧情/犯罪&nbsp;1990&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">妖怪是真实存在的，魔鬼也是。它们就住在我们体内，而且有时它们还把我们打败了。</blockquote>
-                    <div id="movie-name" href="/mov/681024166478684/" target="_blank">——《闪灵》</div>]]></content>
+                    <blockquote id="movie-text">过去的事就过去了，永远别回头，无论是为了找借口、为自己辩解还是找乐子，永远都不要回头。你现在是什么人，就是什么人，世界眼下是什么样，就是什么样。</blockquote>
+                    <div id="movie-name" href="/mov/677547417076223/" target="_blank">——《教父3》</div>]]></content>
     </entry>
 </feed>
