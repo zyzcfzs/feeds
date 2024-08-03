@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-03T12:23:02.501Z</updated>
+    <updated>2024-08-03T16:17:13.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 03 星期六 宜   满怀期待]]></title>
-        <id>https://www.cikeee.cc/mov/680004047630266/</id>
-        <link href="https://www.cikeee.cc/mov/680004047630266/"/>
-        <updated>2024-08-02T16:17:15.995Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004047630266/" target="_blank">
+        <title type="html"><![CDATA[捌月 04 星期日 宜   自省]]></title>
+        <id>https://www.cikeee.cc/mov/679993374245680/</id>
+        <link href="https://www.cikeee.cc/mov/679993374245680/"/>
+        <updated>2024-08-03T16:17:10.237Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993374245680/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004047630266.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993374245680.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680004047630266/?>" target="_blank">8.6分&nbsp;动作/科幻/悬疑&nbsp;2009&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/679993374245680/?>" target="_blank">8.3分&nbsp;剧情/传记/历史&nbsp;2013&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">世事总是让人难以接受，不论好人坏人雨水都一样会落在他们头上。</blockquote>
-                    <div id="movie-name" href="/mov/680004047630266/" target="_blank">——《守望者》</div>]]></content>
+                    <blockquote id="movie-text">我想要的是生活，而不是生存。</blockquote>
+                    <div id="movie-name" href="/mov/679993374245680/" target="_blank">——《为奴十二年》</div>]]></content>
     </entry>
 </feed>
