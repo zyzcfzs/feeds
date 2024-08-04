@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyzcfzs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-03T20:13:24.831Z</updated>
+    <updated>2024-08-04T01:05:21.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[一拳超人 (看漫画)]]></title>
@@ -30,7 +30,7 @@
         <id>https://www.manhuagui.com/comic/53297/</id>
         <link href="https://www.manhuagui.com/comic/53297/"/>
         <updated>2024-08-03T16:17:06.417Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53297/" title="单恋婚约"><img src="//cf.mhgui.com/cpic/b/53297.jpg" alt="单恋婚约"><span class="bg"></span><span class="tt">更新至第01话[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53297/" title="单恋婚约">单恋婚约</a></p><span class="updateon">更新于：2024-08-03<em>4.0</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53297/" title="单恋婚约"><img src="//cf.mhgui.com/cpic/b/53297.jpg" alt="单恋婚约"><span class="bg"></span><span class="tt">更新至第01话[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53297/" title="单恋婚约">单恋婚约</a></p><span class="updateon">更新于：2024-08-03<em>3.9</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[绝对力量 (看漫画)]]></title>
@@ -44,7 +44,7 @@
         <id>https://www.manhuagui.com/comic/53296/</id>
         <link href="https://www.manhuagui.com/comic/53296/"/>
         <updated>2024-08-03T16:17:06.418Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53296/" title="绝对力量：起源"><img src="//cf.mhgui.com/cpic/b/53296.jpg" alt="绝对力量：起源"><span class="bg"></span><span class="tt">更新至第01卷</span><span class="sl"></span></a><p class="ell"><a href="/comic/53296/" title="绝对力量：起源">绝对力量：起源</a></p><span class="updateon">更新于：2024-08-03<em>4.0</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53296/" title="绝对力量：起源"><img src="//cf.mhgui.com/cpic/b/53296.jpg" alt="绝对力量：起源"><span class="bg"></span><span class="tt">更新至第01卷</span><span class="sl"></span></a><p class="ell"><a href="/comic/53296/" title="绝对力量：起源">绝对力量：起源</a></p><span class="updateon">更新于：2024-08-03<em>3.3</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[极限狂热宅男宅女开始假装情侣 (看漫画)]]></title>
@@ -315,38 +315,38 @@
                     <a id="movie-name" href="/mov/679993374245680/" target="_blank">——《为奴十二年》</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Israeli Airstrikes Kill Militants Amid West Bank Violence Surge (BitToc Hot)]]></title>
+        <title type="html"><![CDATA[DHS Halts Migrant Parole Program Amid Fraud Allegations (BitToc Hot)]]></title>
+        <id>https://www.zerohedge.com/political/dhs-puts-migrant-parole-program-hold-amid-alleged-fraud-application-process?ref=biztoc.com</id>
+        <link href="https://www.zerohedge.com/political/dhs-puts-migrant-parole-program-hold-amid-alleged-fraud-application-process?ref=biztoc.com"/>
+        <updated>2024-08-04T01:05:20.562Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/c52edb9d23303ef8_sq.webp" class="pl" alt="" style="visibility: visible;">                        DHS Halts Migrant Parole Program Amid Fraud Allegations]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Civilians Flee as Russia Advances in East (BitToc Hot)]]></title>
+        <id>https://www.zerohedge.com/geopolitical/waves-ukraine-civilians-flee-russia-makes-steady-gains-east?ref=biztoc.com</id>
+        <link href="https://www.zerohedge.com/geopolitical/waves-ukraine-civilians-flee-russia-makes-steady-gains-east?ref=biztoc.com"/>
+        <updated>2024-08-04T01:05:20.564Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/a378bae112f7caac_sq.webp" class="pl" alt="" style="visibility: visible;">                        Ukraine Civilians Flee as Russia Advances in East]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coca-Cola to Pay $6B in Back Taxes While Appealing Court’s Decision (BitToc Hot)]]></title>
+        <id>https://fortune.com/2024/08/03/coca-cola-irs-6-billion-back-taxes-us-income-foreign-affiliates-federal-court/?ref=biztoc.com</id>
+        <link href="https://fortune.com/2024/08/03/coca-cola-irs-6-billion-back-taxes-us-income-foreign-affiliates-federal-court/?ref=biztoc.com"/>
+        <updated>2024-08-04T01:05:20.565Z</updated>
+        <content type="html"><![CDATA[Coca-Cola to Pay $6B in Back Taxes While Appealing Court’s Decision]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel Kills Militants, Escalating Tensions in the West Bank Amid Gaza Talks (BitToc Hot)]]></title>
         <id>https://www.pbs.org/newshour/world/israel-kills-militants-in-the-west-bank-as-a-region-on-edge-watches-gaza-cease-fire-talks?ref=biztoc.com</id>
         <link href="https://www.pbs.org/newshour/world/israel-kills-militants-in-the-west-bank-as-a-region-on-edge-watches-gaza-cease-fire-talks?ref=biztoc.com"/>
         <updated>2024-08-03T20:13:24.182Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/95b58f0e62b58f0f_sq.webp" class="pl" alt="" style="visibility: visible;">                        Israeli Airstrikes Kill Militants Amid West Bank Violence Surge]]></content>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/95b58f0e62b58f0f_sq.webp" class="pl" alt="" style="visibility: visible;">                        Israel Kills Militants, Escalating Tensions in the West Bank Amid Gaza Talks]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[North Korea sees Trump's return as nuclear opportunity (BitToc Hot)]]></title>
-        <id>https://www.benzinga.com/markets/equities/24/08/40147514/defector-says-donald-trumps-return-to-white-house-would-be-once-in-a-thousand-year-chance-for-no?ref=biztoc.com</id>
-        <link href="https://www.benzinga.com/markets/equities/24/08/40147514/defector-says-donald-trumps-return-to-white-house-would-be-once-in-a-thousand-year-chance-for-no?ref=biztoc.com"/>
-        <updated>2024-08-03T20:13:24.183Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/11668f3ddc5ffb67_sq.webp" class="pl" alt="" style="visibility: visible;">                        North Korea sees Trump's return as nuclear opportunity]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Gross and Warren Buffett signal pessimism in market outlook (BitToc Hot)]]></title>
-        <id>https://fortune.com/2024/08/03/stock-market-crash-bill-gross-dont-buy-the-dip-warren-buffett-berkshire-hathaway-sell-signal/?ref=biztoc.com</id>
-        <link href="https://fortune.com/2024/08/03/stock-market-crash-bill-gross-dont-buy-the-dip-warren-buffett-berkshire-hathaway-sell-signal/?ref=biztoc.com"/>
-        <updated>2024-08-03T20:13:24.185Z</updated>
-        <content type="html"><![CDATA[Bill Gross and Warren Buffett signal pessimism in market outlook]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buffett's Berkshire Hathaway cuts Apple stake, increases cash (BitToc Hot)]]></title>
-        <id>https://www.aol.com/berkshire-hathaway-sitting-almost-280-145154451.html?ref=biztoc.com</id>
-        <link href="https://www.aol.com/berkshire-hathaway-sitting-almost-280-145154451.html?ref=biztoc.com"/>
-        <updated>2024-08-03T20:13:24.186Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/b55ef0875897567b_sq.webp" class="pl" alt="" style="visibility: visible;">                        Buffett's Berkshire Hathaway cuts Apple stake, increases cash]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somalia beach hotel attack leaves 32 dead, Al-Shabab claims responsibility (BitToc Hot)]]></title>
-        <id>https://www.pbs.org/newshour/world/al-shabab-claims-responsibility-for-attack-on-beach-hotel-in-somalias-capital-that-killed-32?ref=biztoc.com</id>
-        <link href="https://www.pbs.org/newshour/world/al-shabab-claims-responsibility-for-attack-on-beach-hotel-in-somalias-capital-that-killed-32?ref=biztoc.com"/>
-        <updated>2024-08-03T20:13:24.190Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/e466c7fd8bde4511_sq.webp" class="pl" alt="" style="visibility: visible;">                        Somalia beach hotel attack leaves 32 dead, Al-Shabab claims responsibility]]></content>
+        <title type="html"><![CDATA[US Embassy Urges Americans to Leave Lebanon Amid Security Concerns (BitToc Hot)]]></title>
+        <id>https://www.zerohedge.com/geopolitical/us-embassy-implores-americans-leave-lebanon-any-ticket-available?ref=biztoc.com</id>
+        <link href="https://www.zerohedge.com/geopolitical/us-embassy-implores-americans-leave-lebanon-any-ticket-available?ref=biztoc.com"/>
+        <updated>2024-08-04T01:05:20.570Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/7bc5aaebc05273b4_sq.webp" class="pl" alt="" style="visibility: visible;">                        US Embassy Urges Americans to Leave Lebanon Amid Security Concerns]]></content>
     </entry>
 </feed>
