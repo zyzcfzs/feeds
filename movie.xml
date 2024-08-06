@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-06T12:25:53.154Z</updated>
+    <updated>2024-08-06T16:17:10.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 06 星期二 宜   追求]]></title>
-        <id>https://www.cikeee.cc/mov/679993618167505/</id>
-        <link href="https://www.cikeee.cc/mov/679993618167505/"/>
-        <updated>2024-08-05T16:16:49.712Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993618167505/" target="_blank">
+        <title type="html"><![CDATA[捌月 07 星期三 宜   行动]]></title>
+        <id>https://www.cikeee.cc/mov/680140062672243/</id>
+        <link href="https://www.cikeee.cc/mov/680140062672243/"/>
+        <updated>2024-08-06T16:17:06.555Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140062672243/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993618167505.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140062672243.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679993618167505/?>" target="_blank">8.6分&nbsp;剧情/喜剧/爱情&nbsp;2003&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/680140062672243/?>" target="_blank">8.0分&nbsp;剧情/犯罪&nbsp;2007&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">在我看来爱似乎无处不在。</blockquote>
-                    <div id="movie-name" href="/mov/679993618167505/" target="_blank">——《真爱至上》</div>]]></content>
+                    <blockquote id="movie-text">要维持和平、自由和正义，需要付出昂贵的代价。</blockquote>
+                    <div id="movie-name" href="/mov/680140062672243/" target="_blank">——《这就是英格兰》</div>]]></content>
     </entry>
 </feed>
