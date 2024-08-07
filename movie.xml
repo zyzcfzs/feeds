@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-07T12:27:08.573Z</updated>
+    <updated>2024-08-07T16:16:44.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 07 星期三 宜   行动]]></title>
-        <id>https://www.cikeee.cc/mov/680140062672243/</id>
-        <link href="https://www.cikeee.cc/mov/680140062672243/"/>
-        <updated>2024-08-06T16:17:06.555Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140062672243/" target="_blank">
+        <title type="html"><![CDATA[捌月 08 星期四 宜   奋发]]></title>
+        <id>https://www.cikeee.cc/mov/681306401227253/</id>
+        <link href="https://www.cikeee.cc/mov/681306401227253/"/>
+        <updated>2024-08-07T16:16:41.037Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681306401227253/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140062672243.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/107d/681306401227253.webp" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680140062672243/?>" target="_blank">8.0分&nbsp;剧情/犯罪&nbsp;2007&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/681306401227253/?>" target="_blank">7.8分&nbsp;喜剧/动作/惊悚&nbsp;2022&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">要维持和平、自由和正义，需要付出昂贵的代价。</blockquote>
-                    <div id="movie-name" href="/mov/680140062672243/" target="_blank">——《这就是英格兰》</div>]]></content>
+                    <blockquote id="movie-text">或许命运这趟列车，不是为了让人降服于命运，而是为了让你了解，过去和现在，是怎样操控着未来，而那些微不足道的小事，又是怎么引来狂风骤雨。</blockquote>
+                    <div id="movie-name" href="/mov/681306401227253/" target="_blank">——《子弹列车》</div>]]></content>
     </entry>
 </feed>
