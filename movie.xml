@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-09T12:25:50.099Z</updated>
+    <updated>2024-08-09T16:16:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 09 星期五 宜   进取]]></title>
-        <id>https://www.cikeee.cc/mov/675438568772278/</id>
-        <link href="https://www.cikeee.cc/mov/675438568772278/"/>
-        <updated>2024-08-08T16:17:12.041Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438568772278/" target="_blank">
+        <title type="html"><![CDATA[捌月 10 星期六 宜   只争朝夕]]></title>
+        <id>https://www.cikeee.cc/mov/679337669932411/</id>
+        <link href="https://www.cikeee.cc/mov/679337669932411/"/>
+        <updated>2024-08-09T16:16:51.789Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679337669932411/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438568772278.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679337669932411.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675438568772278/?>" target="_blank">8.6分&nbsp;剧情/爱情/奇幻/古装&nbsp;1993&nbsp;中国香港</div>
+                    <div id="movie-information" href="/mov/679337669932411/?>" target="_blank">8.9分&nbsp;剧情/爱情/动画&nbsp;1995&nbsp;日本</div>
                     
-                    <blockquote id="movie-text">你老是说人间有情，难道妖就无情？</blockquote>
-                    <div id="movie-name" href="/mov/675438568772278/" target="_blank">——《青蛇》</div>]]></content>
+                    <blockquote id="movie-text">风暴已经来临，你我只需侧耳倾听。</blockquote>
+                    <div id="movie-name" href="/mov/679337669932411/" target="_blank">——《侧耳倾听》</div>]]></content>
     </entry>
 </feed>
