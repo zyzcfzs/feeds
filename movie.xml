@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-10T12:24:13.868Z</updated>
+    <updated>2024-08-10T16:17:13.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 10 星期六 宜   只争朝夕]]></title>
-        <id>https://www.cikeee.cc/mov/679337669932411/</id>
-        <link href="https://www.cikeee.cc/mov/679337669932411/"/>
-        <updated>2024-08-09T16:16:51.789Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679337669932411/" target="_blank">
+        <title type="html"><![CDATA[捌月 11 星期日 宜   刻苦]]></title>
+        <id>https://www.cikeee.cc/mov/680139655119324/</id>
+        <link href="https://www.cikeee.cc/mov/680139655119324/"/>
+        <updated>2024-08-10T16:17:09.173Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139655119324/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679337669932411.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139655119324.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679337669932411/?>" target="_blank">8.9分&nbsp;剧情/爱情/动画&nbsp;1995&nbsp;日本</div>
+                    <div id="movie-information" href="/mov/680139655119324/?>" target="_blank">8.1分&nbsp;剧情/喜剧&nbsp;1998&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">风暴已经来临，你我只需侧耳倾听。</blockquote>
-                    <div id="movie-name" href="/mov/679337669932411/" target="_blank">——《侧耳倾听》</div>]]></content>
+                    <blockquote id="movie-text">你只需要找到自己喜欢的事情，然后为之奉献一生。</blockquote>
+                    <div id="movie-name" href="/mov/680139655119324/" target="_blank">——《青春年少》</div>]]></content>
     </entry>
 </feed>
