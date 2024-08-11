@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-11T12:23:54.564Z</updated>
+    <updated>2024-08-11T16:15:45.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 11 星期日 宜   刻苦]]></title>
-        <id>https://www.cikeee.cc/mov/680139655119324/</id>
-        <link href="https://www.cikeee.cc/mov/680139655119324/"/>
-        <updated>2024-08-10T16:17:09.173Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139655119324/" target="_blank">
+        <title type="html"><![CDATA[捌月 12 星期一 宜   昂首阔步]]></title>
+        <id>https://www.cikeee.cc/mov/675438612825102/</id>
+        <link href="https://www.cikeee.cc/mov/675438612825102/"/>
+        <updated>2024-08-11T16:15:41.803Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438612825102/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139655119324.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438612825102.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680139655119324/?>" target="_blank">8.1分&nbsp;剧情/喜剧&nbsp;1998&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/675438612825102/?>" target="_blank">9.3分&nbsp;剧情/喜剧/爱情&nbsp;1931&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">你只需要找到自己喜欢的事情，然后为之奉献一生。</blockquote>
-                    <div id="movie-name" href="/mov/680139655119324/" target="_blank">——《青春年少》</div>]]></content>
+                    <blockquote id="movie-text">默片</blockquote>
+                    <div id="movie-name" href="/mov/675438612825102/" target="_blank">——《城市之光》</div>]]></content>
     </entry>
 </feed>
