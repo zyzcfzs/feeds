@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-08-12T01:03:18.561Z</updated>
+    <updated>2024-08-12T04:17:04.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/800/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Israel Kills Dozens of Civilians in Gaza Airstrike]]></title>
+        <title type="html"><![CDATA[US-China Race to Develop AI-Powered Combat Drones]]></title>
+        <id>https://www.wsj.com/articles/how-the-u-s-and-china-compare-in-the-race-to-build-ai-combat-drones-b92d5734?ref=biztoc.com</id>
+        <link href="https://www.wsj.com/articles/how-the-u-s-and-china-compare-in-the-race-to-build-ai-combat-drones-b92d5734?ref=biztoc.com"/>
+        <updated>2024-08-12T04:17:03.372Z</updated>
+        <content type="html"><![CDATA[US-China Race to Develop AI-Powered Combat Drones]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Bonds Extend Losses as PBOC Warns of Risks]]></title>
+        <id>https://www.bloomberg.com/news/articles/2024-08-12/chinese-bonds-extend-losses-as-pboc-warns-about-potential-risks?ref=biztoc.com</id>
+        <link href="https://www.bloomberg.com/news/articles/2024-08-12/chinese-bonds-extend-losses-as-pboc-warns-about-potential-risks?ref=biztoc.com"/>
+        <updated>2024-08-12T04:17:03.372Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/b3f53dc828fbcd90_sq.webp" class="pl" alt="" style="visibility: visible;">                        Chinese Bonds Extend Losses as PBOC Warns of Risks]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Makes Rapid Gains in Russian Territory]]></title>
+        <id>https://www.wsj.com/articles/ukraines-russia-incursion-faces-dilemma-after-quick-gains-b098ffd0?ref=biztoc.com</id>
+        <link href="https://www.wsj.com/articles/ukraines-russia-incursion-faces-dilemma-after-quick-gains-b098ffd0?ref=biztoc.com"/>
+        <updated>2024-08-12T04:17:03.374Z</updated>
+        <content type="html"><![CDATA[Ukraine Makes Rapid Gains in Russian Territory]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo Robotaxis Cause Noise Complaints in San Francisco]]></title>
+        <id>https://www.businessinsider.com/waymo-robotaxis-waking-neighbors-nightly-honking-2024-8?ref=biztoc.com</id>
+        <link href="https://www.businessinsider.com/waymo-robotaxis-waking-neighbors-nightly-honking-2024-8?ref=biztoc.com"/>
+        <updated>2024-08-12T04:17:03.375Z</updated>
+        <content type="html"><![CDATA[Waymo Robotaxis Cause Noise Complaints in San Francisco]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israeli Airstrike Kills Dozens of Civilians in Gaza]]></title>
         <id>https://www.wsj.com/world/middle-east/israeli-airstrike-kills-dozens-of-displaced-civilians-in-gaza-5d9e8798?ref=biztoc.com</id>
         <link href="https://www.wsj.com/world/middle-east/israeli-airstrike-kills-dozens-of-displaced-civilians-in-gaza-5d9e8798?ref=biztoc.com"/>
         <updated>2024-08-12T01:03:17.873Z</updated>
-        <content type="html"><![CDATA[Israel Kills Dozens of Civilians in Gaza Airstrike]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Records Expose Response Failures in Uvalde School Shooting]]></title>
-        <id>https://www.wsj.com/us-news/new-uvalde-records-further-reveal-depth-of-police-inaction-in-texas-school-massacre-14fc727b?ref=biztoc.com</id>
-        <link href="https://www.wsj.com/us-news/new-uvalde-records-further-reveal-depth-of-police-inaction-in-texas-school-massacre-14fc727b?ref=biztoc.com"/>
-        <updated>2024-08-12T01:03:17.873Z</updated>
-        <content type="html"><![CDATA[New Records Expose Response Failures in Uvalde School Shooting]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Susan Wojcicki, Former YouTube CEO, Passes at 56]]></title>
-        <id>https://www.ft.com/content/3e1b2bcd-31c6-4aa1-8689-9d5a767509aa?ref=biztoc.com</id>
-        <link href="https://www.ft.com/content/3e1b2bcd-31c6-4aa1-8689-9d5a767509aa?ref=biztoc.com"/>
-        <updated>2024-08-12T01:03:17.877Z</updated>
-        <content type="html"><![CDATA[Susan Wojcicki, Former YouTube CEO, Passes at 56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine Launches Major Offensive Against Russia]]></title>
-        <id>https://www.semafor.com/article/08/11/2024/ukraine-confirms-largest-offensive-deep-inside-russia?ref=biztoc.com</id>
-        <link href="https://www.semafor.com/article/08/11/2024/ukraine-confirms-largest-offensive-deep-inside-russia?ref=biztoc.com"/>
-        <updated>2024-08-12T01:03:17.878Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/2e466c84d7aed884_sq.webp" class="pl" alt="" style="visibility: visible;">                        Ukraine Launches Major Offensive Against Russia]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRS Eases Tax Filing for Crypto Investors]]></title>
-        <id>https://bitcoinist.com/irs-softens-stance-on-crypto-new-draft-eases-tax-filing-burden/?ref=biztoc.com</id>
-        <link href="https://bitcoinist.com/irs-softens-stance-on-crypto-new-draft-eases-tax-filing-burden/?ref=biztoc.com"/>
-        <updated>2024-08-12T01:03:17.881Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/3403b96d0c9290a3_sq.webp" class="pl" alt="" style="visibility: visible;">                        IRS Eases Tax Filing for Crypto Investors]]></content>
+        <content type="html"><![CDATA[Israeli Airstrike Kills Dozens of Civilians in Gaza]]></content>
     </entry>
 </feed>
