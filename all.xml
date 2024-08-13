@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyzcfzs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-13T16:17:16.106Z</updated>
+    <updated>2024-08-13T20:15:19.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[JOJO的奇妙冒险JOJOLion (看漫画)]]></title>
+        <id>https://www.manhuagui.com/comic/1420/</id>
+        <link href="https://www.manhuagui.com/comic/1420/"/>
+        <updated>2024-08-13T20:15:11.587Z</updated>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/1420/" title="JOJO的奇妙冒险JOJOLion"><img src="//cf.mhgui.com/cpic/b/1420_46.jpg" alt="JOJO的奇妙冒险JOJOLion"><span class="bg"></span><span class="tt">更新至全彩27[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/1420/" title="JOJO的奇妙冒险JOJOLion">JOJO的奇妙冒险JOJOLion</a></p><span class="updateon">更新于：2024-08-14<em>9.1</em></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深夜食堂 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/7510/</id>
@@ -86,7 +93,7 @@
         <id>https://www.manhuagui.com/comic/53398/</id>
         <link href="https://www.manhuagui.com/comic/53398/"/>
         <updated>2024-08-13T16:17:08.517Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53398/" title="午夜恋人"><img src="//cf.mhgui.com/cpic/b/53398.jpg" alt="午夜恋人"><span class="bg"></span><span class="tt">更新至全一卷[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53398/" title="午夜恋人">午夜恋人</a></p><span class="updateon">更新于：2024-08-13<em>6.6</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53398/" title="午夜恋人"><img data-src="//cf.mhgui.com/cpic/b/53398.jpg" alt="午夜恋人"><span class="bg"></span><span class="tt">更新至全一卷[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53398/" title="午夜恋人">午夜恋人</a></p><span class="updateon">更新于：2024-08-13<em>6.8</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的主人不是人 (看漫画)]]></title>
@@ -121,7 +128,7 @@
         <id>https://www.manhuagui.com/comic/37708/</id>
         <link href="https://www.manhuagui.com/comic/37708/"/>
         <updated>2024-08-13T16:17:08.522Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/37708/" title="毛毛只是想交朋友"><img data-src="//cf.mhgui.com/cpic/b/37708.jpg" alt="毛毛只是想交朋友"><span class="bg"></span><span class="tt">更新至重制版13话</span><span class="sl"></span></a><p class="ell"><a href="/comic/37708/" title="毛毛只是想交朋友">毛毛只是想交朋友</a></p><span class="updateon">更新于：2024-08-13<em>7.6</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/37708/" title="毛毛只是想交朋友"><img data-src="//cf.mhgui.com/cpic/b/37708.jpg" alt="毛毛只是想交朋友"><span class="bg"></span><span class="tt">更新至重制版13话</span><span class="sl"></span></a><p class="ell"><a href="/comic/37708/" title="毛毛只是想交朋友">毛毛只是想交朋友</a></p><span class="updateon">更新于：2024-08-13<em>7.5</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[放学后的偶像有一个秘密 (看漫画)]]></title>
@@ -268,7 +275,7 @@
         <id>https://www.manhuagui.com/comic/53387/</id>
         <link href="https://www.manhuagui.com/comic/53387/"/>
         <updated>2024-08-13T08:17:11.560Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53387/" title="全身是伤的同学"><img data-src="//cf.mhgui.com/cpic/b/53387.jpg" alt="全身是伤的同学"><span class="bg"></span><span class="tt">更新至番外2 很担心曾经浑身是伤的女朋友的回家路[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53387/" title="全身是伤的同学">全身是伤的同学</a></p><span class="updateon">更新于：2024-08-13<em>9.3</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53387/" title="全身是伤的同学"><img data-src="//cf.mhgui.com/cpic/b/53387.jpg" alt="全身是伤的同学"><span class="bg"></span><span class="tt">更新至番外2 很担心曾经浑身是伤的女朋友的回家路[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53387/" title="全身是伤的同学">全身是伤的同学</a></p><span class="updateon">更新于：2024-08-13<em>9.4</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[击灭的大屠杀演奏 (看漫画)]]></title>
@@ -289,14 +296,7 @@
         <id>https://www.manhuagui.com/comic/53370/</id>
         <link href="https://www.manhuagui.com/comic/53370/"/>
         <updated>2024-08-13T08:17:11.561Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53370/" title="复仇的天狼星"><img data-src="//cf.mhgui.com/cpic/b/53370.jpg" alt="复仇的天狼星"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53370/" title="复仇的天狼星">复仇的天狼星</a></p><span class="updateon">更新于：2024-08-13<em>6.2</em></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孤狼女友 (看漫画)]]></title>
-        <id>https://www.manhuagui.com/comic/53383/</id>
-        <link href="https://www.manhuagui.com/comic/53383/"/>
-        <updated>2024-08-13T08:17:11.564Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53383/" title="孤狼女友"><img data-src="//cf.mhgui.com/cpic/b/53383.jpg" alt="孤狼女友"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53383/" title="孤狼女友">孤狼女友</a></p><span class="updateon">更新于：2024-08-13<em>8.8</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53370/" title="复仇的天狼星"><img data-src="//cf.mhgui.com/cpic/b/53370.jpg" alt="复仇的天狼星"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53370/" title="复仇的天狼星">复仇的天狼星</a></p><span class="updateon">更新于：2024-08-13<em>6.0</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[捌月 14 星期三 宜   暴富 (电影日历)]]></title>
@@ -315,38 +315,38 @@
                     <a id="movie-name" href="/mov/675438656164398/" target="_blank">——《永恒和一日》</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ohio Police Officer Indicted in Shooting Death of Pregnant Black Woman (BitToc Hot)]]></title>
-        <id>https://www.newsweek.com/ohio-police-shooting-pregnant-black-woman-indicted-1938665?ref=biztoc.com</id>
-        <link href="https://www.newsweek.com/ohio-police-shooting-pregnant-black-woman-indicted-1938665?ref=biztoc.com"/>
-        <updated>2024-08-13T16:17:15.475Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/f7f9035ddfe3916e_sq.webp" class="pl" alt="" style="visibility: visible;">                        Ohio Police Officer Indicted in Shooting Death of Pregnant Black Woman]]></content>
+        <title type="html"><![CDATA[U.S. debt hits $35 trillion, potential risk to global economy (BitToc Hot)]]></title>
+        <id>https://www.marketplace.org/2024/08/13/u-s-debt-just-hit-35-trillion-is-it-putting-the-global-economy-at-risk/?ref=biztoc.com</id>
+        <link href="https://www.marketplace.org/2024/08/13/u-s-debt-just-hit-35-trillion-is-it-putting-the-global-economy-at-risk/?ref=biztoc.com"/>
+        <updated>2024-08-13T20:15:18.384Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/97ebad2b8706666a_sq.webp" class="pl" alt="" style="visibility: visible;">                        U.S. debt hits $35 trillion, potential risk to global economy]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Myanmar's Release of Executive Reflects Investment Struggles (BitToc Hot)]]></title>
-        <id>https://asia.nikkei.com/Spotlight/Myanmar-Crisis/Myanmar-s-release-of-Aeon-exec-signals-struggle-to-retain-investment?ref=biztoc.com</id>
-        <link href="https://asia.nikkei.com/Spotlight/Myanmar-Crisis/Myanmar-s-release-of-Aeon-exec-signals-struggle-to-retain-investment?ref=biztoc.com"/>
-        <updated>2024-08-13T16:17:15.483Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/c00b6b5b240c4331_sq.webp" class="pl" alt="" style="visibility: visible;">                        Myanmar's Release of Executive Reflects Investment Struggles]]></content>
+        <title type="html"><![CDATA[Six ransomware gangs behind over 50% of 2024 attacks (BitToc Hot)]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/?ref=biztoc.com</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/?ref=biztoc.com"/>
+        <updated>2024-08-13T20:15:18.385Z</updated>
+        <content type="html"><![CDATA[Six ransomware gangs behind over 50% of 2024 attacks]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avon Products Files for Bankruptcy Over Talc Lawsuits (BitToc Hot)]]></title>
-        <id>https://www.wsj.com/articles/avon-products-files-for-bankruptcy-to-deal-with-talc-lawsuits-97418fd1?ref=biztoc.com</id>
-        <link href="https://www.wsj.com/articles/avon-products-files-for-bankruptcy-to-deal-with-talc-lawsuits-97418fd1?ref=biztoc.com"/>
-        <updated>2024-08-13T16:17:15.485Z</updated>
-        <content type="html"><![CDATA[Avon Products Files for Bankruptcy Over Talc Lawsuits]]></content>
+        <title type="html"><![CDATA[Opinion: Elon Musk must be accountable for spreading misinformation (BitToc Hot)]]></title>
+        <id>https://www.newsweek.com/its-time-make-elon-musk-pay-his-web-misinformation-opinion-1938795?ref=biztoc.com</id>
+        <link href="https://www.newsweek.com/its-time-make-elon-musk-pay-his-web-misinformation-opinion-1938795?ref=biztoc.com"/>
+        <updated>2024-08-13T20:15:18.386Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/d3b560f3efab47aa_sq.webp" class="pl" alt="" style="visibility: visible;">                        Opinion: Elon Musk must be accountable for spreading misinformation]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Africa CDC Declares Mpox a Public Health Emergency (BitToc Hot)]]></title>
-        <id>https://www.semafor.com/article/08/13/2024/mpox-africa-cdc-declares-public-health-emergency?ref=biztoc.com</id>
-        <link href="https://www.semafor.com/article/08/13/2024/mpox-africa-cdc-declares-public-health-emergency?ref=biztoc.com"/>
-        <updated>2024-08-13T16:17:15.486Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/d3eb0ed3b4d80fee_sq.webp" class="pl" alt="" style="visibility: visible;">                        Africa CDC Declares Mpox a Public Health Emergency]]></content>
+        <title type="html"><![CDATA[Israeli strikes on Gaza result in significant casualties (BitToc Hot)]]></title>
+        <id>https://www.pbs.org/newshour/world/israeli-strikes-on-gaza-leave-children-without-parents-and-parents-without-children?ref=biztoc.com</id>
+        <link href="https://www.pbs.org/newshour/world/israeli-strikes-on-gaza-leave-children-without-parents-and-parents-without-children?ref=biztoc.com"/>
+        <updated>2024-08-13T20:15:18.389Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/96d2a03cc9d2227e_sq.webp" class="pl" alt="" style="visibility: visible;">                        Israeli strikes on Gaza result in significant casualties]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UAW Files Federal Labor Charges Against Trump and Musk (BitToc Hot)]]></title>
-        <id>https://www.nbcnews.com/politics/donald-trump/uaw-hits-trump-musk-federal-labor-charges-union-busting-comments-rcna166403?ref=biztoc.com</id>
-        <link href="https://www.nbcnews.com/politics/donald-trump/uaw-hits-trump-musk-federal-labor-charges-union-busting-comments-rcna166403?ref=biztoc.com"/>
-        <updated>2024-08-13T16:17:15.488Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/c562d601089b1d87_sq.webp" class="pl" alt="" style="visibility: visible;">                        UAW Files Federal Labor Charges Against Trump and Musk]]></content>
+        <title type="html"><![CDATA[Massive striker setbacks in US labor market (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-08-13T20:15:18.391Z</updated>
+        <content type="html"><![CDATA[Massive striker setbacks in US labor market]]></content>
     </entry>
 </feed>
