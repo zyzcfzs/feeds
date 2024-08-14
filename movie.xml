@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-14T12:26:24.211Z</updated>
+    <updated>2024-08-14T16:20:05.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 14 星期三 宜   暴富]]></title>
-        <id>https://www.cikeee.cc/mov/675438656164398/</id>
-        <link href="https://www.cikeee.cc/mov/675438656164398/"/>
-        <updated>2024-08-13T16:17:12.165Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438656164398/" target="_blank">
+        <title type="html"><![CDATA[捌月 15 星期四 宜   坦荡]]></title>
+        <id>https://www.cikeee.cc/mov/674319464978823/</id>
+        <link href="https://www.cikeee.cc/mov/674319464978823/"/>
+        <updated>2024-08-14T16:20:01.352Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319464978823/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438656164398.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319464978823.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675438656164398/?>" target="_blank">9.1分&nbsp;剧情&nbsp;1998&nbsp;法国</div>
+                    <div id="movie-information" href="/mov/674319464978823/?>" target="_blank">7.9分&nbsp;剧情/爱情&nbsp;2011&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">告诉我……明天会有多久？永远或只是一天？</blockquote>
-                    <div id="movie-name" href="/mov/675438656164398/" target="_blank">——《永恒和一日》</div>]]></content>
+                    <blockquote id="movie-text">不管明天发生什么事，把握好今天。</blockquote>
+                    <div id="movie-name" href="/mov/674319464978823/" target="_blank">——《一天》</div>]]></content>
     </entry>
 </feed>
