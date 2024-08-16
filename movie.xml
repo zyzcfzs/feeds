@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-16T12:26:09.982Z</updated>
+    <updated>2024-08-16T16:18:34.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 16 星期五 宜   万事皆宜]]></title>
-        <id>https://www.cikeee.cc/mov/680025784192242/</id>
-        <link href="https://www.cikeee.cc/mov/680025784192242/"/>
-        <updated>2024-08-15T16:18:03.664Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680025784192242/" target="_blank">
+        <title type="html"><![CDATA[捌月 17 星期六 宜   容光焕发]]></title>
+        <id>https://www.cikeee.cc/mov/680139807872738/</id>
+        <link href="https://www.cikeee.cc/mov/680139807872738/"/>
+        <updated>2024-08-16T16:18:30.654Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139807872738/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680025784192242.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139807872738.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680025784192242/?>" target="_blank">8.5分&nbsp;剧情/科幻&nbsp;2007&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680139807872738/?>" target="_blank">7.6分&nbsp;动作/科幻/恐怖&nbsp;2013&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我时常感到厌烦,人们总是重复一些愚蠢的错误。</blockquote>
-                    <div id="movie-name" href="/mov/680025784192242/" target="_blank">——《这个男人来自地球》</div>]]></content>
+                    <blockquote id="movie-text">在这个世界，人多了，僵尸就是怪物，僵尸多了，人就是怪物。</blockquote>
+                    <div id="movie-name" href="/mov/680139807872738/" target="_blank">——《僵尸世界大战》</div>]]></content>
     </entry>
 </feed>
