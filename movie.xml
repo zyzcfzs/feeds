@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-19T12:26:42.745Z</updated>
+    <updated>2024-08-19T16:17:05.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 19 星期一 宜   积累]]></title>
-        <id>https://www.cikeee.cc/mov/675438634795438/</id>
-        <link href="https://www.cikeee.cc/mov/675438634795438/"/>
-        <updated>2024-08-18T16:15:53.257Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438634795438/" target="_blank">
+        <title type="html"><![CDATA[捌月 20 星期二 宜   乐在其中]]></title>
+        <id>https://www.cikeee.cc/mov/678008186863488/</id>
+        <link href="https://www.cikeee.cc/mov/678008186863488/"/>
+        <updated>2024-08-19T16:17:01.662Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678008186863488/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438634795438.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/107d/678008186863488.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675438634795438/?>" target="_blank">7.6分&nbsp;剧情/犯罪&nbsp;2015&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/678008186863488/?>" target="_blank">8.2分&nbsp;剧情&nbsp;2006&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">人啊，总有好的时候，也有背的时候，不要把我们的情义弄拧巴了。</blockquote>
-                    <div id="movie-name" href="/mov/675438634795438/" target="_blank">——《老炮儿》</div>]]></content>
+                    <blockquote id="movie-text">打倒四人帮，黑井村有希望。</blockquote>
+                    <div id="movie-name" href="/mov/678008186863488/" target="_blank">——《光荣的愤怒》</div>]]></content>
     </entry>
 </feed>
