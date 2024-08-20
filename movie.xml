@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-20T12:27:07.117Z</updated>
+    <updated>2024-08-20T16:16:33.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 20 星期二 宜   乐在其中]]></title>
-        <id>https://www.cikeee.cc/mov/678008186863488/</id>
-        <link href="https://www.cikeee.cc/mov/678008186863488/"/>
-        <updated>2024-08-19T16:17:01.662Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678008186863488/" target="_blank">
+        <title type="html"><![CDATA[捌月 21 星期三 宜   慎思]]></title>
+        <id>https://www.cikeee.cc/mov/678103944136086/</id>
+        <link href="https://www.cikeee.cc/mov/678103944136086/"/>
+        <updated>2024-08-20T16:16:30.211Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678103944136086/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/107d/678008186863488.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/107d/678103944136086.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/678008186863488/?>" target="_blank">8.2分&nbsp;剧情&nbsp;2006&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/678103944136086/?>" target="_blank">8.0分&nbsp;剧情/动作/犯罪/西部&nbsp;2007&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">打倒四人帮，黑井村有希望。</blockquote>
-                    <div id="movie-name" href="/mov/678008186863488/" target="_blank">——《光荣的愤怒》</div>]]></content>
+                    <blockquote id="movie-text">我从来都没有当过英雄。</blockquote>
+                    <div id="movie-name" href="/mov/678103944136086/" target="_blank">——《决战犹马镇》</div>]]></content>
     </entry>
 </feed>
