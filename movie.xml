@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-22T12:26:30.660Z</updated>
+    <updated>2024-08-22T16:17:37.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 22 星期四 宜   万事皆宜]]></title>
-        <id>https://www.cikeee.cc/mov/674844766164192/</id>
-        <link href="https://www.cikeee.cc/mov/674844766164192/"/>
-        <updated>2024-08-21T16:31:09.953Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674844766164192/" target="_blank">
+        <title type="html"><![CDATA[捌月 23 星期五 宜   追求]]></title>
+        <id>https://www.cikeee.cc/mov/681306423095143/</id>
+        <link href="https://www.cikeee.cc/mov/681306423095143/"/>
+        <updated>2024-08-22T16:17:33.730Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681306423095143/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/106d/674844766164192.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/107d/681306423095143.webp" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674844766164192/?>" target="_blank">8.3分&nbsp;剧情/动作/科幻/惊悚&nbsp;2009&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/681306423095143/?>" target="_blank">7.9分&nbsp;剧情/喜剧/爱情&nbsp;2021&nbsp;挪威</div>
                     
-                    <blockquote id="movie-text">生命是奇妙的，生命是伟大的，生命是平等的，这些权利是与生俱来的，没有人可以剥夺。</blockquote>
-                    <div id="movie-name" href="/mov/674844766164192/" target="_blank">——《第九区》</div>]]></content>
+                    <blockquote id="movie-text">你有没有意识到，你在毁掉什么东西？</blockquote>
+                    <div id="movie-name" href="/mov/681306423095143/" target="_blank">——《世界上最糟糕的人》</div>]]></content>
     </entry>
 </feed>
