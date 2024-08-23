@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyzcfzs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-23T08:18:19.322Z</updated>
+    <updated>2024-08-23T12:26:06.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[蜘蛛小子V2 (看漫画)]]></title>
+        <id>https://www.manhuagui.com/comic/52987/</id>
+        <link href="https://www.manhuagui.com/comic/52987/"/>
+        <updated>2024-08-23T12:25:59.459Z</updated>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/52987/" title="蜘蛛小子V2"><img src="//cf.mhgui.com/cpic/b/52987.jpg" alt="蜘蛛小子V2"><span class="bg"></span><span class="tt">更新至第06卷</span><span class="sl"></span></a><p class="ell"><a href="/comic/52987/" title="蜘蛛小子V2">蜘蛛小子V2</a></p><span class="updateon">更新于：2024-08-23<em>4.0</em></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全身是伤的同学 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/53387/</id>
@@ -86,7 +93,7 @@
         <id>https://www.manhuagui.com/comic/52799/</id>
         <link href="https://www.manhuagui.com/comic/52799/"/>
         <updated>2024-08-23T08:18:12.130Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/52799/" title="亦梦亦真"><img src="//cf.mhgui.com/cpic/b/52799.jpg" alt="亦梦亦真"><span class="bg"></span><span class="tt">更新至第03话</span><span class="sl"></span></a><p class="ell"><a href="/comic/52799/" title="亦梦亦真">亦梦亦真</a></p><span class="updateon">更新于：2024-08-23<em>8.8</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/52799/" title="亦梦亦真"><img data-src="//cf.mhgui.com/cpic/b/52799.jpg" alt="亦梦亦真"><span class="bg"></span><span class="tt">更新至第03话</span><span class="sl"></span></a><p class="ell"><a href="/comic/52799/" title="亦梦亦真">亦梦亦真</a></p><span class="updateon">更新于：2024-08-23<em>8.8</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[替身新娘、被笨拙的边境伯爵溺爱 (看漫画)]]></title>
@@ -198,7 +205,7 @@
         <id>https://www.manhuagui.com/comic/53515/</id>
         <link href="https://www.manhuagui.com/comic/53515/"/>
         <updated>2024-08-23T04:17:26.239Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53515/" title="(C104)实录 天使便利店 24小时!!"><img data-src="//cf.mhgui.com/cpic/b/53515.jpg" alt="(C104)实录 天使便利店 24小时!!"><span class="bg"></span><span class="tt">更新至全一卷[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53515/" title="(C104)实录 天使便利店 24小时!!">(C104)实录 天使便利店 24小时!!</a></p><span class="updateon">更新于：2024-08-23<em>7.0</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53515/" title="(C104)实录 天使便利店 24小时!!"><img data-src="//cf.mhgui.com/cpic/b/53515.jpg" alt="(C104)实录 天使便利店 24小时!!"><span class="bg"></span><span class="tt">更新至全一卷[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/53515/" title="(C104)实录 天使便利店 24小时!!">(C104)实录 天使便利店 24小时!!</a></p><span class="updateon">更新于：2024-08-23<em>8.0</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[酒之仄径 (看漫画)]]></title>
@@ -240,7 +247,7 @@
         <id>https://www.manhuagui.com/comic/51798/</id>
         <link href="https://www.manhuagui.com/comic/51798/"/>
         <updated>2024-08-23T04:17:26.251Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/51798/" title="笔之所向"><img data-src="//cf.mhgui.com/cpic/b/51798.jpg" alt="笔之所向"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/51798/" title="笔之所向">笔之所向</a></p><span class="updateon">更新于：2024-08-23<em>3.4</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/51798/" title="笔之所向"><img data-src="//cf.mhgui.com/cpic/b/51798.jpg" alt="笔之所向"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/51798/" title="笔之所向">笔之所向</a></p><span class="updateon">更新于：2024-08-23<em>3.3</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[对抗体 (看漫画)]]></title>
@@ -292,13 +299,6 @@
         <content type="html"><![CDATA[<a class="bcover" href="/comic/50993/" title="再行己志鬼杀道"><img data-src="//cf.mhgui.com/cpic/b/50993.jpg" alt="再行己志鬼杀道"><span class="bg"></span><span class="tt">更新至第07话</span><span class="sl"></span></a><p class="ell"><a href="/comic/50993/" title="再行己志鬼杀道">再行己志鬼杀道</a></p><span class="updateon">更新于：2024-08-23<em>8.7</em></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[世界最快的level up (看漫画)]]></title>
-        <id>https://www.manhuagui.com/comic/41742/</id>
-        <link href="https://www.manhuagui.com/comic/41742/"/>
-        <updated>2024-08-23T04:17:26.261Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/41742/" title="世界最快的level up"><img data-src="//cf.mhgui.com/cpic/b/41742.jpg" alt="世界最快的level up"><span class="bg"></span><span class="tt">更新至第14话</span><span class="sl"></span></a><p class="ell"><a href="/comic/41742/" title="世界最快的level up">世界最快的level up</a></p><span class="updateon">更新于：2024-08-23<em>7.2</em></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[捌月 23 星期五 宜   追求 (电影日历)]]></title>
         <id>https://www.cikeee.cc/mov/681306423095143/</id>
         <link href="https://www.cikeee.cc/mov/681306423095143/"/>
@@ -315,38 +315,38 @@
                     <a id="movie-name" href="/mov/681306423095143/" target="_blank">——《世界上最糟糕的人》</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Acts to Prevent Sharp Yuan Rise Post-Battle with Bears (BitToc Hot)]]></title>
-        <id>https://www.reuters.com/markets/currencies/after-battle-with-yuan-bears-china-is-now-keen-avoid-sharp-currency-gains-2024-08-23/?ref=biztoc.com</id>
-        <link href="https://www.reuters.com/markets/currencies/after-battle-with-yuan-bears-china-is-now-keen-avoid-sharp-currency-gains-2024-08-23/?ref=biztoc.com"/>
-        <updated>2024-08-23T08:18:18.661Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/caabe2aaabda5a80_sq.webp" class="pl" alt="" style="visibility: visible;">                        China Acts to Prevent Sharp Yuan Rise Post-Battle with Bears]]></content>
+        <title type="html"><![CDATA[Study Finds Pay-for-Pollution Policies Effective Against Climate Change (BitToc Hot)]]></title>
+        <id>https://apnews.com/article/climate-change-price-hike-policies-emissions-1d211ff66f7ab768a69466b9af281c79?ref=biztoc.com</id>
+        <link href="https://apnews.com/article/climate-change-price-hike-policies-emissions-1d211ff66f7ab768a69466b9af281c79?ref=biztoc.com"/>
+        <updated>2024-08-23T12:26:05.978Z</updated>
+        <content type="html"><![CDATA[Study Finds Pay-for-Pollution Policies Effective Against Climate Change]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ukrainian Missile Strike Sinks Major Russian Cargo Ship (BitToc Hot)]]></title>
-        <id>https://www.newsweek.com/russian-black-sea-ship-sinks-ukraine-missile-video-1943366?ref=biztoc.com</id>
-        <link href="https://www.newsweek.com/russian-black-sea-ship-sinks-ukraine-missile-video-1943366?ref=biztoc.com"/>
-        <updated>2024-08-23T08:18:18.662Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/a67f652a9dd797a9_sq.webp" class="pl" alt="" style="visibility: visible;">                        Ukrainian Missile Strike Sinks Major Russian Cargo Ship]]></content>
+        <title type="html"><![CDATA[Shein Under Fire for Child Labour in Supply Chain (BitToc Hot)]]></title>
+        <id>https://www.theguardian.com/business/article/2024/aug/23/shein-fashion-retailer-child-labour-supply-chain?ref=biztoc.com</id>
+        <link href="https://www.theguardian.com/business/article/2024/aug/23/shein-fashion-retailer-child-labour-supply-chain?ref=biztoc.com"/>
+        <updated>2024-08-23T12:26:05.979Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/1e07b8fe47349ec4_sq.webp" class="pl" alt="" style="visibility: visible;">                        Shein Under Fire for Child Labour in Supply Chain]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Faces Renewed US Antitrust Case (BitToc Hot)]]></title>
-        <id>https://www.siliconrepublic.com/business/amazon-revived-antitrust-case-us?ref=biztoc.com</id>
-        <link href="https://www.siliconrepublic.com/business/amazon-revived-antitrust-case-us?ref=biztoc.com"/>
-        <updated>2024-08-23T08:18:18.663Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/c679648e334c99d2_sq.webp" class="pl" alt="" style="visibility: visible;">                        Amazon Faces Renewed US Antitrust Case]]></content>
+        <title type="html"><![CDATA[Halliburton Systems Offline After Cyberattack (BitToc Hot)]]></title>
+        <id>https://edition.cnn.com/2024/08/23/tech/halliburton-cyberattack/index.html?ref=biztoc.com</id>
+        <link href="https://edition.cnn.com/2024/08/23/tech/halliburton-cyberattack/index.html?ref=biztoc.com"/>
+        <updated>2024-08-23T12:26:05.981Z</updated>
+        <content type="html"><![CDATA[Halliburton Systems Offline After Cyberattack]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Justice Department to Sue RealPage for Rent Price Collusion (BitToc Hot)]]></title>
-        <id>https://www.nytimes.com/2024/08/23/business/economy/realpage-doj-antitrust-suit-rent.html?ref=biztoc.com</id>
-        <link href="https://www.nytimes.com/2024/08/23/business/economy/realpage-doj-antitrust-suit-rent.html?ref=biztoc.com"/>
-        <updated>2024-08-23T08:18:18.664Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/0e985d5628d852c2_sq.webp" class="pl" alt="" style="visibility: visible;">                        US Justice Department to Sue RealPage for Rent Price Collusion]]></content>
+        <title type="html"><![CDATA[U.S. Glide Bombs Kill 40 Russian Troops in Kursk, Says Kyiv (BitToc Hot)]]></title>
+        <id>https://www.newsweek.com/us-glide-bombs-used-wipe-out-40-russian-troops-kursk-kyiv-says-1943439?ref=biztoc.com</id>
+        <link href="https://www.newsweek.com/us-glide-bombs-used-wipe-out-40-russian-troops-kursk-kyiv-says-1943439?ref=biztoc.com"/>
+        <updated>2024-08-23T12:26:05.983Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/91697e36413d90b3_sq.webp" class="pl" alt="" style="visibility: visible;">                        U.S. Glide Bombs Kill 40 Russian Troops in Kursk, Says Kyiv]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New COVID-19 Vaccines Approved Amid Summer Surge (BitToc Hot)]]></title>
-        <id>https://www.salon.com/2024/08/22/is-getting-so-bad-new-vaccines-were-given-early-approval/?ref=biztoc.com</id>
-        <link href="https://www.salon.com/2024/08/22/is-getting-so-bad-new-vaccines-were-given-early-approval/?ref=biztoc.com"/>
-        <updated>2024-08-23T08:18:18.666Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/fe3b2dc10952cfab_sq.webp" class="pl" alt="" style="visibility: visible;">                        New COVID-19 Vaccines Approved Amid Summer Surge]]></content>
+        <title type="html"><![CDATA[Chinese Firms Stockpile Chip Equipment Against U.S. Curbs (BitToc Hot)]]></title>
+        <id>https://www.semafor.com/article/08/23/2024/chinese-firms-import-record-levels-of-chip-making-equipment?ref=biztoc.com</id>
+        <link href="https://www.semafor.com/article/08/23/2024/chinese-firms-import-record-levels-of-chip-making-equipment?ref=biztoc.com"/>
+        <updated>2024-08-23T12:26:05.984Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/1e2ce9cff895bcfa_sq.webp" class="pl" alt="" style="visibility: visible;">                        Chinese Firms Stockpile Chip Equipment Against U.S. Curbs]]></content>
     </entry>
 </feed>

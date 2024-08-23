@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-08-23T08:18:19.319Z</updated>
+    <updated>2024-08-23T12:26:06.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[蜘蛛小子V2]]></title>
+        <id>https://www.manhuagui.com/comic/52987/</id>
+        <link href="https://www.manhuagui.com/comic/52987/"/>
+        <updated>2024-08-23T12:25:59.459Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52987.jpg" alt="蜘蛛小子V2"><div class="tt">更新至第06卷</div><div class="updateon">更新于：2024-08-23<p>评分： <b>4.0</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全身是伤的同学]]></title>
         <id>https://www.manhuagui.com/comic/53387/</id>
@@ -199,7 +206,7 @@
         <id>https://www.manhuagui.com/comic/53515/</id>
         <link href="https://www.manhuagui.com/comic/53515/"/>
         <updated>2024-08-23T04:17:26.239Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53515.jpg" alt="(C104)实录 天使便利店 24小时!!"><div class="tt">更新至全一卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-08-23<p>评分： <b>7.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53515.jpg" alt="(C104)实录 天使便利店 24小时!!"><div class="tt">更新至全一卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-08-23<p>评分： <b>8.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[酒之仄径]]></title>
@@ -241,7 +248,7 @@
         <id>https://www.manhuagui.com/comic/51798/</id>
         <link href="https://www.manhuagui.com/comic/51798/"/>
         <updated>2024-08-23T04:17:26.251Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/51798.jpg" alt="笔之所向"><div class="tt">更新至第02话</div><div class="updateon">更新于：2024-08-23<p>评分： <b>3.4</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/51798.jpg" alt="笔之所向"><div class="tt">更新至第02话</div><div class="updateon">更新于：2024-08-23<p>评分： <b>3.3</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[对抗体]]></title>
@@ -291,12 +298,5 @@
         <link href="https://www.manhuagui.com/comic/50993/"/>
         <updated>2024-08-23T04:17:26.260Z</updated>
         <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50993.jpg" alt="再行己志鬼杀道"><div class="tt">更新至第07话</div><div class="updateon">更新于：2024-08-23<p>评分： <b>8.7</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最快的level up]]></title>
-        <id>https://www.manhuagui.com/comic/41742/</id>
-        <link href="https://www.manhuagui.com/comic/41742/"/>
-        <updated>2024-08-23T04:17:26.261Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/41742.jpg" alt="世界最快的level up"><div class="tt">更新至第14话</div><div class="updateon">更新于：2024-08-23<p>评分： <b>7.2</b></p></div>]]></content>
     </entry>
 </feed>
