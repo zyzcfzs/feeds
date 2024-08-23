@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-23T12:26:06.658Z</updated>
+    <updated>2024-08-23T16:18:00.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 23 星期五 宜   追求]]></title>
-        <id>https://www.cikeee.cc/mov/681306423095143/</id>
-        <link href="https://www.cikeee.cc/mov/681306423095143/"/>
-        <updated>2024-08-22T16:17:33.730Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681306423095143/" target="_blank">
+        <title type="html"><![CDATA[捌月 24 星期六 宜   开怀]]></title>
+        <id>https://www.cikeee.cc/mov/673783633366183/</id>
+        <link href="https://www.cikeee.cc/mov/673783633366183/"/>
+        <updated>2024-08-23T16:17:57.049Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/673783633366183/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/107d/681306423095143.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/102d/673783633366183.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681306423095143/?>" target="_blank">7.9分&nbsp;剧情/喜剧/爱情&nbsp;2021&nbsp;挪威</div>
+                    <div id="movie-information" href="/mov/673783633366183/?>" target="_blank">8.6分&nbsp;剧情/家庭&nbsp;1999&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">你有没有意识到，你在毁掉什么东西？</blockquote>
-                    <div id="movie-name" href="/mov/681306423095143/" target="_blank">——《世界上最糟糕的人》</div>]]></content>
+                    <blockquote id="movie-text">人的心要比走路的脚还要累。</blockquote>
+                    <div id="movie-name" href="/mov/673783633366183/" target="_blank">——《那山那人那狗》</div>]]></content>
     </entry>
 </feed>
