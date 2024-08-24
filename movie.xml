@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-24T12:24:14.863Z</updated>
+    <updated>2024-08-24T16:15:27.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 24 星期六 宜   开怀]]></title>
-        <id>https://www.cikeee.cc/mov/673783633366183/</id>
-        <link href="https://www.cikeee.cc/mov/673783633366183/"/>
-        <updated>2024-08-23T16:17:57.049Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/673783633366183/" target="_blank">
+        <title type="html"><![CDATA[捌月 25 星期日 宜   善良]]></title>
+        <id>https://www.cikeee.cc/mov/674319817586912/</id>
+        <link href="https://www.cikeee.cc/mov/674319817586912/"/>
+        <updated>2024-08-24T16:15:24.293Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319817586912/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/102d/673783633366183.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319817586912.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/673783633366183/?>" target="_blank">8.6分&nbsp;剧情/家庭&nbsp;1999&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/674319817586912/?>" target="_blank">9.3分&nbsp;剧情/传记/历史&nbsp;1987&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">人的心要比走路的脚还要累。</blockquote>
-                    <div id="movie-name" href="/mov/673783633366183/" target="_blank">——《那山那人那狗》</div>]]></content>
+                    <blockquote id="movie-text">我总以为我恨这里。现在，我却害怕离开。</blockquote>
+                    <div id="movie-name" href="/mov/674319817586912/" target="_blank">——《末代皇帝》</div>]]></content>
     </entry>
 </feed>
