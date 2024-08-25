@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-08-25T04:16:16.727Z</updated>
+    <updated>2024-08-25T08:16:33.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/800/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Telegram CEO Pavel Durov Arrested in France]]></title>
+        <title type="html"><![CDATA[Hezbollah Attacks Israel With Rockets; Israeli Jets Respond With Strikes]]></title>
+        <id>https://www.benzinga.com/news/24/08/40542630/hezbollah-barrages-israel-with-rockets-and-drones-israeli-jets-strike-back-in-lebanon-as-middle-east?ref=biztoc.com</id>
+        <link href="https://www.benzinga.com/news/24/08/40542630/hezbollah-barrages-israel-with-rockets-and-drones-israeli-jets-strike-back-in-lebanon-as-middle-east?ref=biztoc.com"/>
+        <updated>2024-08-25T08:16:32.968Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/87afc451f131a4e1_sq.webp" class="pl" alt="" style="visibility: visible;">                        Hezbollah Attacks Israel With Rockets; Israeli Jets Respond With Strikes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Opposes US Sanctions on Russia-Linked Entities]]></title>
+        <id>https://www.bloomberg.com/news/articles/2024-08-25/china-firmly-opposed-to-us-sanctions-on-russia-linked-entities?ref=biztoc.com</id>
+        <link href="https://www.bloomberg.com/news/articles/2024-08-25/china-firmly-opposed-to-us-sanctions-on-russia-linked-entities?ref=biztoc.com"/>
+        <updated>2024-08-25T08:16:32.971Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/ec50f345b0140afe_sq.webp" class="pl" alt="" style="visibility: visible;">                        China Opposes US Sanctions on Russia-Linked Entities]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halliburton Confirms Cyberattack Led to Systems Shutdown]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/?ref=biztoc.com</id>
+        <link href="https://www.bleepingcomputer.com/news/security/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/?ref=biztoc.com"/>
+        <updated>2024-08-25T08:16:32.973Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/86ab3f151ca34dda_sq.webp" class="pl" alt="" style="visibility: visible;">                        Halliburton Confirms Cyberattack Led to Systems Shutdown]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram CEO Arrested in France Over Alleged Criminal Activity]]></title>
+        <id>https://www.coindesk.com/markets/2024/08/25/ton-down-14-as-telegram-ceo-pavel-durov-arrested-in-france/?ref=biztoc.com</id>
+        <link href="https://www.coindesk.com/markets/2024/08/25/ton-down-14-as-telegram-ceo-pavel-durov-arrested-in-france/?ref=biztoc.com"/>
+        <updated>2024-08-25T08:16:32.975Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/0a3117183df18437_sq.webp" class="pl" alt="" style="visibility: visible;">                        Telegram CEO Arrested in France Over Alleged Criminal Activity]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram CEO Pavel Durov Arrested at French Airport]]></title>
         <id>https://finance.yahoo.com/news/telegram-messaging-app-ceo-pavel-212228927.html?ref=biztoc.com</id>
         <link href="https://finance.yahoo.com/news/telegram-messaging-app-ceo-pavel-212228927.html?ref=biztoc.com"/>
         <updated>2024-08-25T04:16:16.116Z</updated>
-        <content type="html"><![CDATA[Telegram CEO Pavel Durov Arrested in France]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine's Counteroffensive Sends Message to Russia and U.S.]]></title>
-        <id>https://www.wsj.com/articles/zelenskys-invasion-of-russia-sends-a-message-to-moscowand-washington-48eaef63?ref=biztoc.com</id>
-        <link href="https://www.wsj.com/articles/zelenskys-invasion-of-russia-sends-a-message-to-moscowand-washington-48eaef63?ref=biztoc.com"/>
-        <updated>2024-08-25T04:16:16.118Z</updated>
-        <content type="html"><![CDATA[Ukraine's Counteroffensive Sends Message to Russia and U.S.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israel Conducts Airstrikes in Lebanon to Thwart Hezbollah]]></title>
-        <id>https://www.bloomberg.com/news/articles/2024-08-25/israel-says-it-s-fired-on-lebanon-to-prevent-hezbollah-attack?ref=biztoc.com</id>
-        <link href="https://www.bloomberg.com/news/articles/2024-08-25/israel-says-it-s-fired-on-lebanon-to-prevent-hezbollah-attack?ref=biztoc.com"/>
-        <updated>2024-08-25T04:16:16.121Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/1263e79f9eeb4224_sq.webp" class="pl" alt="" style="visibility: visible;">                        Israel Conducts Airstrikes in Lebanon to Thwart Hezbollah]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Possible Cyberattack Disrupts Seattle's Port and Airport]]></title>
-        <id>https://www.king5.com/article/news/local/possible-cyberattack-outages-port-seattle-tacoma-airport/281-5131ec51-59ce-44b0-87bb-229943140223?ref=biztoc.com</id>
-        <link href="https://www.king5.com/article/news/local/possible-cyberattack-outages-port-seattle-tacoma-airport/281-5131ec51-59ce-44b0-87bb-229943140223?ref=biztoc.com"/>
-        <updated>2024-08-25T04:16:16.126Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/cf42085ac6607ed2_sq.webp" class="pl" alt="" style="visibility: visible;">                        Possible Cyberattack Disrupts Seattle's Port and Airport]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart Recalls Apple Juice Due to High Arsenic Levels]]></title>
-        <id>https://www.foxbusiness.com/lifestyle/walmart-recalling-apple-juice-25-states-due-arsenic-levels?ref=biztoc.com</id>
-        <link href="https://www.foxbusiness.com/lifestyle/walmart-recalling-apple-juice-25-states-due-arsenic-levels?ref=biztoc.com"/>
-        <updated>2024-08-25T04:16:16.127Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/5c36b530aa881d8a_sq.webp" class="pl" alt="" style="visibility: visible;">                        Walmart Recalls Apple Juice Due to High Arsenic Levels]]></content>
+        <content type="html"><![CDATA[Telegram CEO Pavel Durov Arrested at French Airport]]></content>
     </entry>
 </feed>
