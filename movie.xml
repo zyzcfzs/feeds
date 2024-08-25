@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-25T12:23:56.309Z</updated>
+    <updated>2024-08-25T16:15:54.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 25 星期日 宜   善良]]></title>
-        <id>https://www.cikeee.cc/mov/674319817586912/</id>
-        <link href="https://www.cikeee.cc/mov/674319817586912/"/>
-        <updated>2024-08-24T16:15:24.293Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319817586912/" target="_blank">
+        <title type="html"><![CDATA[捌月 26 星期一 宜   心中有光]]></title>
+        <id>https://www.cikeee.cc/mov/677663216913701/</id>
+        <link href="https://www.cikeee.cc/mov/677663216913701/"/>
+        <updated>2024-08-25T16:15:49.998Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663216913701/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319817586912.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663216913701.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674319817586912/?>" target="_blank">9.3分&nbsp;剧情/传记/历史&nbsp;1987&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/677663216913701/?>" target="_blank">8.9分&nbsp;剧情/动作/悬疑/惊悚/犯罪&nbsp;2003&nbsp;韩国</div>
                     
-                    <blockquote id="movie-text">我总以为我恨这里。现在，我却害怕离开。</blockquote>
-                    <div id="movie-name" href="/mov/674319817586912/" target="_blank">——《末代皇帝》</div>]]></content>
+                    <blockquote id="movie-text">我也许不知道别的，但是我的双眼可以读懂人。</blockquote>
+                    <div id="movie-name" href="/mov/677663216913701/" target="_blank">——《杀人回忆》</div>]]></content>
     </entry>
 </feed>
