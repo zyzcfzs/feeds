@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-26T12:26:47.729Z</updated>
+    <updated>2024-08-26T16:18:51.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 26 星期一 宜   心中有光]]></title>
-        <id>https://www.cikeee.cc/mov/677663216913701/</id>
-        <link href="https://www.cikeee.cc/mov/677663216913701/"/>
-        <updated>2024-08-25T16:15:49.998Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663216913701/" target="_blank">
+        <title type="html"><![CDATA[捌月 27 星期二 宜   志在千里]]></title>
+        <id>https://www.cikeee.cc/mov/674190237250449/</id>
+        <link href="https://www.cikeee.cc/mov/674190237250449/"/>
+        <updated>2024-08-26T16:18:47.136Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674190237250449/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663216913701.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674190237250449.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/677663216913701/?>" target="_blank">8.9分&nbsp;剧情/动作/悬疑/惊悚/犯罪&nbsp;2003&nbsp;韩国</div>
+                    <div id="movie-information" href="/mov/674190237250449/?>" target="_blank">8.7分&nbsp;剧情/喜剧/爱情&nbsp;2001&nbsp;法国</div>
                     
-                    <blockquote id="movie-text">我也许不知道别的，但是我的双眼可以读懂人。</blockquote>
-                    <div id="movie-name" href="/mov/677663216913701/" target="_blank">——《杀人回忆》</div>]]></content>
+                    <blockquote id="movie-text">缘分像环法单车赛，你一味等，缘分就擦身而过</blockquote>
+                    <div id="movie-name" href="/mov/674190237250449/" target="_blank">——《天使爱美丽》</div>]]></content>
     </entry>
 </feed>
