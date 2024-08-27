@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-27T12:26:30.707Z</updated>
+    <updated>2024-08-27T16:17:21.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 27 星期二 宜   志在千里]]></title>
-        <id>https://www.cikeee.cc/mov/674190237250449/</id>
-        <link href="https://www.cikeee.cc/mov/674190237250449/"/>
-        <updated>2024-08-26T16:18:47.136Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674190237250449/" target="_blank">
+        <title type="html"><![CDATA[捌月 28 星期三 宜   自强]]></title>
+        <id>https://www.cikeee.cc/mov/680139902669169/</id>
+        <link href="https://www.cikeee.cc/mov/680139902669169/"/>
+        <updated>2024-08-27T16:17:17.873Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139902669169/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674190237250449.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139902669169.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674190237250449/?>" target="_blank">8.7分&nbsp;剧情/喜剧/爱情&nbsp;2001&nbsp;法国</div>
+                    <div id="movie-information" href="/mov/680139902669169/?>" target="_blank">8.3分&nbsp;喜剧/动作/惊悚&nbsp;1995&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">缘分像环法单车赛，你一味等，缘分就擦身而过</blockquote>
-                    <div id="movie-name" href="/mov/674190237250449/" target="_blank">——《天使爱美丽》</div>]]></content>
+                    <blockquote id="movie-text">我只想证明我仍然活着，我只想做点惊人之举，让我感觉被需要，这样的感觉真的很好。</blockquote>
+                    <div id="movie-name" href="/mov/680139902669169/" target="_blank">——《真实的谎言》</div>]]></content>
     </entry>
 </feed>
