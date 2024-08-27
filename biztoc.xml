@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-08-27T04:19:12.395Z</updated>
+    <updated>2024-08-27T08:19:04.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/800/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Cyberattack Hits Seattle Airport, Disrupting Internet]]></title>
+        <title type="html"><![CDATA[Fed's Daly Agrees With Powell That It's Time to Cut Rates]]></title>
+        <id>https://www.bloomberg.com/news/articles/2024-08-26/fed-s-daly-agrees-with-powell-s-view-it-s-time-to-cut-rates?ref=biztoc.com</id>
+        <link href="https://www.bloomberg.com/news/articles/2024-08-26/fed-s-daly-agrees-with-powell-s-view-it-s-time-to-cut-rates?ref=biztoc.com"/>
+        <updated>2024-08-27T08:19:04.309Z</updated>
+        <content type="html"><![CDATA[Fed's Daly Agrees With Powell That It's Time to Cut Rates]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zuckerberg Reveals Biden Admin's Pressure on Meta to Censor COVID-19 Content]]></title>
+        <id>https://www.reuters.com/technology/zuckerberg-says-biden-administration-pressured-meta-censor-covid-19-content-2024-08-27/?ref=biztoc.com</id>
+        <link href="https://www.reuters.com/technology/zuckerberg-says-biden-administration-pressured-meta-censor-covid-19-content-2024-08-27/?ref=biztoc.com"/>
+        <updated>2024-08-27T08:19:04.309Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/3d86c12e7772f53a_sq.webp" class="pl" alt="" style="visibility: visible;">                        Zuckerberg Reveals Biden Admin's Pressure on Meta to Censor COVID-19 Content]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's PDD Stock Plunges 28% Amid Economic Slowdown]]></title>
+        <id>https://www.asiafinancial.com/pdd-stock-plunges-28-as-revenue-hit-by-china-slowdown?ref=biztoc.com</id>
+        <link href="https://www.asiafinancial.com/pdd-stock-plunges-28-as-revenue-hit-by-china-slowdown?ref=biztoc.com"/>
+        <updated>2024-08-27T08:19:04.311Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/01cc3cd17aab8cd5_sq.webp" class="pl" alt="" style="visibility: visible;">                        China's PDD Stock Plunges 28% Amid Economic Slowdown]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada Imposes 100% Tariff on Chinese-Made Electric Vehicles]]></title>
+        <id>https://www.euronews.com/business/2024/08/27/canada-to-impose-100-tariff-on-chinese-made-electric-vehicles?ref=biztoc.com</id>
+        <link href="https://www.euronews.com/business/2024/08/27/canada-to-impose-100-tariff-on-chinese-made-electric-vehicles?ref=biztoc.com"/>
+        <updated>2024-08-27T08:19:04.313Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/fdac3b00293c4e81_sq.webp" class="pl" alt="" style="visibility: visible;">                        Canada Imposes 100% Tariff on Chinese-Made Electric Vehicles]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apparent Cyberattack Causes Major Internet Outages at Seattle Airport]]></title>
         <id>https://www.pbs.org/newshour/nation/apparent-cyberattack-hits-seattle-airport-causing-major-internet-outages?ref=biztoc.com</id>
         <link href="https://www.pbs.org/newshour/nation/apparent-cyberattack-hits-seattle-airport-causing-major-internet-outages?ref=biztoc.com"/>
         <updated>2024-08-27T04:19:11.731Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/db7d5f98c5afa5a7_sq.webp" class="pl" alt="" style="visibility: visible;">                        Cyberattack Hits Seattle Airport, Disrupting Internet]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuckerberg Admits to White House Pressure on Content]]></title>
-        <id>https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399?ref=biztoc.com</id>
-        <link href="https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399?ref=biztoc.com"/>
-        <updated>2024-08-27T04:19:11.733Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/6ff22ab731d5bf9e_sq.webp" class="pl" alt="" style="visibility: visible;">                        Zuckerberg Admits to White House Pressure on Content]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Coast Guard Expands with 'Monster' Ships, Destroyers]]></title>
-        <id>https://www.businessinsider.com/china-coast-guard-second-navy-monster-ship-destroyer-drone-carrier-2024-8?ref=biztoc.com</id>
-        <link href="https://www.businessinsider.com/china-coast-guard-second-navy-monster-ship-destroyer-drone-carrier-2024-8?ref=biztoc.com"/>
-        <updated>2024-08-27T04:19:11.734Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/144509313e7eecfa_sq.webp" class="pl" alt="" style="visibility: visible;">                        China's Coast Guard Expands with 'Monster' Ships, Destroyers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's BYD to Use Huawei’s Autonomous Driving Systems]]></title>
-        <id>https://www.reuters.com/business/autos-transportation/chinas-byd-use-huaweis-advanced-autonomous-driving-system-off-road-evs-2024-08-27/?ref=biztoc.com</id>
-        <link href="https://www.reuters.com/business/autos-transportation/chinas-byd-use-huaweis-advanced-autonomous-driving-system-off-road-evs-2024-08-27/?ref=biztoc.com"/>
-        <updated>2024-08-27T04:19:11.738Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/d62bf29e8cdec3a7_sq.webp" class="pl" alt="" style="visibility: visible;">                        China's BYD to Use Huawei’s Autonomous Driving Systems]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oil Prices Surge Amid Libyan Outages, Middle East Tensions]]></title>
-        <id>https://www.reuters.com/markets/commodities/oil-prices-pause-after-surging-libyan-outages-middle-east-tensions-2024-08-27/?ref=biztoc.com</id>
-        <link href="https://www.reuters.com/markets/commodities/oil-prices-pause-after-surging-libyan-outages-middle-east-tensions-2024-08-27/?ref=biztoc.com"/>
-        <updated>2024-08-27T04:19:11.744Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/db4e0d2e86b04c10_sq.webp" class="pl" alt="" style="visibility: visible;">                        Oil Prices Surge Amid Libyan Outages, Middle East Tensions]]></content>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/db7d5f98c5afa5a7_sq.webp" class="pl" alt="" style="visibility: visible;">                        Apparent Cyberattack Causes Major Internet Outages at Seattle Airport]]></content>
     </entry>
 </feed>
