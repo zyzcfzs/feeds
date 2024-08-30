@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-08-30T12:26:36.466Z</updated>
+    <updated>2024-08-30T16:17:21.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[捌月 30 星期五 宜   化凶为吉]]></title>
-        <id>https://www.cikeee.cc/mov/680038827852587/</id>
-        <link href="https://www.cikeee.cc/mov/680038827852587/"/>
-        <updated>2024-08-29T16:17:16.633Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680038827852587/" target="_blank">
+        <title type="html"><![CDATA[捌月 31 星期六 宜   奋发]]></title>
+        <id>https://www.cikeee.cc/mov/679003349888419/</id>
+        <link href="https://www.cikeee.cc/mov/679003349888419/"/>
+        <updated>2024-08-30T16:17:17.809Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679003349888419/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038827852587.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/679003349888419.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680038827852587/?>" target="_blank">8.6分&nbsp;剧情/惊悚&nbsp;1995&nbsp;法国</div>
+                    <div id="movie-information" href="/mov/679003349888419/?>" target="_blank">7.5分&nbsp;动作/惊悚&nbsp;2008&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我是凶器，但我不是凶手。</blockquote>
-                    <div id="movie-name" href="/mov/680038827852587/" target="_blank">——《一级谋杀》</div>]]></content>
+                    <blockquote id="movie-text">当逼于无奈时，杀人就像呼吸一样简单。</blockquote>
+                    <div id="movie-name" href="/mov/679003349888419/" target="_blank">——《第一滴血4》</div>]]></content>
     </entry>
 </feed>
