@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-09-02T16:18:41.504Z</updated>
+    <updated>2024-09-02T20:16:13.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://www.manhuagui.com/comic/38883/</id>
         <link href="https://www.manhuagui.com/comic/38883/"/>
         <updated>2024-09-02T16:18:34.015Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/38883.jpg" alt="琉璃Dragon"><div class="tt">更新至第20话[完]</div><div class="fd"></div><div class="updateon">更新于：2024-09-02<p>评分： <b>9.5</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/38883.jpg" alt="琉璃Dragon"><div class="tt">更新至第20话[完]</div><div class="fd"></div><div class="updateon">更新于：2024-09-02<p>评分： <b>9.4</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[巧克力吸血鬼]]></title>
@@ -94,7 +94,7 @@
         <id>https://www.manhuagui.com/comic/53633/</id>
         <link href="https://www.manhuagui.com/comic/53633/"/>
         <updated>2024-09-02T16:18:34.024Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53633.jpg" alt="虐杀轮回"><div class="tt">更新至第14话</div><div class="updateon">更新于：2024-09-02<p>评分： <b>6.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53633.jpg" alt="虐杀轮回"><div class="tt">更新至第14话</div><div class="updateon">更新于：2024-09-02<p>评分： <b>4.7</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美术社女孩]]></title>
@@ -297,6 +297,6 @@
         <id>https://www.manhuagui.com/comic/53630/</id>
         <link href="https://www.manhuagui.com/comic/53630/"/>
         <updated>2024-09-02T16:18:34.054Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53630.jpg" alt="无刺有刺短篇集"><div class="tt">更新至全一卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-09-02<p>评分： <b>0.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53630.jpg" alt="无刺有刺短篇集"><div class="tt">更新至全一卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-09-02<p>评分： <b>6.0</b></p></div>]]></content>
     </entry>
 </feed>
