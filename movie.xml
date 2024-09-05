@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-05T12:27:29.902Z</updated>
+    <updated>2024-09-05T16:18:49.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 05 星期四 宜   只争朝夕]]></title>
-        <id>https://www.cikeee.cc/mov/679993346559578/</id>
-        <link href="https://www.cikeee.cc/mov/679993346559578/"/>
-        <updated>2024-09-04T16:17:55.461Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993346559578/" target="_blank">
+        <title type="html"><![CDATA[玖月 06 星期五 宜   乐观]]></title>
+        <id>https://www.cikeee.cc/mov/680140163657817/</id>
+        <link href="https://www.cikeee.cc/mov/680140163657817/"/>
+        <updated>2024-09-05T16:18:45.666Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140163657817/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993346559578.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140163657817.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679993346559578/?>" target="_blank">7.3分&nbsp;剧情/惊悚/犯罪&nbsp;2006&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680140163657817/?>" target="_blank">8.2分&nbsp;剧情&nbsp;2007&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">对不起，我是警察。</blockquote>
-                    <div id="movie-name" href="/mov/679993346559578/" target="_blank">——《无间道风云》</div>]]></content>
+                    <blockquote id="movie-text">世界上唯一的罪就是偷窃，各种罪都是偷窃的变种。</blockquote>
+                    <div id="movie-name" href="/mov/680140163657817/" target="_blank">——《追风筝的人》</div>]]></content>
     </entry>
 </feed>
