@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-06T12:27:23.944Z</updated>
+    <updated>2024-09-06T16:19:16.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 06 星期五 宜   乐观]]></title>
-        <id>https://www.cikeee.cc/mov/680140163657817/</id>
-        <link href="https://www.cikeee.cc/mov/680140163657817/"/>
-        <updated>2024-09-05T16:18:45.666Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140163657817/" target="_blank">
+        <title type="html"><![CDATA[玖月 07 星期六 宜   勇敢]]></title>
+        <id>https://www.cikeee.cc/mov/673995072586023/</id>
+        <link href="https://www.cikeee.cc/mov/673995072586023/"/>
+        <updated>2024-09-06T16:19:13.053Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/673995072586023/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140163657817.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/673995072586023.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680140163657817/?>" target="_blank">8.2分&nbsp;剧情&nbsp;2007&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/673995072586023/?>" target="_blank">8.8分&nbsp;剧情/喜剧/犯罪&nbsp;2014&nbsp;阿根廷</div>
                     
-                    <blockquote id="movie-text">世界上唯一的罪就是偷窃，各种罪都是偷窃的变种。</blockquote>
-                    <div id="movie-name" href="/mov/680140163657817/" target="_blank">——《追风筝的人》</div>]]></content>
+                    <blockquote id="movie-text">荒诞且不可知，或许正是生活的有趣之处。</blockquote>
+                    <div id="movie-name" href="/mov/673995072586023/" target="_blank">——《荒蛮故事》</div>]]></content>
     </entry>
 </feed>
