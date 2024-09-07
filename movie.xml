@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-07T12:24:52.164Z</updated>
+    <updated>2024-09-07T16:15:50.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 07 星期六 宜   勇敢]]></title>
-        <id>https://www.cikeee.cc/mov/673995072586023/</id>
-        <link href="https://www.cikeee.cc/mov/673995072586023/"/>
-        <updated>2024-09-06T16:19:13.053Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/673995072586023/" target="_blank">
+        <title type="html"><![CDATA[玖月 08 星期日 宜   敢爱敢恨]]></title>
+        <id>https://www.cikeee.cc/mov/675438675240767/</id>
+        <link href="https://www.cikeee.cc/mov/675438675240767/"/>
+        <updated>2024-09-07T16:15:46.997Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438675240767/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/673995072586023.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438675240767.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/673995072586023/?>" target="_blank">8.8分&nbsp;剧情/喜剧/犯罪&nbsp;2014&nbsp;阿根廷</div>
+                    <div id="movie-information" href="/mov/675438675240767/?>" target="_blank">8.0分&nbsp;喜剧/动作/惊悚/犯罪&nbsp;1985&nbsp;中国香港</div>
                     
-                    <blockquote id="movie-text">荒诞且不可知，或许正是生活的有趣之处。</blockquote>
-                    <div id="movie-name" href="/mov/673995072586023/" target="_blank">——《荒蛮故事》</div>]]></content>
+                    <blockquote id="movie-text">如果希望无灾无难，长命百岁的话，最好不要来做警察。</blockquote>
+                    <div id="movie-name" href="/mov/675438675240767/" target="_blank">——《警察故事》</div>]]></content>
     </entry>
 </feed>
