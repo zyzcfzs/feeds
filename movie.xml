@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-11T12:28:10.927Z</updated>
+    <updated>2024-09-11T16:18:53.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 11 星期三 宜   百无禁忌]]></title>
-        <id>https://www.cikeee.cc/mov/679993451861746/</id>
-        <link href="https://www.cikeee.cc/mov/679993451861746/"/>
-        <updated>2024-09-10T16:17:18.014Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993451861746/" target="_blank">
+        <title type="html"><![CDATA[玖月 12 星期四 宜   披荆斩棘]]></title>
+        <id>https://www.cikeee.cc/mov/679906600815822/</id>
+        <link href="https://www.cikeee.cc/mov/679906600815822/"/>
+        <updated>2024-09-11T16:18:50.138Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679906600815822/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993451861746.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679906600815822.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679993451861746/?>" target="_blank">9.0分&nbsp;剧情/爱情/奇幻&nbsp;2008&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/679906600815822/?>" target="_blank">7.9分&nbsp;剧情/动作/犯罪&nbsp;1994&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我们的生命，因为各种各样的机遇而变得有意义。</blockquote>
-                    <div id="movie-name" href="/mov/679993451861746/" target="_blank">——《本杰明·巴顿奇事》</div>]]></content>
+                    <blockquote id="movie-text">我纯洁的一刻，胜过你谎言的一世。</blockquote>
+                    <div id="movie-name" href="/mov/679906600815822/" target="_blank">——《天生杀人狂》</div>]]></content>
     </entry>
 </feed>
