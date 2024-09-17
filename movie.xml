@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-17T12:28:03.465Z</updated>
+    <updated>2024-09-17T16:18:41.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 17 星期二 宜   学而不厌]]></title>
-        <id>https://www.cikeee.cc/mov/675706877981581/</id>
-        <link href="https://www.cikeee.cc/mov/675706877981581/"/>
-        <updated>2024-09-16T16:17:42.848Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706877981581/" target="_blank">
+        <title type="html"><![CDATA[玖月 18 星期三 宜   求索]]></title>
+        <id>https://www.cikeee.cc/mov/673948169113247/</id>
+        <link href="https://www.cikeee.cc/mov/673948169113247/"/>
+        <updated>2024-09-17T16:18:37.479Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/673948169113247/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706877981581.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/673948169113247.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706877981581/?>" target="_blank">8.9分&nbsp;剧情/喜剧/犯罪&nbsp;1994&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/673948169113247/?>" target="_blank">9.2分&nbsp;剧情/喜剧&nbsp;2011&nbsp;法国</div>
                     
-                    <blockquote id="movie-text">当你可以跟一个人不说话，分享片刻寂静，且不会觉得尴尬，那一刻你就会明白，你遇到了对的人。</blockquote>
-                    <div id="movie-name" href="/mov/675706877981581/" target="_blank">——《低俗小说》</div>]]></content>
+                    <blockquote id="movie-text">有时，你必须进入别人的世界去发现自己的世界缺少什么。</blockquote>
+                    <div id="movie-name" href="/mov/673948169113247/" target="_blank">——《触不可及》</div>]]></content>
     </entry>
 </feed>
