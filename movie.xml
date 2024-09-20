@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-20T12:28:54.169Z</updated>
+    <updated>2024-09-20T16:18:03.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 20 星期五 宜   霉气退散]]></title>
-        <id>https://www.cikeee.cc/mov/675706861722952/</id>
-        <link href="https://www.cikeee.cc/mov/675706861722952/"/>
-        <updated>2024-09-19T16:18:11.686Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706861722952/" target="_blank">
+        <title type="html"><![CDATA[玖月 21 星期六 宜   专注]]></title>
+        <id>https://www.cikeee.cc/mov/679993387920036/</id>
+        <link href="https://www.cikeee.cc/mov/679993387920036/"/>
+        <updated>2024-09-20T16:18:00.254Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993387920036/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706861722952.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993387920036.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706861722952/?>" target="_blank">8.0分&nbsp;悬疑/惊悚/恐怖&nbsp;2013&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/679993387920036/?>" target="_blank">8.9分&nbsp;喜剧/歌舞/犯罪&nbsp;2002&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">对于我们凡人来讲，我们的命运取决于我们选择跟随的一方。</blockquote>
-                    <div id="movie-name" href="/mov/675706861722952/" target="_blank">——《招魂》</div>]]></content>
+                    <blockquote id="movie-text">用最性感，也最世故的想象一瞥深不可测的人性。</blockquote>
+                    <div id="movie-name" href="/mov/679993387920036/" target="_blank">——《芝加哥》</div>]]></content>
     </entry>
 </feed>
