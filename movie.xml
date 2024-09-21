@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-21T12:25:46.042Z</updated>
+    <updated>2024-09-21T16:17:49.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 21 星期六 宜   专注]]></title>
-        <id>https://www.cikeee.cc/mov/679993387920036/</id>
-        <link href="https://www.cikeee.cc/mov/679993387920036/"/>
-        <updated>2024-09-20T16:18:00.254Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993387920036/" target="_blank">
+        <title type="html"><![CDATA[玖月 22 星期日 宜   不务空名]]></title>
+        <id>https://www.cikeee.cc/mov/677546743349532/</id>
+        <link href="https://www.cikeee.cc/mov/677546743349532/"/>
+        <updated>2024-09-21T16:17:46.498Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677546743349532/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993387920036.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677546743349532.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679993387920036/?>" target="_blank">8.9分&nbsp;喜剧/歌舞/犯罪&nbsp;2002&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/677546743349532/?>" target="_blank">8.8分&nbsp;剧情/悬疑/惊悚/犯罪&nbsp;2017&nbsp;西班牙</div>
                     
-                    <blockquote id="movie-text">用最性感，也最世故的想象一瞥深不可测的人性。</blockquote>
-                    <div id="movie-name" href="/mov/679993387920036/" target="_blank">——《芝加哥》</div>]]></content>
+                    <blockquote id="movie-text">你说的证词可能是真的，但故事的主人公不同。</blockquote>
+                    <div id="movie-name" href="/mov/677546743349532/" target="_blank">——《看不见的客人》</div>]]></content>
     </entry>
 </feed>
