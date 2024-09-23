@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyzcfzs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-23T01:07:58.639Z</updated>
+    <updated>2024-09-23T04:17:58.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[终极黑豹 (看漫画)]]></title>
+        <id>https://www.manhuagui.com/comic/51322/</id>
+        <link href="https://www.manhuagui.com/comic/51322/"/>
+        <updated>2024-09-23T04:17:51.399Z</updated>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/51322/" title="终极黑豹"><img src="//cf.mhgui.com/cpic/b/51322.jpg" alt="终极黑豹"><span class="bg"></span><span class="tt">更新至第08卷</span><span class="sl"></span></a><p class="ell"><a href="/comic/51322/" title="终极黑豹">终极黑豹</a></p><span class="updateon">更新于：2024-09-23<em>6.0</em></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想要读懂你的心 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/44557/</id>
@@ -23,7 +30,7 @@
         <id>https://www.manhuagui.com/comic/53053/</id>
         <link href="https://www.manhuagui.com/comic/53053/"/>
         <updated>2024-09-23T01:07:51.068Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53053/" title="遥颂天上曲，翘首盼君归"><img src="//cf.mhgui.com/cpic/b/53053.jpg" alt="遥颂天上曲，翘首盼君归"><span class="bg"></span><span class="tt">更新至第4话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53053/" title="遥颂天上曲，翘首盼君归">遥颂天上曲，翘首盼君归</a></p><span class="updateon">更新于：2024-09-23<em>9.1</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53053/" title="遥颂天上曲，翘首盼君归"><img src="//cf.mhgui.com/cpic/b/53053.jpg" alt="遥颂天上曲，翘首盼君归"><span class="bg"></span><span class="tt">更新至第4话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53053/" title="遥颂天上曲，翘首盼君归">遥颂天上曲，翘首盼君归</a></p><span class="updateon">更新于：2024-09-23<em>8.9</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[勇者再次启程 (看漫画)]]></title>
@@ -44,7 +51,7 @@
         <id>https://www.manhuagui.com/comic/50458/</id>
         <link href="https://www.manhuagui.com/comic/50458/"/>
         <updated>2024-09-22T16:17:15.104Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/50458/" title="神奇女侠V6"><img src="//cf.mhgui.com/cpic/b/50458.jpg" alt="神奇女侠V6"><span class="bg"></span><span class="tt">更新至第13卷</span><span class="sl"></span></a><p class="ell"><a href="/comic/50458/" title="神奇女侠V6">神奇女侠V6</a></p><span class="updateon">更新于：2024-09-22<em>4.5</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/50458/" title="神奇女侠V6"><img src="//cf.mhgui.com/cpic/b/50458.jpg" alt="神奇女侠V6"><span class="bg"></span><span class="tt">更新至第13卷</span><span class="sl"></span></a><p class="ell"><a href="/comic/50458/" title="神奇女侠V6">神奇女侠V6</a></p><span class="updateon">更新于：2024-09-22<em>4.3</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一定让你乖乖就范 (看漫画)]]></title>
@@ -86,21 +93,21 @@
         <id>https://www.manhuagui.com/comic/53605/</id>
         <link href="https://www.manhuagui.com/comic/53605/"/>
         <updated>2024-09-22T12:26:05.650Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53605/" title="TRPG玩家在异世界打造最强角色~献给亨德森的福音"><img src="//cf.mhgui.com/cpic/b/53605.jpg" alt="TRPG玩家在异世界打造最强角色~献给亨德森的福音"><span class="bg"></span><span class="tt">更新至第4话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53605/" title="TRPG玩家在异世界打造最强角色~献给亨德森的福音">TRPG玩家在异世界打造最强角色~献给亨德森的福音</a></p><span class="updateon">更新于：2024-09-22<em>9.2</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53605/" title="TRPG玩家在异世界打造最强角色~献给亨德森的福音"><img data-src="//cf.mhgui.com/cpic/b/53605.jpg" alt="TRPG玩家在异世界打造最强角色~献给亨德森的福音"><span class="bg"></span><span class="tt">更新至第4话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53605/" title="TRPG玩家在异世界打造最强角色~献给亨德森的福音">TRPG玩家在异世界打造最强角色~献给亨德森的福音</a></p><span class="updateon">更新于：2024-09-22<em>9.2</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[19年波比 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/52816/</id>
         <link href="https://www.manhuagui.com/comic/52816/"/>
         <updated>2024-09-22T12:26:05.650Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/52816/" title="19年波比"><img data-src="//cf.mhgui.com/cpic/b/52816.jpg" alt="19年波比"><span class="bg"></span><span class="tt">更新至第44话</span><span class="sl"></span></a><p class="ell"><a href="/comic/52816/" title="19年波比">19年波比</a></p><span class="updateon">更新于：2024-09-22<em>6.9</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/52816/" title="19年波比"><img data-src="//cf.mhgui.com/cpic/b/52816.jpg" alt="19年波比"><span class="bg"></span><span class="tt">更新至第44话</span><span class="sl"></span></a><p class="ell"><a href="/comic/52816/" title="19年波比">19年波比</a></p><span class="updateon">更新于：2024-09-22<em>6.5</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[沙漠大冒险 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/2881/</id>
         <link href="https://www.manhuagui.com/comic/2881/"/>
         <updated>2024-09-22T12:26:05.650Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/2881/" title="沙漠大冒险"><img data-src="//cf.mhgui.com/cpic/b/2881.jpg" alt="沙漠大冒险"><span class="bg"></span><span class="tt">更新至完全版01[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/2881/" title="沙漠大冒险">沙漠大冒险</a></p><span class="updateon">更新于：2024-09-22<em>8.2</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/2881/" title="沙漠大冒险"><img data-src="//cf.mhgui.com/cpic/b/2881.jpg" alt="沙漠大冒险"><span class="bg"></span><span class="tt">更新至完全版01[完]</span><span class="fd"></span></a><p class="ell"><a href="/comic/2881/" title="沙漠大冒险">沙漠大冒险</a></p><span class="updateon">更新于：2024-09-22<em>8.1</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[渣女没渣报 (看漫画)]]></title>
@@ -163,7 +170,7 @@
         <id>https://www.manhuagui.com/comic/49289/</id>
         <link href="https://www.manhuagui.com/comic/49289/"/>
         <updated>2024-09-22T08:17:23.626Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/49289/" title="少女Null"><img data-src="//cf.mhgui.com/cpic/b/49289.jpg" alt="少女Null"><span class="bg"></span><span class="tt">更新至特别篇16</span><span class="sl"></span></a><p class="ell"><a href="/comic/49289/" title="少女Null">少女Null</a></p><span class="updateon">更新于：2024-09-22<em>9.1</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/49289/" title="少女Null"><img data-src="//cf.mhgui.com/cpic/b/49289.jpg" alt="少女Null"><span class="bg"></span><span class="tt">更新至特别篇16</span><span class="sl"></span></a><p class="ell"><a href="/comic/49289/" title="少女Null">少女Null</a></p><span class="updateon">更新于：2024-09-22<em>9.0</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[神级画师的工作 (看漫画)]]></title>
@@ -177,7 +184,7 @@
         <id>https://www.manhuagui.com/comic/53424/</id>
         <link href="https://www.manhuagui.com/comic/53424/"/>
         <updated>2024-09-22T12:26:05.667Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53424/" title="始于谎言的夏日恋情 -squall-"><img data-src="//cf.mhgui.com/cpic/b/53424.jpg" alt="始于谎言的夏日恋情 -squall-"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53424/" title="始于谎言的夏日恋情 -squall-">始于谎言的夏日恋情 -squall-</a></p><span class="updateon">更新于：2024-09-22<em>8.7</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53424/" title="始于谎言的夏日恋情 -squall-"><img data-src="//cf.mhgui.com/cpic/b/53424.jpg" alt="始于谎言的夏日恋情 -squall-"><span class="bg"></span><span class="tt">更新至第02话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53424/" title="始于谎言的夏日恋情 -squall-">始于谎言的夏日恋情 -squall-</a></p><span class="updateon">更新于：2024-09-22<em>8.6</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[从今日起成为恶女 (看漫画)]]></title>
@@ -212,14 +219,14 @@
         <id>https://www.manhuagui.com/comic/48339/</id>
         <link href="https://www.manhuagui.com/comic/48339/"/>
         <updated>2024-09-22T12:26:05.669Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/48339/" title="硬汉⇔萝莉"><img data-src="//cf.mhgui.com/cpic/b/48339.jpg" alt="硬汉⇔萝莉"><span class="bg"></span><span class="tt">更新至第13话</span><span class="sl"></span></a><p class="ell"><a href="/comic/48339/" title="硬汉⇔萝莉">硬汉⇔萝莉</a></p><span class="updateon">更新于：2024-09-22<em>9.4</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/48339/" title="硬汉⇔萝莉"><img data-src="//cf.mhgui.com/cpic/b/48339.jpg" alt="硬汉⇔萝莉"><span class="bg"></span><span class="tt">更新至第13话</span><span class="sl"></span></a><p class="ell"><a href="/comic/48339/" title="硬汉⇔萝莉">硬汉⇔萝莉</a></p><span class="updateon">更新于：2024-09-22<em>9.3</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[想成为狸田学长的青春 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/53721/</id>
         <link href="https://www.manhuagui.com/comic/53721/"/>
         <updated>2024-09-22T12:26:05.669Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53721/" title="想成为狸田学长的青春"><img data-src="//cf.mhgui.com/cpic/b/53721_96.jpg" alt="想成为狸田学长的青春"><span class="bg"></span><span class="tt">更新至第01话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53721/" title="想成为狸田学长的青春">想成为狸田学长的青春</a></p><span class="updateon">更新于：2024-09-22<em>9.8</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/53721/" title="想成为狸田学长的青春"><img data-src="//cf.mhgui.com/cpic/b/53721_96.jpg" alt="想成为狸田学长的青春"><span class="bg"></span><span class="tt">更新至第01话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53721/" title="想成为狸田学长的青春">想成为狸田学长的青春</a></p><span class="updateon">更新于：2024-09-22<em>8.9</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[厨刀与小青椒之一日料理帖 (看漫画)]]></title>
@@ -254,14 +261,14 @@
         <id>https://www.manhuagui.com/comic/41765/</id>
         <link href="https://www.manhuagui.com/comic/41765/"/>
         <updated>2024-09-22T08:17:23.633Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/41765/" title="红名单～警视厅组对三课PO～"><img data-src="//cf.mhgui.com/cpic/b/41765.jpg" alt="红名单～警视厅组对三课PO～"><span class="bg"></span><span class="tt">更新至第86话</span><span class="sl"></span></a><p class="ell"><a href="/comic/41765/" title="红名单～警视厅组对三课PO～">红名单～警视厅组对三课PO～</a></p><span class="updateon">更新于：2024-09-22<em>7.8</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/41765/" title="红名单～警视厅组对三课PO～"><img data-src="//cf.mhgui.com/cpic/b/41765.jpg" alt="红名单～警视厅组对三课PO～"><span class="bg"></span><span class="tt">更新至第86话</span><span class="sl"></span></a><p class="ell"><a href="/comic/41765/" title="红名单～警视厅组对三课PO～">红名单～警视厅组对三课PO～</a></p><span class="updateon">更新于：2024-09-22<em>7.7</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[想尽情享受的常客小姐 (看漫画)]]></title>
         <id>https://www.manhuagui.com/comic/50219/</id>
         <link href="https://www.manhuagui.com/comic/50219/"/>
         <updated>2024-09-22T08:17:23.636Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/50219/" title="想尽情享受的常客小姐"><img data-src="//cf.mhgui.com/cpic/b/50219.jpg" alt="想尽情享受的常客小姐"><span class="bg"></span><span class="tt">更新至第31.1话</span><span class="sl"></span></a><p class="ell"><a href="/comic/50219/" title="想尽情享受的常客小姐">想尽情享受的常客小姐</a></p><span class="updateon">更新于：2024-09-22<em>9.1</em></span>]]></content>
+        <content type="html"><![CDATA[<a class="bcover" href="/comic/50219/" title="想尽情享受的常客小姐"><img data-src="//cf.mhgui.com/cpic/b/50219.jpg" alt="想尽情享受的常客小姐"><span class="bg"></span><span class="tt">更新至第31.1话</span><span class="sl"></span></a><p class="ell"><a href="/comic/50219/" title="想尽情享受的常客小姐">想尽情享受的常客小姐</a></p><span class="updateon">更新于：2024-09-22<em>9.0</em></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的第一个朋友竟是僵尸 (看漫画)]]></title>
@@ -292,13 +299,6 @@
         <content type="html"><![CDATA[<a class="bcover" href="/comic/53115/" title="小织田与明智君"><img data-src="//cf.mhgui.com/cpic/b/53115.jpg" alt="小织田与明智君"><span class="bg"></span><span class="tt">更新至第07话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53115/" title="小织田与明智君">小织田与明智君</a></p><span class="updateon">更新于：2024-09-22<em>8.8</em></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[虫蚀姬 (看漫画)]]></title>
-        <id>https://www.manhuagui.com/comic/53302/</id>
-        <link href="https://www.manhuagui.com/comic/53302/"/>
-        <updated>2024-09-22T08:17:23.643Z</updated>
-        <content type="html"><![CDATA[<a class="bcover" href="/comic/53302/" title="虫蚀姬"><img data-src="//cf.mhgui.com/cpic/b/53302.jpg" alt="虫蚀姬"><span class="bg"></span><span class="tt">更新至第03话</span><span class="sl"></span></a><p class="ell"><a href="/comic/53302/" title="虫蚀姬">虫蚀姬</a></p><span class="updateon">更新于：2024-09-22<em>8.8</em></span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[玖月 23 星期一 宜   鸿运当头 (电影日历)]]></title>
         <id>https://www.cikeee.cc/mov/675706776962351/</id>
         <link href="https://www.cikeee.cc/mov/675706776962351/"/>
@@ -315,38 +315,38 @@
                     <a id="movie-name" href="/mov/675706776962351/" target="_blank">——《怪兽电力公司》</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looming US Ports Strike Threatens Fresh Supply Chain Crisis (BitToc Hot)]]></title>
-        <id>https://news.google.com/rss/articles/CBMicEFVX3lxTFBlQVkySGwxaHNiRmY3U05Ed09UUTJzdlpObV9hY3o0YndkYU1za2kxRDFrT0R2Mlg0T2pPdy1iNFpYSV9SVXRFMWNuX0tPaFh4aTJkUGZjWGFNZDNaRTB1Q05fNGhfRlVWQU1rXzM5TTg?ceid=US%3Aen&amp;gl=US&amp;hl=en-US&amp;oc=5&amp;ref=biztoc.com</id>
-        <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBlQVkySGwxaHNiRmY3U05Ed09UUTJzdlpObV9hY3o0YndkYU1za2kxRDFrT0R2Mlg0T2pPdy1iNFpYSV9SVXRFMWNuX0tPaFh4aTJkUGZjWGFNZDNaRTB1Q05fNGhfRlVWQU1rXzM5TTg?ceid=US%3Aen&amp;gl=US&amp;hl=en-US&amp;oc=5&amp;ref=biztoc.com"/>
-        <updated>2024-09-23T01:07:58.000Z</updated>
-        <content type="html"><![CDATA[Looming US Ports Strike Threatens Fresh Supply Chain Crisis]]></content>
+        <title type="html"><![CDATA[Zelensky visits U.S. ammunition plant ahead of Ukraine 'victory plan' talks (BitToc Hot)]]></title>
+        <id>https://www.axios.com/2024/09/23/zelensky-us-visit-ammunition-plant-pennsylvania-un-ukraine?ref=biztoc.com</id>
+        <link href="https://www.axios.com/2024/09/23/zelensky-us-visit-ammunition-plant-pennsylvania-un-ukraine?ref=biztoc.com"/>
+        <updated>2024-09-23T04:17:58.086Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/e1b956b1076300ac_sq.webp" class="pl" alt="" style="visibility: visible;">                        Zelensky visits U.S. ammunition plant ahead of Ukraine 'victory plan' talks]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Biden Administration Proposes Rules to Ban Chinese-Made Cars Over Spying Fears (BitToc Hot)]]></title>
-        <id>https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3dMMkF5XzQtVkJaRW11ODdIb1hCMEluTENLQnZTMDc0aU15bERya0VFczU0WkJQN1hqU21CZ01LZ2dIUGRvR05SUUh3YXdlMG5KZlFfWk1ObFFtNFNpdUxGX2ZiOEJjR0t6RndBUERHNXl5ZHBoWlAySndCSUtYNHRmLWwyR3R5SEtha1VUQlBKazg4ekU5d2930gGaAUFVX3lxTE1mRmpYbTZ2VTY3cEZoNm15dExwWEozZ0l0SUhKOGFnNlpqTXF5TnRFQUxwNHBIeG5YLXRxSGxEY3l5RnQyZUlWazdmSF9PWVVtTS1LX19JN3htOHB4cVB4VTdlQlJwNHNIZHhnWjZTdjhOTHdWaDhQazJpZjZyOE4yLWloNTNoMG9IQVBPVkp2RFM2YUIxT0kzUHc?ceid=US%3Aen&amp;gl=US&amp;hl=en-US&amp;oc=5&amp;ref=biztoc.com</id>
-        <link href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3dMMkF5XzQtVkJaRW11ODdIb1hCMEluTENLQnZTMDc0aU15bERya0VFczU0WkJQN1hqU21CZ01LZ2dIUGRvR05SUUh3YXdlMG5KZlFfWk1ObFFtNFNpdUxGX2ZiOEJjR0t6RndBUERHNXl5ZHBoWlAySndCSUtYNHRmLWwyR3R5SEtha1VUQlBKazg4ekU5d2930gGaAUFVX3lxTE1mRmpYbTZ2VTY3cEZoNm15dExwWEozZ0l0SUhKOGFnNlpqTXF5TnRFQUxwNHBIeG5YLXRxSGxEY3l5RnQyZUlWazdmSF9PWVVtTS1LX19JN3htOHB4cVB4VTdlQlJwNHNIZHhnWjZTdjhOTHdWaDhQazJpZjZyOE4yLWloNTNoMG9IQVBPVkp2RFM2YUIxT0kzUHc?ceid=US%3Aen&amp;gl=US&amp;hl=en-US&amp;oc=5&amp;ref=biztoc.com"/>
-        <updated>2024-09-23T01:07:58.004Z</updated>
-        <content type="html"><![CDATA[Biden Administration Proposes Rules to Ban Chinese-Made Cars Over Spying Fears]]></content>
+        <title type="html"><![CDATA[FTC chair Lina Khan discusses Big Tech's role in privacy erosion (BitToc Hot)]]></title>
+        <id>https://www.businessinsider.com/ftc-chair-lina-khan-60-minutes-americans-privacy-big-tech-2024-9?ref=biztoc.com</id>
+        <link href="https://www.businessinsider.com/ftc-chair-lina-khan-60-minutes-americans-privacy-big-tech-2024-9?ref=biztoc.com"/>
+        <updated>2024-09-23T04:17:58.087Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/ff88ce7c56701a26_sq.webp" class="pl" alt="" style="visibility: visible;">                        FTC chair Lina Khan discusses Big Tech's role in privacy erosion]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok Risks Federal Ban by Not Seeking Divestment (BitToc Hot)]]></title>
-        <id>https://www.aol.com/tiktok-risks-federal-ban-not-202414194.html?ref=biztoc.com</id>
-        <link href="https://www.aol.com/tiktok-risks-federal-ban-not-202414194.html?ref=biztoc.com"/>
-        <updated>2024-09-23T01:07:58.004Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/d9620d17959b03f5_sq.webp" class="pl" alt="" style="visibility: visible;">                        TikTok Risks Federal Ban by Not Seeking Divestment]]></content>
+        <title type="html"><![CDATA[Southwest Airlines warns of ‘difficult decisions’ to restore profits (BitToc Hot)]]></title>
+        <id>https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVNoN1BYMVQzM3BnZFJfWENoNEpiNVQ1TnJtV216T09ZSFkxWGJuc2FMVDNEMU16V0pDazF1T2tLVXdxSnZ3MWVwaTloZ1hfZ2hvQXFWd0J1SktOUmJpMWtrVUJueWpXOUN5YmxuNVJ1WWtkUS0xNlNabE5ZakRjcDlRcnV6TXFtbVd0NWJCaVBPbFdMUXNCaHVEWEw2TEh1MXI2TjZiRThSV3BzR1c4NC0tZ2ZpLWQtaEJ6elJ3?ceid=US%3Aen&amp;gl=US&amp;hl=en-US&amp;oc=5&amp;ref=biztoc.com</id>
+        <link href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVNoN1BYMVQzM3BnZFJfWENoNEpiNVQ1TnJtV216T09ZSFkxWGJuc2FMVDNEMU16V0pDazF1T2tLVXdxSnZ3MWVwaTloZ1hfZ2hvQXFWd0J1SktOUmJpMWtrVUJueWpXOUN5YmxuNVJ1WWtkUS0xNlNabE5ZakRjcDlRcnV6TXFtbVd0NWJCaVBPbFdMUXNCaHVEWEw2TEh1MXI2TjZiRThSV3BzR1c4NC0tZ2ZpLWQtaEJ6elJ3?ceid=US%3Aen&amp;gl=US&amp;hl=en-US&amp;oc=5&amp;ref=biztoc.com"/>
+        <updated>2024-09-23T04:17:58.090Z</updated>
+        <content type="html"><![CDATA[Southwest Airlines warns of ‘difficult decisions’ to restore profits]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dozens of Workers Killed by Explosion in Iranian Coal Mine (BitToc Hot)]]></title>
-        <id>https://www.pbs.org/newshour/world/dozens-of-workers-killed-by-explosion-inside-a-coal-mine-in-eastern-iran?ref=biztoc.com</id>
-        <link href="https://www.pbs.org/newshour/world/dozens-of-workers-killed-by-explosion-inside-a-coal-mine-in-eastern-iran?ref=biztoc.com"/>
-        <updated>2024-09-23T01:07:58.005Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/ad3bc05ff5ce052f_sq.webp" class="pl" alt="" style="visibility: visible;">                        Dozens of Workers Killed by Explosion in Iranian Coal Mine]]></content>
+        <title type="html"><![CDATA[US invests billions in battery manufacturing to counter China (BitToc Hot)]]></title>
+        <id>https://news.google.com/rss/articles/CBMivwFBVV95cUxNNldaWW1kZHJDVjBxd2ZKd0V3NVdxTHhNN0x1TWtfX01EaEhGZ3dqeE5oZmpJYWtUQWprVHo0VnZwQ2NTRjRnMnktWmV5ZWZjS3R4N2hIWjNLLWdHNXcxZk1qYnJ0d3d0SjBjX2FSTjExZnpNalFiLWJzRG9JTHZVOGI3c1ZJUWpsendEMmFhRnl5YVRRT1VnQm1LWXRFSzEyb1ZwT0g3N21JaWFhUWRIa0pDQ2tkZmd5QVQzUldkQQ?oc=5&amp;ref=biztoc.com</id>
+        <link href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNNldaWW1kZHJDVjBxd2ZKd0V3NVdxTHhNN0x1TWtfX01EaEhGZ3dqeE5oZmpJYWtUQWprVHo0VnZwQ2NTRjRnMnktWmV5ZWZjS3R4N2hIWjNLLWdHNXcxZk1qYnJ0d3d0SjBjX2FSTjExZnpNalFiLWJzRG9JTHZVOGI3c1ZJUWpsendEMmFhRnl5YVRRT1VnQm1LWXRFSzEyb1ZwT0g3N21JaWFhUWRIa0pDQ2tkZmd5QVQzUldkQQ?oc=5&amp;ref=biztoc.com"/>
+        <updated>2024-09-23T04:17:58.097Z</updated>
+        <content type="html"><![CDATA[US invests billions in battery manufacturing to counter China]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nation's Top Weather and Climate Service Faces Potential Political Storm (BitToc Hot)]]></title>
-        <id>https://www.pbs.org/newshour/show/nations-top-weather-and-climate-service-faces-potential-political-storm?ref=biztoc.com</id>
-        <link href="https://www.pbs.org/newshour/show/nations-top-weather-and-climate-service-faces-potential-political-storm?ref=biztoc.com"/>
-        <updated>2024-09-23T01:07:58.007Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/09d72ec8a1532aa7_sq.webp" class="pl" alt="" style="visibility: visible;">                        Nation's Top Weather and Climate Service Faces Potential Political Storm]]></content>
+        <title type="html"><![CDATA[House Speaker proposes 3-month extension to avoid shutdown (BitToc Hot)]]></title>
+        <id>https://zyzcfzs.github.io/feeds/all.xml</id>
+        <link href="https://zyzcfzs.github.io/feeds/all.xml"/>
+        <updated>2024-09-23T04:17:58.099Z</updated>
+        <content type="html"><![CDATA[House Speaker proposes 3-month extension to avoid shutdown]]></content>
     </entry>
 </feed>
