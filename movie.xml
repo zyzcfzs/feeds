@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-23T12:29:09.426Z</updated>
+    <updated>2024-09-23T16:17:47.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 23 星期一 宜   鸿运当头]]></title>
-        <id>https://www.cikeee.cc/mov/675706776962351/</id>
-        <link href="https://www.cikeee.cc/mov/675706776962351/"/>
-        <updated>2024-09-22T16:17:19.175Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706776962351/" target="_blank">
+        <title type="html"><![CDATA[玖月 24 星期二 宜   惜时如金]]></title>
+        <id>https://www.cikeee.cc/mov/675706721337404/</id>
+        <link href="https://www.cikeee.cc/mov/675706721337404/"/>
+        <updated>2024-09-23T16:17:44.083Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706721337404/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706776962351.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706721337404.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706776962351/?>" target="_blank">8.7分&nbsp;喜剧/动画/儿童/奇幻/冒险&nbsp;2001&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/675706721337404/?>" target="_blank">7.9分&nbsp;科幻/冒险/灾难&nbsp;2019&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">让她回到属于她的地方。</blockquote>
-                    <div id="movie-name" href="/mov/675706776962351/" target="_blank">——《怪兽电力公司》</div>]]></content>
+                    <blockquote id="movie-text">希望，是我们唯一回家的方向。</blockquote>
+                    <div id="movie-name" href="/mov/675706721337404/" target="_blank">——《流浪地球》</div>]]></content>
     </entry>
 </feed>
