@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-09-22T20:15:26.457Z</updated>
+    <updated>2024-09-23T01:07:58.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[想要读懂你的心]]></title>
+        <id>https://www.manhuagui.com/comic/44557/</id>
+        <link href="https://www.manhuagui.com/comic/44557/"/>
+        <updated>2024-09-23T01:07:51.066Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/44557.jpg" alt="想要读懂你的心"><div class="tt">更新至第18话</div><div class="updateon">更新于：2024-09-23<p>评分： <b>8.3</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感情太过沉重的面井同学]]></title>
+        <id>https://www.manhuagui.com/comic/29225/</id>
+        <link href="https://www.manhuagui.com/comic/29225/"/>
+        <updated>2024-09-23T01:07:51.067Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/29225.jpg" alt="感情太过沉重的面井同学"><div class="tt">更新至第62话</div><div class="updateon">更新于：2024-09-23<p>评分： <b>8.5</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遥颂天上曲，翘首盼君归]]></title>
+        <id>https://www.manhuagui.com/comic/53053/</id>
+        <link href="https://www.manhuagui.com/comic/53053/"/>
+        <updated>2024-09-23T01:07:51.068Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53053.jpg" alt="遥颂天上曲，翘首盼君归"><div class="tt">更新至第4话</div><div class="updateon">更新于：2024-09-23<p>评分： <b>9.1</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勇者再次启程]]></title>
+        <id>https://www.manhuagui.com/comic/52562/</id>
+        <link href="https://www.manhuagui.com/comic/52562/"/>
+        <updated>2024-09-23T01:07:51.070Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52562.jpg" alt="勇者再次启程"><div class="tt">更新至第12话</div><div class="updateon">更新于：2024-09-23<p>评分： <b>9.8</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[露出导演]]></title>
+        <id>https://www.manhuagui.com/comic/41827/</id>
+        <link href="https://www.manhuagui.com/comic/41827/"/>
+        <updated>2024-09-23T01:07:51.072Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/41827_56.jpg" alt="露出导演"><div class="tt">更新至第71.1话</div><div class="updateon">更新于：2024-09-23<p>评分： <b>9.3</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神奇女侠V6]]></title>
         <id>https://www.manhuagui.com/comic/50458/</id>
@@ -150,7 +185,7 @@
         <id>https://www.manhuagui.com/comic/51529/</id>
         <link href="https://www.manhuagui.com/comic/51529/"/>
         <updated>2024-09-22T12:26:05.667Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/51529.jpg" alt="从今日起成为恶女"><div class="tt">更新至第06话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>7.9</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/51529.jpg" alt="从今日起成为恶女"><div class="tt">更新至第06话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>7.8</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[雾海上的夏贝特]]></title>
@@ -263,40 +298,5 @@
         <link href="https://www.manhuagui.com/comic/53302/"/>
         <updated>2024-09-22T08:17:23.643Z</updated>
         <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53302.jpg" alt="虫蚀姬"><div class="tt">更新至第03话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>8.8</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[银发的妮娜]]></title>
-        <id>https://www.manhuagui.com/comic/12240/</id>
-        <link href="https://www.manhuagui.com/comic/12240/"/>
-        <updated>2024-09-22T08:17:23.645Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/12240.jpg" alt="银发的妮娜"><div class="tt">更新至第111话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>9.2</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苍白的马]]></title>
-        <id>https://www.manhuagui.com/comic/35190/</id>
-        <link href="https://www.manhuagui.com/comic/35190/"/>
-        <updated>2024-09-22T08:17:23.645Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/35190.jpg" alt="苍白的马"><div class="tt">更新至第95话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>9.2</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读恋爱小说的教授]]></title>
-        <id>https://www.manhuagui.com/comic/51866/</id>
-        <link href="https://www.manhuagui.com/comic/51866/"/>
-        <updated>2024-09-22T08:17:23.647Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/51866.jpg" alt="读恋爱小说的教授"><div class="tt">更新至第21话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>6.2</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和喜欢游戏的朋友各种轶事]]></title>
-        <id>https://www.manhuagui.com/comic/33566/</id>
-        <link href="https://www.manhuagui.com/comic/33566/"/>
-        <updated>2024-09-22T08:17:23.648Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/33566.jpg" alt="和喜欢游戏的朋友各种轶事"><div class="tt">更新至第209话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>9.2</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英雄情结]]></title>
-        <id>https://www.manhuagui.com/comic/43930/</id>
-        <link href="https://www.manhuagui.com/comic/43930/"/>
-        <updated>2024-09-22T08:17:23.649Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/43930.jpg" alt="英雄情结"><div class="tt">更新至第61-70话</div><div class="updateon">更新于：2024-09-22<p>评分： <b>9.0</b></p></div>]]></content>
     </entry>
 </feed>
