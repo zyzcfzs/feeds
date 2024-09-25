@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-25T12:30:25.961Z</updated>
+    <updated>2024-09-25T16:20:51.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 25 星期三 宜   学而不厌]]></title>
-        <id>https://www.cikeee.cc/mov/677663196965861/</id>
-        <link href="https://www.cikeee.cc/mov/677663196965861/"/>
-        <updated>2024-09-24T16:19:04.822Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663196965861/" target="_blank">
+        <title type="html"><![CDATA[玖月 26 星期四 宜   自知]]></title>
+        <id>https://www.cikeee.cc/mov/678008189039522/</id>
+        <link href="https://www.cikeee.cc/mov/678008189039522/"/>
+        <updated>2024-09-25T16:20:48.172Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678008189039522/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663196965861.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/107d/678008189039522.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/677663196965861/?>" target="_blank">8.2分&nbsp;剧情/悬疑/恐怖&nbsp;2001&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/678008189039522/?>" target="_blank">8.2分&nbsp;剧情&nbsp;2011&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">当人们死后，他们所拥有过的东西，上面都会留下他们的痕迹。</blockquote>
-                    <div id="movie-name" href="/mov/677663196965861/" target="_blank">——《小岛惊魂》</div>]]></content>
+                    <blockquote id="movie-text">相思是烟， 相忆是酒， 你就像那烟酒， 搞得我烟不离手，酒不离口。</blockquote>
+                    <div id="movie-name" href="/mov/678008189039522/" target="_blank">——《Hello！树先生》</div>]]></content>
     </entry>
 </feed>
