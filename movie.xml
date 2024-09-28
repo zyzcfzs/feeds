@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-28T12:26:05.615Z</updated>
+    <updated>2024-09-28T16:17:08.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 28 星期六 宜   百无禁忌]]></title>
-        <id>https://www.cikeee.cc/mov/674319807076059/</id>
-        <link href="https://www.cikeee.cc/mov/674319807076059/"/>
-        <updated>2024-09-27T16:18:20.201Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319807076059/" target="_blank">
+        <title type="html"><![CDATA[玖月 29 星期日 宜   疯狂]]></title>
+        <id>https://www.cikeee.cc/mov/680140154063207/</id>
+        <link href="https://www.cikeee.cc/mov/680140154063207/"/>
+        <updated>2024-09-28T16:17:05.338Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140154063207/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319807076059.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140154063207.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674319807076059/?>" target="_blank">8.1分&nbsp;剧情/家庭&nbsp;2005&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/680140154063207/?>" target="_blank">8.0分&nbsp;剧情/家庭&nbsp;2019&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">我们每个人都是孔雀，庸俗不堪，却总是自命不凡。我们所做的事情，不过如孔雀开屏，只是要让路人看见，并短暂停留。</blockquote>
-                    <div id="movie-name" href="/mov/674319807076059/" target="_blank">——《孔雀》</div>]]></content>
+                    <blockquote id="movie-text">时间已经停止了，剩下的就是慢慢变老。</blockquote>
+                    <div id="movie-name" href="/mov/680140154063207/" target="_blank">——《地久天长》</div>]]></content>
     </entry>
 </feed>
