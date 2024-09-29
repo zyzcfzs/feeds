@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-29T12:27:20.419Z</updated>
+    <updated>2024-09-29T16:17:53.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 29 星期日 宜   疯狂]]></title>
-        <id>https://www.cikeee.cc/mov/680140154063207/</id>
-        <link href="https://www.cikeee.cc/mov/680140154063207/"/>
-        <updated>2024-09-28T16:17:05.338Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140154063207/" target="_blank">
+        <title type="html"><![CDATA[玖月 30 星期一 宜   明辨]]></title>
+        <id>https://www.cikeee.cc/mov/680038820238091/</id>
+        <link href="https://www.cikeee.cc/mov/680038820238091/"/>
+        <updated>2024-09-29T16:17:49.647Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680038820238091/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140154063207.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038820238091.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680140154063207/?>" target="_blank">8.0分&nbsp;剧情/家庭&nbsp;2019&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/680038820238091/?>" target="_blank">7.4分&nbsp;悬疑/惊悚/犯罪&nbsp;2016&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">时间已经停止了，剩下的就是慢慢变老。</blockquote>
-                    <div id="movie-name" href="/mov/680140154063207/" target="_blank">——《地久天长》</div>]]></content>
+                    <blockquote id="movie-text">受过创伤的人更强大。</blockquote>
+                    <div id="movie-name" href="/mov/680038820238091/" target="_blank">——《分裂》</div>]]></content>
     </entry>
 </feed>
