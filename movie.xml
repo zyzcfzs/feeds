@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-09-30T12:31:06.555Z</updated>
+    <updated>2024-09-30T16:19:14.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[玖月 30 星期一 宜   明辨]]></title>
-        <id>https://www.cikeee.cc/mov/680038820238091/</id>
-        <link href="https://www.cikeee.cc/mov/680038820238091/"/>
-        <updated>2024-09-29T16:17:49.647Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680038820238091/" target="_blank">
+        <title type="html"><![CDATA[拾月 01 星期二 宜   披荆斩棘]]></title>
+        <id>https://www.cikeee.cc/mov/679973765289931/</id>
+        <link href="https://www.cikeee.cc/mov/679973765289931/"/>
+        <updated>2024-09-30T16:19:10.645Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679973765289931/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038820238091.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679973765289931.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680038820238091/?>" target="_blank">7.4分&nbsp;悬疑/惊悚/犯罪&nbsp;2016&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/679973765289931/?>" target="_blank">8.2分&nbsp;剧情/传记/历史/战争&nbsp;2007&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">受过创伤的人更强大。</blockquote>
-                    <div id="movie-name" href="/mov/680038820238091/" target="_blank">——《分裂》</div>]]></content>
+                    <blockquote id="movie-text">如果你不怕死，子弹会绕着你走。</blockquote>
+                    <div id="movie-name" href="/mov/679973765289931/" target="_blank">——《集结号》</div>]]></content>
     </entry>
 </feed>
