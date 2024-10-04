@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-04T12:28:44.174Z</updated>
+    <updated>2024-10-04T16:19:27.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 04 星期五 宜   惜时如金]]></title>
-        <id>https://www.cikeee.cc/mov/680004254651079/</id>
-        <link href="https://www.cikeee.cc/mov/680004254651079/"/>
-        <updated>2024-10-03T16:19:12.500Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004254651079/" target="_blank">
+        <title type="html"><![CDATA[拾月 05 星期六 宜   感恩]]></title>
+        <id>https://www.cikeee.cc/mov/675438639969708/</id>
+        <link href="https://www.cikeee.cc/mov/675438639969708/"/>
+        <updated>2024-10-04T16:19:23.694Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438639969708/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004254651079.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438639969708.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680004254651079/?>" target="_blank">9.0分&nbsp;剧情/动作/惊悚&nbsp;1961&nbsp;日本</div>
+                    <div id="movie-information" href="/mov/675438639969708/?>" target="_blank">7.6分&nbsp;剧情/动作/悬疑&nbsp;2021&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">我在地狱入口，等你来。</blockquote>
-                    <div id="movie-name" href="/mov/680004254651079/" target="_blank">——《用心棒》</div>]]></content>
+                    <blockquote id="movie-text">身负使命，才能目光如炬。</blockquote>
+                    <div id="movie-name" href="/mov/675438639969708/" target="_blank">——《悬崖之上》</div>]]></content>
     </entry>
 </feed>
