@@ -2,23 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-06T12:27:41.327Z</updated>
+    <updated>2024-10-06T16:16:33.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 06 星期日 宜   戒骄戒躁]]></title>
-        <id>https://www.cikeee.cc/mov/681473775432791/</id>
-        <link href="https://www.cikeee.cc/mov/681473775432791/"/>
-        <updated>2024-10-05T16:17:27.759Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681473775432791/" target="_blank">
+        <title type="html"><![CDATA[拾月 07 星期一 宜   修身洁行]]></title>
+        <id>https://www.cikeee.cc/mov/677663203653775/</id>
+        <link href="https://www.cikeee.cc/mov/677663203653775/"/>
+        <updated>2024-10-06T16:16:30.142Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663203653775/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473775432791.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663203653775.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681473775432791/?>" target="_blank">8.7分&nbsp;剧情/悬疑/犯罪&nbsp;2015&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/677663203653775/?>" target="_blank">7.9分&nbsp;惊悚/恐怖&nbsp;2000&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">秘密使每个人变的不同，不要试图窥探太多。
-</blockquote>
-                    <div id="movie-name" href="/mov/681473775432791/" target="_blank">——《心迷宫》</div>]]></content>
+                    <blockquote id="movie-text">你可能得到第二次活着的机会，但你无法欺骗死神。</blockquote>
+                    <div id="movie-name" href="/mov/677663203653775/" target="_blank">——《死神来了》</div>]]></content>
     </entry>
 </feed>
