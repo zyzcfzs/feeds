@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-07T12:30:29.649Z</updated>
+    <updated>2024-10-07T16:18:22.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 07 星期一 宜   修身洁行]]></title>
-        <id>https://www.cikeee.cc/mov/677663203653775/</id>
-        <link href="https://www.cikeee.cc/mov/677663203653775/"/>
-        <updated>2024-10-06T16:16:30.142Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663203653775/" target="_blank">
+        <title type="html"><![CDATA[拾月 08 星期二 宜   坚持]]></title>
+        <id>https://www.cikeee.cc/mov/678868374546662/</id>
+        <link href="https://www.cikeee.cc/mov/678868374546662/"/>
+        <updated>2024-10-07T16:18:18.347Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678868374546662/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663203653775.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/678868374546662.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/677663203653775/?>" target="_blank">7.9分&nbsp;惊悚/恐怖&nbsp;2000&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/678868374546662/?>" target="_blank">8.4分&nbsp;剧情/传记/历史&nbsp;2012&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">你可能得到第二次活着的机会，但你无法欺骗死神。</blockquote>
-                    <div id="movie-name" href="/mov/677663203653775/" target="_blank">——《死神来了》</div>]]></content>
+                    <blockquote id="movie-text">知足就是足够富有。</blockquote>
+                    <div id="movie-name" href="/mov/678868374546662/" target="_blank">——《国王的演讲》</div>]]></content>
     </entry>
 </feed>
