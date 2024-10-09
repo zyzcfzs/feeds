@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-09T12:29:20.721Z</updated>
+    <updated>2024-10-09T16:18:48.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 09 星期三 宜   健体]]></title>
-        <id>https://www.cikeee.cc/mov/680038723864541/</id>
-        <link href="https://www.cikeee.cc/mov/680038723864541/"/>
-        <updated>2024-10-08T16:19:46.079Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680038723864541/" target="_blank">
+        <title type="html"><![CDATA[拾月 10 星期四 宜   择善而从]]></title>
+        <id>https://www.cikeee.cc/mov/681473719112591/</id>
+        <link href="https://www.cikeee.cc/mov/681473719112591/"/>
+        <updated>2024-10-09T16:18:22.243Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681473719112591/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038723864541.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473719112591.webp" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680038723864541/?>" target="_blank">7.7分&nbsp;剧情/灾难&nbsp;2013&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/681473719112591/?>" target="_blank">8.3分&nbsp;剧情/传记/灾难&nbsp;2017&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我一直奋斗到底，虽然不知道有什么价值，但至少问心无愧。</blockquote>
-                    <div id="movie-name" href="/mov/680038723864541/" target="_blank">——《一切尽失》</div>]]></content>
+                    <blockquote id="movie-text">你应该问问自己，什么是你生不可缺，死也不能舍弃的东西？</blockquote>
+                    <div id="movie-name" href="/mov/681473719112591/" target="_blank">——《勇往直前》</div>]]></content>
     </entry>
 </feed>
