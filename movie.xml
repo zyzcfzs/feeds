@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-10T12:28:50.404Z</updated>
+    <updated>2024-10-10T16:18:32.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 10 星期四 宜   择善而从]]></title>
-        <id>https://www.cikeee.cc/mov/681473719112591/</id>
-        <link href="https://www.cikeee.cc/mov/681473719112591/"/>
-        <updated>2024-10-09T16:18:22.243Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681473719112591/" target="_blank">
+        <title type="html"><![CDATA[拾月 11 星期五 宜   积极]]></title>
+        <id>https://www.cikeee.cc/mov/675438576272630/</id>
+        <link href="https://www.cikeee.cc/mov/675438576272630/"/>
+        <updated>2024-10-10T16:18:28.779Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438576272630/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/108d/681473719112591.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438576272630.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681473719112591/?>" target="_blank">8.3分&nbsp;剧情/传记/灾难&nbsp;2017&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/675438576272630/?>" target="_blank">8.5分&nbsp;剧情/悬疑&nbsp;2012&nbsp;法国</div>
                     
-                    <blockquote id="movie-text">你应该问问自己，什么是你生不可缺，死也不能舍弃的东西？</blockquote>
-                    <div id="movie-name" href="/mov/681473719112591/" target="_blank">——《勇往直前》</div>]]></content>
+                    <blockquote id="movie-text">你喜欢的不是我，而是你想象中的我。</blockquote>
+                    <div id="movie-name" href="/mov/675438576272630/" target="_blank">——《登堂入室》</div>]]></content>
     </entry>
 </feed>
