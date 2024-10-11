@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-11T12:28:51.208Z</updated>
+    <updated>2024-10-11T16:18:25.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 11 星期五 宜   积极]]></title>
-        <id>https://www.cikeee.cc/mov/675438576272630/</id>
-        <link href="https://www.cikeee.cc/mov/675438576272630/"/>
-        <updated>2024-10-10T16:18:28.779Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438576272630/" target="_blank">
+        <title type="html"><![CDATA[拾月 12 星期六 宜   乐观]]></title>
+        <id>https://www.cikeee.cc/mov/675706874326799/</id>
+        <link href="https://www.cikeee.cc/mov/675706874326799/"/>
+        <updated>2024-10-11T16:18:21.613Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706874326799/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438576272630.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706874326799.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675438576272630/?>" target="_blank">8.5分&nbsp;剧情/悬疑&nbsp;2012&nbsp;法国</div>
+                    <div id="movie-information" href="/mov/675706874326799/?>" target="_blank">9.0分&nbsp;剧情/战争&nbsp;1998&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">你喜欢的不是我，而是你想象中的我。</blockquote>
-                    <div id="movie-name" href="/mov/675438576272630/" target="_blank">——《登堂入室》</div>]]></content>
+                    <blockquote id="movie-text">神于我们同在，那么谁与敌军同在？</blockquote>
+                    <div id="movie-name" href="/mov/675706874326799/" target="_blank">——《拯救大兵瑞恩》</div>]]></content>
     </entry>
 </feed>
