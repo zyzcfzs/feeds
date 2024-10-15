@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-15T12:29:41.634Z</updated>
+    <updated>2024-10-15T16:19:24.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 15 星期二 宜   暴富]]></title>
-        <id>https://www.cikeee.cc/mov/681306413614339/</id>
-        <link href="https://www.cikeee.cc/mov/681306413614339/"/>
-        <updated>2024-10-14T16:18:23.783Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681306413614339/" target="_blank">
+        <title type="html"><![CDATA[拾月 16 星期三 宜   大胆去干]]></title>
+        <id>https://www.cikeee.cc/mov/680139803115002/</id>
+        <link href="https://www.cikeee.cc/mov/680139803115002/"/>
+        <updated>2024-10-15T16:19:20.722Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139803115002/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/107d/681306413614339.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139803115002.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681306413614339/?>" target="_blank">8.2分&nbsp;剧情&nbsp;2021&nbsp;法国</div>
+                    <div id="movie-information" href="/mov/680139803115002/?>" target="_blank">8.8分&nbsp;剧情/传记&nbsp;1993&nbsp;爱尔兰</div>
                     
-                    <blockquote id="movie-text">到底要怎么选择？如果短暂的一生是这样过活，来到这个世界的意义究竟是什么？</blockquote>
-                    <div id="movie-name" href="/mov/681306413614339/" target="_blank">——《正发生》</div>]]></content>
+                    <blockquote id="movie-text">靠诚实赚来的钱才更持久。</blockquote>
+                    <div id="movie-name" href="/mov/680139803115002/" target="_blank">——《因父之名》</div>]]></content>
     </entry>
 </feed>
