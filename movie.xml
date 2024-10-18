@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-18T12:29:04.706Z</updated>
+    <updated>2024-10-18T16:19:22.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 18 星期五 宜   勤恳]]></title>
-        <id>https://www.cikeee.cc/mov/674844706763956/</id>
-        <link href="https://www.cikeee.cc/mov/674844706763956/"/>
-        <updated>2024-10-17T16:20:13.200Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674844706763956/" target="_blank">
+        <title type="html"><![CDATA[拾月 19 星期六 宜   满怀期待]]></title>
+        <id>https://www.cikeee.cc/mov/679993420513138/</id>
+        <link href="https://www.cikeee.cc/mov/679993420513138/"/>
+        <updated>2024-10-18T16:19:18.840Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993420513138/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/106d/674844706763956.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993420513138.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674844706763956/?>" target="_blank">9.4分&nbsp;剧情&nbsp;2009&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/679993420513138/?>" target="_blank">8.7分&nbsp;剧情/犯罪&nbsp;2005&nbsp;法国</div>
                     
-                    <blockquote id="movie-text">它只是你的一条狗，但你却是它的一生。</blockquote>
-                    <div id="movie-name" href="/mov/674844706763956/" target="_blank">——《忠犬八公的故事》</div>]]></content>
+                    <blockquote id="movie-text">你不能强迫一个人爱上你，但起码你可以制造机会。</blockquote>
+                    <div id="movie-name" href="/mov/679993420513138/" target="_blank">——《战争之王》</div>]]></content>
     </entry>
 </feed>
