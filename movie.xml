@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-20T12:28:11.771Z</updated>
+    <updated>2024-10-20T16:17:12.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 20 星期日 宜   百无禁忌]]></title>
-        <id>https://www.cikeee.cc/mov/675706894451025/</id>
-        <link href="https://www.cikeee.cc/mov/675706894451025/"/>
-        <updated>2024-10-19T16:17:53.448Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706894451025/" target="_blank">
+        <title type="html"><![CDATA[拾月 21 星期一 宜   腹有诗书]]></title>
+        <id>https://www.cikeee.cc/mov/674319793056808/</id>
+        <link href="https://www.cikeee.cc/mov/674319793056808/"/>
+        <updated>2024-10-20T16:17:09.060Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319793056808/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706894451025.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319793056808.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706894451025/?>" target="_blank">8.7分&nbsp;剧情/悬疑/惊悚/犯罪&nbsp;2014&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/674319793056808/?>" target="_blank">8.3分&nbsp;剧情/音乐&nbsp;2016&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">成年人会努力争取，成年人会付出努力，成年人会承担后果。</blockquote>
-                    <div id="movie-name" href="/mov/675706894451025/" target="_blank">——《消失的爱人》</div>]]></content>
+                    <blockquote id="movie-text">他就像一棵树，可以挡风遮雨，等有一天自己离开了这棵大树，才发现雨淋在身上是冰湿的，太阳晒在脸上是烤人的。</blockquote>
+                    <div id="movie-name" href="/mov/674319793056808/" target="_blank">——《百鸟朝凤》</div>]]></content>
     </entry>
 </feed>
