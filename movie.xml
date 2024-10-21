@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-21T12:29:43.112Z</updated>
+    <updated>2024-10-21T16:18:52.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 21 星期一 宜   腹有诗书]]></title>
-        <id>https://www.cikeee.cc/mov/674319793056808/</id>
-        <link href="https://www.cikeee.cc/mov/674319793056808/"/>
-        <updated>2024-10-20T16:17:09.060Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319793056808/" target="_blank">
+        <title type="html"><![CDATA[拾月 22 星期二 宜   种瓜得瓜]]></title>
+        <id>https://www.cikeee.cc/mov/679993483356138/</id>
+        <link href="https://www.cikeee.cc/mov/679993483356138/"/>
+        <updated>2024-10-21T16:18:48.323Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993483356138/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319793056808.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993483356138.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674319793056808/?>" target="_blank">8.3分&nbsp;剧情/音乐&nbsp;2016&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/679993483356138/?>" target="_blank">8.7分&nbsp;剧情&nbsp;1988&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">他就像一棵树，可以挡风遮雨，等有一天自己离开了这棵大树，才发现雨淋在身上是冰湿的，太阳晒在脸上是烤人的。</blockquote>
-                    <div id="movie-name" href="/mov/674319793056808/" target="_blank">——《百鸟朝凤》</div>]]></content>
+                    <blockquote id="movie-text">我是全世界最亲近他的人。</blockquote>
+                    <div id="movie-name" href="/mov/679993483356138/" target="_blank">——《雨人》</div>]]></content>
     </entry>
 </feed>
