@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-23T12:29:53.711Z</updated>
+    <updated>2024-10-23T16:19:36.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 23 星期三 宜   壮志凌云]]></title>
-        <id>https://www.cikeee.cc/mov/675840729071167/</id>
-        <link href="https://www.cikeee.cc/mov/675840729071167/"/>
-        <updated>2024-10-22T16:18:35.021Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675840729071167/" target="_blank">
+        <title type="html"><![CDATA[拾月 24 星期四 宜   勇往直前]]></title>
+        <id>https://www.cikeee.cc/mov/680004044150470/</id>
+        <link href="https://www.cikeee.cc/mov/680004044150470/"/>
+        <updated>2024-10-23T16:19:32.723Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004044150470/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675840729071167.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004044150470.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675840729071167/?>" target="_blank">7.1分&nbsp;喜剧/悬疑&nbsp;2021&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/680004044150470/?>" target="_blank">7.7分&nbsp;喜剧/科幻/动画/恐怖&nbsp;2012&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">我的智力发展速度，显然跟不上我的财富增长速度。</blockquote>
-                    <div id="movie-name" href="/mov/675840729071167/" target="_blank">——《不速来客》</div>]]></content>
+                    <blockquote id="movie-text">我不要他活在我的心中，我要他陪在我的身旁。</blockquote>
+                    <div id="movie-name" href="/mov/680004044150470/" target="_blank">——《科学怪狗》</div>]]></content>
     </entry>
 </feed>
