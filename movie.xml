@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-27T12:26:48.590Z</updated>
+    <updated>2024-10-27T16:17:41.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 27 星期日 宜   大胆去干]]></title>
-        <id>https://www.cikeee.cc/mov/681024175616126/</id>
-        <link href="https://www.cikeee.cc/mov/681024175616126/"/>
-        <updated>2024-10-26T16:17:10.049Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681024175616126/" target="_blank">
+        <title type="html"><![CDATA[拾月 28 星期一 宜   见贤思齐]]></title>
+        <id>https://www.cikeee.cc/mov/680139588647292/</id>
+        <link href="https://www.cikeee.cc/mov/680139588647292/"/>
+        <updated>2024-10-27T16:17:38.099Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139588647292/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/106d/681024175616126.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139588647292.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681024175616126/?>" target="_blank">7.3分&nbsp;恐怖&nbsp;2018&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680139588647292/?>" target="_blank">8.1分&nbsp;剧情/喜剧/冒险&nbsp;2016&nbsp;新西兰</div>
                     
-                    <blockquote id="movie-text">别这么大声地和我说话，我是你妈。</blockquote>
-                    <div id="movie-name" href="/mov/681024175616126/" target="_blank">——《遗传厄运》</div>]]></content>
+                    <blockquote id="movie-text">不是我选择了黑帮生活，是黑帮生活选择了我。</blockquote>
+                    <div id="movie-name" href="/mov/680139588647292/" target="_blank">——《追捕野蛮人》</div>]]></content>
     </entry>
 </feed>
