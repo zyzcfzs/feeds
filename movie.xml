@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-28T12:30:35.956Z</updated>
+    <updated>2024-10-28T16:20:20.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 28 星期一 宜   见贤思齐]]></title>
-        <id>https://www.cikeee.cc/mov/680139588647292/</id>
-        <link href="https://www.cikeee.cc/mov/680139588647292/"/>
-        <updated>2024-10-27T16:17:38.099Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680139588647292/" target="_blank">
+        <title type="html"><![CDATA[拾月 29 星期二 宜   奋斗]]></title>
+        <id>https://www.cikeee.cc/mov/674190207385949/</id>
+        <link href="https://www.cikeee.cc/mov/674190207385949/"/>
+        <updated>2024-10-28T16:20:17.101Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674190207385949/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680139588647292.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674190207385949.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680139588647292/?>" target="_blank">8.1分&nbsp;剧情/喜剧/冒险&nbsp;2016&nbsp;新西兰</div>
+                    <div id="movie-information" href="/mov/674190207385949/?>" target="_blank">8.2分&nbsp;剧情/爱情/战争&nbsp;2004&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">不是我选择了黑帮生活，是黑帮生活选择了我。</blockquote>
-                    <div id="movie-name" href="/mov/680139588647292/" target="_blank">——《追捕野蛮人》</div>]]></content>
+                    <blockquote id="movie-text">感情的世界里，越是索取，便越是贫瘠。所有的迫不及待，都等不来期待。</blockquote>
+                    <div id="movie-name" href="/mov/674190207385949/" target="_blank">——《冷山》</div>]]></content>
     </entry>
 </feed>
