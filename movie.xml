@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-10-31T12:29:13.783Z</updated>
+    <updated>2024-10-31T16:19:28.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾月 31 星期四 宜   择善而从]]></title>
-        <id>https://www.cikeee.cc/mov/679337738695759/</id>
-        <link href="https://www.cikeee.cc/mov/679337738695759/"/>
-        <updated>2024-10-30T16:19:31.642Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679337738695759/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 01 星期五 宜   顺心如意]]></title>
+        <id>https://www.cikeee.cc/mov/679003062012711/</id>
+        <link href="https://www.cikeee.cc/mov/679003062012711/"/>
+        <updated>2024-10-31T16:19:24.792Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679003062012711/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/112d/679337738695759.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/679003062012711.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679337738695759/?>" target="_blank">9.1分&nbsp;剧情/喜剧/犯罪/奇幻&nbsp;1988&nbsp;意大利</div>
+                    <div id="movie-information" href="/mov/679003062012711/?>" target="_blank">8.3分&nbsp;剧情/奇幻&nbsp;2007&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">大多数的人就像是落叶一样，在空中随风飘荡、翻飞、荡漾，最后落到地上。一小部分的人像是天上的星星，在一定的途径上走，任何风都吹不到他们，在他们的内心中有自己的引导者和方向。</blockquote>
-                    <div id="movie-name" href="/mov/679337738695759/" target="_blank">——《流浪者之歌》</div>]]></content>
+                    <blockquote id="movie-text">不怕记不住，就怕忘不了。</blockquote>
+                    <div id="movie-name" href="/mov/679003062012711/" target="_blank">——《太阳照常升起》</div>]]></content>
     </entry>
 </feed>
