@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-11-01T12:29:01.954Z</updated>
+    <updated>2024-11-01T16:18:08.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[黑猫V2]]></title>
+        <id>https://www.manhuagui.com/comic/53966/</id>
+        <link href="https://www.manhuagui.com/comic/53966/"/>
+        <updated>2024-11-01T16:18:00.734Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53966.jpg" alt="黑猫V2"><div class="tt">更新至第10卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-11-01<p>评分： <b>0.0</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑猫V1]]></title>
+        <id>https://www.manhuagui.com/comic/32322/</id>
+        <link href="https://www.manhuagui.com/comic/32322/"/>
+        <updated>2024-11-01T16:18:00.735Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/32322.jpg" alt="黑猫V1"><div class="tt">更新至第12卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-11-01<p>评分： <b>4.7</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔鬼统治]]></title>
+        <id>https://www.manhuagui.com/comic/53965/</id>
+        <link href="https://www.manhuagui.com/comic/53965/"/>
+        <updated>2024-11-01T16:18:00.735Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53965.jpg" alt="魔鬼统治"><div class="tt">更新至第06卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-11-01<p>评分： <b>0.0</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜魔侠V8]]></title>
+        <id>https://www.manhuagui.com/comic/50768/</id>
+        <link href="https://www.manhuagui.com/comic/50768/"/>
+        <updated>2024-11-01T16:18:00.738Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50768.jpg" alt="夜魔侠V8"><div class="tt">更新至第09卷</div><div class="updateon">更新于：2024-11-01<p>评分： <b>8.7</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[死侍v3]]></title>
+        <id>https://www.manhuagui.com/comic/16604/</id>
+        <link href="https://www.manhuagui.com/comic/16604/"/>
+        <updated>2024-11-01T16:18:00.738Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/16604.jpg" alt="死侍v3"><div class="tt">更新至第67卷</div><div class="updateon">更新于：2024-11-01<p>评分： <b>6.0</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原来我家是魔力点~只是住在那里就变成世界最强~]]></title>
         <id>https://www.manhuagui.com/comic/28736/</id>
@@ -38,7 +73,7 @@
         <id>https://www.manhuagui.com/comic/53744/</id>
         <link href="https://www.manhuagui.com/comic/53744/"/>
         <updated>2024-11-01T12:28:54.606Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53744.jpg" alt="画狂少女"><div class="tt">更新至番外篇01</div><div class="updateon">更新于：2024-11-01<p>评分： <b>7.5</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53744.jpg" alt="画狂少女"><div class="tt">更新至番外篇01</div><div class="updateon">更新于：2024-11-01<p>评分： <b>7.6</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[亡骸游戏]]></title>
@@ -241,7 +276,7 @@
         <id>https://www.manhuagui.com/comic/53940/</id>
         <link href="https://www.manhuagui.com/comic/53940/"/>
         <updated>2024-11-01T08:19:11.895Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53940.jpg" alt="筱原君的住家饭"><div class="tt">更新至第10话</div><div class="updateon">更新于：2024-11-01<p>评分： <b>9.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53940.jpg" alt="筱原君的住家饭"><div class="tt">更新至第10话</div><div class="updateon">更新于：2024-11-01<p>评分： <b>9.1</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[柔光魔女股份有限公司]]></title>
@@ -263,40 +298,5 @@
         <link href="https://www.manhuagui.com/comic/44149/"/>
         <updated>2024-11-01T08:19:11.900Z</updated>
         <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/44149.jpg" alt="星球大战：曼达洛人"><div class="tt">更新至第22话</div><div class="updateon">更新于：2024-11-01<p>评分： <b>9.1</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何定要随波逐流]]></title>
-        <id>https://www.manhuagui.com/comic/38156/</id>
-        <link href="https://www.manhuagui.com/comic/38156/"/>
-        <updated>2024-11-01T08:19:11.902Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/38156.jpg" alt="为何定要随波逐流"><div class="tt">更新至第12.1话</div><div class="updateon">更新于：2024-11-01<p>评分： <b>8.3</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红壳的潘多拉]]></title>
-        <id>https://www.manhuagui.com/comic/9548/</id>
-        <link href="https://www.manhuagui.com/comic/9548/"/>
-        <updated>2024-11-01T08:19:11.902Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/9548.jpg" alt="红壳的潘多拉"><div class="tt">更新至第71话试阅</div><div class="updateon">更新于：2024-11-01<p>评分： <b>8.7</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨人RAIN MAN]]></title>
-        <id>https://www.manhuagui.com/comic/53702/</id>
-        <link href="https://www.manhuagui.com/comic/53702/"/>
-        <updated>2024-11-01T08:19:11.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53702.jpg" alt="雨人RAIN MAN"><div class="tt">更新至第03卷</div><div class="updateon">更新于：2024-11-01<p>评分： <b>7.1</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉良吉影想在魔法界生活]]></title>
-        <id>https://www.manhuagui.com/comic/47192/</id>
-        <link href="https://www.manhuagui.com/comic/47192/"/>
-        <updated>2024-11-01T08:19:11.906Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/47192.jpg" alt="吉良吉影想在魔法界生活"><div class="tt">更新至第88话</div><div class="updateon">更新于：2024-11-01<p>评分： <b>6.4</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫与仆]]></title>
-        <id>https://www.manhuagui.com/comic/50199/</id>
-        <link href="https://www.manhuagui.com/comic/50199/"/>
-        <updated>2024-11-01T08:19:11.908Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50199.jpg" alt="猫与仆"><div class="tt">更新至第06话</div><div class="updateon">更新于：2024-11-01<p>评分： <b>6.8</b></p></div>]]></content>
     </entry>
 </feed>

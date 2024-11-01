@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-01T12:29:01.961Z</updated>
+    <updated>2024-11-01T16:18:08.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 01 星期五 宜   顺心如意]]></title>
-        <id>https://www.cikeee.cc/mov/679003062012711/</id>
-        <link href="https://www.cikeee.cc/mov/679003062012711/"/>
-        <updated>2024-10-31T16:19:24.792Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679003062012711/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 02 星期六 宜   追求]]></title>
+        <id>https://www.cikeee.cc/mov/674319621569937/</id>
+        <link href="https://www.cikeee.cc/mov/674319621569937/"/>
+        <updated>2024-11-01T16:18:04.631Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319621569937/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/679003062012711.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319621569937.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679003062012711/?>" target="_blank">8.3分&nbsp;剧情/奇幻&nbsp;2007&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/674319621569937/?>" target="_blank">8.5分&nbsp;剧情/爱情/悬疑/战争&nbsp;2008&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">不怕记不住，就怕忘不了。</blockquote>
-                    <div id="movie-name" href="/mov/679003062012711/" target="_blank">——《太阳照常升起》</div>]]></content>
+                    <blockquote id="movie-text">缘分未尽，我会回去，回去找你，爱你，娶你，然后挺起胸膛生活。</blockquote>
+                    <div id="movie-name" href="/mov/674319621569937/" target="_blank">——《赎罪》</div>]]></content>
     </entry>
 </feed>
