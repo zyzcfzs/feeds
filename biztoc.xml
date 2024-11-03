@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-11-03T04:17:50.857Z</updated>
+    <updated>2024-11-03T08:17:25.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/807/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[US B-52 Bombers Deployed to Middle East Amid Tensions]]></title>
+        <title type="html"><![CDATA[US Labor Market Hit by Hurricanes, Strikes]]></title>
+        <id>https://www.reuters.com/markets/us/us-job-growth-slows-sharply-october-unemployment-rate-unchanged-41-2024-11-01/?ref=biztoc.com</id>
+        <link href="https://www.reuters.com/markets/us/us-job-growth-slows-sharply-october-unemployment-rate-unchanged-41-2024-11-01/?ref=biztoc.com"/>
+        <updated>2024-11-03T08:17:25.146Z</updated>
+        <content type="html"><![CDATA[US Labor Market Hit by Hurricanes, Strikes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wegovy's $6bn Impact Fails to Boost Danish Town]]></title>
+        <id>https://www.bbc.com/news/articles/cvg0p18lqqyo?ref=biztoc.com</id>
+        <link href="https://www.bbc.com/news/articles/cvg0p18lqqyo?ref=biztoc.com"/>
+        <updated>2024-11-03T08:17:25.148Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/8b907ae3c898a847_sq.webp" class="pl" alt="" style="visibility: visible;">                        Wegovy's $6bn Impact Fails to Boost Danish Town]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia Downs 16 Ukrainian Drones Over Rostov]]></title>
+        <id>https://breakingthenews.net/Article/Russia-downs-16-Ukrainian-drones-over-Rostov/62987508?ref=biztoc.com</id>
+        <link href="https://breakingthenews.net/Article/Russia-downs-16-Ukrainian-drones-over-Rostov/62987508?ref=biztoc.com"/>
+        <updated>2024-11-03T08:17:25.150Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/b077a80f0d0e3b16_sq.webp" class="pl" alt="" style="visibility: visible;">                        Russia Downs 16 Ukrainian Drones Over Rostov]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nevada Mine Threatens Rare Plant Habitat, Suit Filed]]></title>
+        <id>https://finance.yahoo.com/news/nevada-lithium-mine-crush-rare-045724225.html?ref=biztoc.com</id>
+        <link href="https://finance.yahoo.com/news/nevada-lithium-mine-crush-rare-045724225.html?ref=biztoc.com"/>
+        <updated>2024-11-03T08:17:25.151Z</updated>
+        <content type="html"><![CDATA[Nevada Mine Threatens Rare Plant Habitat, Suit Filed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US B-52 Bombers Deploy to Middle East Amid Tensions]]></title>
         <id>https://breakingthenews.net/Article/US-B-52-bombers-arrive-in-Middle-East/62987229?ref=biztoc.com</id>
         <link href="https://breakingthenews.net/Article/US-B-52-bombers-arrive-in-Middle-East/62987229?ref=biztoc.com"/>
         <updated>2024-11-03T04:17:50.235Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/61533fd5df680788_sq.webp" class="pl" alt="" style="visibility: visible;">                        US B-52 Bombers Deployed to Middle East Amid Tensions]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNICEF Reports Over 50 Child Deaths in Gaza in 48 Hours]]></title>
-        <id>https://breakingthenews.net/Article/UNICEF:-Over-50-children-killed-in-Gaza-in-past-48-hours/62987224?ref=biztoc.com</id>
-        <link href="https://breakingthenews.net/Article/UNICEF:-Over-50-children-killed-in-Gaza-in-past-48-hours/62987224?ref=biztoc.com"/>
-        <updated>2024-11-03T04:17:50.236Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/6246e609a9a8b75a_sq.webp" class="pl" alt="" style="visibility: visible;">                        UNICEF Reports Over 50 Child Deaths in Gaza in 48 Hours]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Faces Pressure As North Korea Deploys Troops to Russia]]></title>
-        <id>https://www.wsj.com/articles/china-faces-a-dilemma-with-north-korean-troops-pouring-into-russia-34f0532f?ref=biztoc.com</id>
-        <link href="https://www.wsj.com/articles/china-faces-a-dilemma-with-north-korean-troops-pouring-into-russia-34f0532f?ref=biztoc.com"/>
-        <updated>2024-11-03T04:17:50.237Z</updated>
-        <content type="html"><![CDATA[China Faces Pressure As North Korea Deploys Troops to Russia]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israeli Commandos Capture Hezbollah Official in Bold Raid]]></title>
-        <id>https://www.zerohedge.com/geopolitical/israeli-commandos-snatch-hezbollah-naval-official-daring-beach-raid?ref=biztoc.com</id>
-        <link href="https://www.zerohedge.com/geopolitical/israeli-commandos-snatch-hezbollah-naval-official-daring-beach-raid?ref=biztoc.com"/>
-        <updated>2024-11-03T04:17:50.239Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/7e4d8911910346d4_sq.webp" class="pl" alt="" style="visibility: visible;">                        Israeli Commandos Capture Hezbollah Official in Bold Raid]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia, Ukraine Deadlock Over POW Swap Accusations]]></title>
-        <id>https://www.investing.com/news/world-news/russia-says-ukraine-is-sabotaging-prisoner-of-war-exchanges-3698497?ref=biztoc.com</id>
-        <link href="https://www.investing.com/news/world-news/russia-says-ukraine-is-sabotaging-prisoner-of-war-exchanges-3698497?ref=biztoc.com"/>
-        <updated>2024-11-03T04:17:50.240Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/8f96e2f28f190ef2_sq.webp" class="pl" alt="" style="visibility: visible;">                        Russia, Ukraine Deadlock Over POW Swap Accusations]]></content>
+        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/61533fd5df680788_sq.webp" class="pl" alt="" style="visibility: visible;">                        US B-52 Bombers Deploy to Middle East Amid Tensions]]></content>
     </entry>
 </feed>
