@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-05T12:27:36.923Z</updated>
+    <updated>2024-11-05T16:19:43.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 05 星期二 宜   鸿运当头]]></title>
-        <id>https://www.cikeee.cc/mov/678327056339665/</id>
-        <link href="https://www.cikeee.cc/mov/678327056339665/"/>
-        <updated>2024-11-04T16:19:15.647Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678327056339665/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 06 星期三 宜   戒骄戒躁]]></title>
+        <id>https://www.cikeee.cc/mov/676220001085662/</id>
+        <link href="https://www.cikeee.cc/mov/676220001085662/"/>
+        <updated>2024-11-05T16:19:39.486Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/676220001085662/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/108d/678327056339665.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/112d/676220001085662.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/678327056339665/?>" target="_blank">8.6分&nbsp;剧情&nbsp;2021&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/676220001085662/?>" target="_blank">8.3分&nbsp;动作/冒险/武侠&nbsp;1991&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">把握好时光，因为好天气总是一瞬即逝。</blockquote>
-                    <div id="movie-name" href="/mov/678327056339665/" target="_blank">——《困在时间里的父亲》</div>]]></content>
+                    <blockquote id="movie-text">有人说是八十一年前，有人说是七十一年前，总之这是发生在中国西部过去的故事。</blockquote>
+                    <div id="movie-name" href="/mov/676220001085662/" target="_blank">——《双旗镇刀客》</div>]]></content>
     </entry>
 </feed>
