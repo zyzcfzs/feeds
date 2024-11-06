@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-06T12:29:24.390Z</updated>
+    <updated>2024-11-06T16:19:50.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 06 星期三 宜   戒骄戒躁]]></title>
-        <id>https://www.cikeee.cc/mov/676220001085662/</id>
-        <link href="https://www.cikeee.cc/mov/676220001085662/"/>
-        <updated>2024-11-05T16:19:39.486Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/676220001085662/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 07 星期四 宜   逢凶化吉]]></title>
+        <id>https://www.cikeee.cc/mov/680004205782114/</id>
+        <link href="https://www.cikeee.cc/mov/680004205782114/"/>
+        <updated>2024-11-06T16:19:46.478Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004205782114/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/112d/676220001085662.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004205782114.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/676220001085662/?>" target="_blank">8.3分&nbsp;动作/冒险/武侠&nbsp;1991&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/680004205782114/?>" target="_blank">8.7分&nbsp;剧情/惊悚&nbsp;2008&nbsp;德国</div>
                     
-                    <blockquote id="movie-text">有人说是八十一年前，有人说是七十一年前，总之这是发生在中国西部过去的故事。</blockquote>
-                    <div id="movie-name" href="/mov/676220001085662/" target="_blank">——《双旗镇刀客》</div>]]></content>
+                    <blockquote id="movie-text">法西斯距离我们只有五天。</blockquote>
+                    <div id="movie-name" href="/mov/680004205782114/" target="_blank">——《浪潮》</div>]]></content>
     </entry>
 </feed>
