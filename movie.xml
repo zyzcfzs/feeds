@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-07T12:28:33.453Z</updated>
+    <updated>2024-11-07T16:18:55.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 07 星期四 宜   逢凶化吉]]></title>
-        <id>https://www.cikeee.cc/mov/680004205782114/</id>
-        <link href="https://www.cikeee.cc/mov/680004205782114/"/>
-        <updated>2024-11-06T16:19:46.478Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004205782114/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 08 星期五 宜   自在]]></title>
+        <id>https://www.cikeee.cc/mov/681306433677591/</id>
+        <link href="https://www.cikeee.cc/mov/681306433677591/"/>
+        <updated>2024-11-07T16:18:51.244Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681306433677591/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004205782114.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/107d/681306433677591.webp" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680004205782114/?>" target="_blank">8.7分&nbsp;剧情/惊悚&nbsp;2008&nbsp;德国</div>
+                    <div id="movie-information" href="/mov/681306433677591/?>" target="_blank">7.5分&nbsp;喜剧&nbsp;2012&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">法西斯距离我们只有五天。</blockquote>
-                    <div id="movie-name" href="/mov/680004205782114/" target="_blank">——《浪潮》</div>]]></content>
+                    <blockquote id="movie-text">泰姬陵在印度！</blockquote>
+                    <div id="movie-name" href="/mov/681306433677591/" target="_blank">——《人再囧途之泰囧》</div>]]></content>
     </entry>
 </feed>
