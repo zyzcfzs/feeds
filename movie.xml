@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-08T12:29:02.458Z</updated>
+    <updated>2024-11-08T16:18:20.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 08 星期五 宜   自在]]></title>
-        <id>https://www.cikeee.cc/mov/681306433677591/</id>
-        <link href="https://www.cikeee.cc/mov/681306433677591/"/>
-        <updated>2024-11-07T16:18:51.244Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681306433677591/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 09 星期六 宜   飞黄腾达]]></title>
+        <id>https://www.cikeee.cc/mov/681024097597123/</id>
+        <link href="https://www.cikeee.cc/mov/681024097597123/"/>
+        <updated>2024-11-08T16:18:17.065Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681024097597123/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/107d/681306433677591.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/106d/681024097597123.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/681306433677591/?>" target="_blank">7.5分&nbsp;喜剧&nbsp;2012&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/681024097597123/?>" target="_blank">7.2分&nbsp;剧情/家庭&nbsp;2010&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">泰姬陵在印度！</blockquote>
-                    <div id="movie-name" href="/mov/681306433677591/" target="_blank">——《人再囧途之泰囧》</div>]]></content>
+                    <blockquote id="movie-text">人生就像在雨中散步，你可以躲起来避雨，也可以干脆淋个痛快。</blockquote>
+                    <div id="movie-name" href="/mov/681024097597123/" target="_blank">——《海瑟》</div>]]></content>
     </entry>
 </feed>
