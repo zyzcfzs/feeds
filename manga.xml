@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-11-15T20:17:10.499Z</updated>
+    <updated>2024-11-16T01:12:37.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[露出导演]]></title>
+        <id>https://www.manhuagui.com/comic/41827/</id>
+        <link href="https://www.manhuagui.com/comic/41827/"/>
+        <updated>2024-11-16T01:12:30.888Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/41827_57.jpg" alt="露出导演"><div class="tt">更新至第73.1话</div><div class="updateon">更新于：2024-11-16<p>评分： <b>9.3</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阳光马达棒球场！]]></title>
         <id>https://www.manhuagui.com/comic/52233/</id>
@@ -164,7 +171,7 @@
         <id>https://www.manhuagui.com/comic/54050/</id>
         <link href="https://www.manhuagui.com/comic/54050/"/>
         <updated>2024-11-15T12:29:52.533Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54050.jpg" alt="艾诺克第二部队的饥饿远征美食录"><div class="tt">更新至第02卷</div><div class="updateon">更新于：2024-11-15<p>评分： <b>8.4</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54050.jpg" alt="艾诺克第二部队的饥饿远征美食录"><div class="tt">更新至第02卷</div><div class="updateon">更新于：2024-11-15<p>评分： <b>8.7</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[赤羽骨子的亲卫队]]></title>
@@ -192,7 +199,7 @@
         <id>https://www.manhuagui.com/comic/53782/</id>
         <link href="https://www.manhuagui.com/comic/53782/"/>
         <updated>2024-11-15T08:19:39.938Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53782.jpg" alt="摇曳怪谈！ ~无敌的JK向灵异地点发起突击~"><div class="tt">更新至第2.2话</div><div class="updateon">更新于：2024-11-15<p>评分： <b>7.5</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53782.jpg" alt="摇曳怪谈！ ~无敌的JK向灵异地点发起突击~"><div class="tt">更新至第2.2话</div><div class="updateon">更新于：2024-11-15<p>评分： <b>7.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎回家、爸爸]]></title>
@@ -291,12 +298,5 @@
         <link href="https://www.manhuagui.com/comic/41622/"/>
         <updated>2024-11-15T04:18:55.386Z</updated>
         <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/41622.jpg" alt="暗杀后宫・暗杀女官花玲想要舒畅生活"><div class="tt">更新至第24话</div><div class="updateon">更新于：2024-11-15<p>评分： <b>9.2</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终将成为最强炼金术师？]]></title>
-        <id>https://www.manhuagui.com/comic/30477/</id>
-        <link href="https://www.manhuagui.com/comic/30477/"/>
-        <updated>2024-11-15T04:18:55.386Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/30477.jpg" alt="终将成为最强炼金术师？"><div class="tt">更新至第53话</div><div class="updateon">更新于：2024-11-15<p>评分： <b>7.7</b></p></div>]]></content>
     </entry>
 </feed>
