@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-16T12:27:56.305Z</updated>
+    <updated>2024-11-16T16:19:22.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 16 星期六 宜   展望]]></title>
-        <id>https://www.cikeee.cc/mov/680038699446611/</id>
-        <link href="https://www.cikeee.cc/mov/680038699446611/"/>
-        <updated>2024-11-15T16:19:56.074Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680038699446611/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 17 星期日 宜   开怀]]></title>
+        <id>https://www.cikeee.cc/mov/675706672030319/</id>
+        <link href="https://www.cikeee.cc/mov/675706672030319/"/>
+        <updated>2024-11-16T16:19:18.485Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706672030319/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680038699446611.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706672030319.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680038699446611/?>" target="_blank">7.9分&nbsp;剧情&nbsp;2012&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/675706672030319/?>" target="_blank">8.8分&nbsp;剧情&nbsp;2000&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">你放弃了她，所以她也放弃了你。</blockquote>
-                    <div id="movie-name" href="/mov/680038699446611/" target="_blank">——《污泥》</div>]]></content>
+                    <blockquote id="movie-text">一场没有春天的噩梦。</blockquote>
+                    <div id="movie-name" href="/mov/675706672030319/" target="_blank">——《梦之安魂曲》</div>]]></content>
     </entry>
 </feed>
