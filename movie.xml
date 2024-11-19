@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-19T12:30:52.004Z</updated>
+    <updated>2024-11-19T16:19:59.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 19 星期二 宜   志在千里]]></title>
-        <id>https://www.cikeee.cc/mov/677369366094113/</id>
-        <link href="https://www.cikeee.cc/mov/677369366094113/"/>
-        <updated>2024-11-18T16:20:53.322Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677369366094113/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 20 星期三 宜   择善而从]]></title>
+        <id>https://www.cikeee.cc/mov/680073244658987/</id>
+        <link href="https://www.cikeee.cc/mov/680073244658987/"/>
+        <updated>2024-11-19T16:19:56.199Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680073244658987/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/104d/677369366094113.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680073244658987.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/677369366094113/?>" target="_blank">8.7分&nbsp;动画/音乐/奇幻&nbsp;2020&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680073244658987/?>" target="_blank">7.6分&nbsp;剧情/科幻/冒险/灾难&nbsp;2006&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">把寻常的人生过好, 才是最不寻常的事。</blockquote>
-                    <div id="movie-name" href="/mov/677369366094113/" target="_blank">——《心灵奇旅》</div>]]></content>
+                    <blockquote id="movie-text">当操场上的嬉笑声消失，绝望也随之而来。说起来是多么奇怪，这样一个没有童声的世界。</blockquote>
+                    <div id="movie-name" href="/mov/680073244658987/" target="_blank">——《人类之子》</div>]]></content>
     </entry>
 </feed>
