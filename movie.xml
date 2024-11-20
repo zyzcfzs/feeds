@@ -2,22 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-20T12:30:51.427Z</updated>
+    <updated>2024-11-20T16:20:12.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 20 星期三 宜   择善而从]]></title>
-        <id>https://www.cikeee.cc/mov/680073244658987/</id>
-        <link href="https://www.cikeee.cc/mov/680073244658987/"/>
-        <updated>2024-11-19T16:19:56.199Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680073244658987/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 21 星期四 宜   追寻]]></title>
+        <id>https://www.cikeee.cc/mov/674319611970824/</id>
+        <link href="https://www.cikeee.cc/mov/674319611970824/"/>
+        <updated>2024-11-20T16:20:08.823Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319611970824/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680073244658987.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319611970824.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680073244658987/?>" target="_blank">7.6分&nbsp;剧情/科幻/冒险/灾难&nbsp;2006&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/674319611970824/?>" target="_blank">7.9分&nbsp;剧情/家庭&nbsp;2017&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">当操场上的嬉笑声消失，绝望也随之而来。说起来是多么奇怪，这样一个没有童声的世界。</blockquote>
-                    <div id="movie-name" href="/mov/680073244658987/" target="_blank">——《人类之子》</div>]]></content>
+                    <blockquote id="movie-text">
+你什么都做不了，除非你是大家的焦点，不是吗？</blockquote>
+                    <div id="movie-name" href="/mov/674319611970824/" target="_blank">——《伯德小姐》</div>]]></content>
     </entry>
 </feed>
