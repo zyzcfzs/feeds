@@ -2,23 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-21T12:31:35.193Z</updated>
+    <updated>2024-11-21T16:20:27.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 21 星期四 宜   追寻]]></title>
-        <id>https://www.cikeee.cc/mov/674319611970824/</id>
-        <link href="https://www.cikeee.cc/mov/674319611970824/"/>
-        <updated>2024-11-20T16:20:08.823Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319611970824/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 22 星期五 宜   追求]]></title>
+        <id>https://www.cikeee.cc/mov/675706891295744/</id>
+        <link href="https://www.cikeee.cc/mov/675706891295744/"/>
+        <updated>2024-11-21T16:20:23.879Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706891295744/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674319611970824.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706891295744.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674319611970824/?>" target="_blank">7.9分&nbsp;剧情/家庭&nbsp;2017&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/675706891295744/?>" target="_blank">8.4分&nbsp;剧情/传记/犯罪&nbsp;1990&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">
-你什么都做不了，除非你是大家的焦点，不是吗？</blockquote>
-                    <div id="movie-name" href="/mov/674319611970824/" target="_blank">——《伯德小姐》</div>]]></content>
+                    <blockquote id="movie-text">人生中最重要的两件事：绝不背叛你的朋友，还有永不泄漏任何秘密。</blockquote>
+                    <div id="movie-name" href="/mov/675706891295744/" target="_blank">——《好家伙》</div>]]></content>
     </entry>
 </feed>
