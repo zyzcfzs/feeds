@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-22T12:30:36.015Z</updated>
+    <updated>2024-11-22T16:19:36.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 22 星期五 宜   追求]]></title>
-        <id>https://www.cikeee.cc/mov/675706891295744/</id>
-        <link href="https://www.cikeee.cc/mov/675706891295744/"/>
-        <updated>2024-11-21T16:20:23.879Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706891295744/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 23 星期六 宜   释放]]></title>
+        <id>https://www.cikeee.cc/mov/678327089089680/</id>
+        <link href="https://www.cikeee.cc/mov/678327089089680/"/>
+        <updated>2024-11-22T16:19:32.134Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678327089089680/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706891295744.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/108d/678327089089680.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706891295744/?>" target="_blank">8.4分&nbsp;剧情/传记/犯罪&nbsp;1990&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/678327089089680/?>" target="_blank">8.5分&nbsp;剧情/悬疑/犯罪&nbsp;1996&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">人生中最重要的两件事：绝不背叛你的朋友，还有永不泄漏任何秘密。</blockquote>
-                    <div id="movie-name" href="/mov/675706891295744/" target="_blank">——《好家伙》</div>]]></content>
+                    <blockquote id="movie-text">我想知道，好人为什么也做坏事。</blockquote>
+                    <div id="movie-name" href="/mov/678327089089680/" target="_blank">——《一级恐惧》</div>]]></content>
     </entry>
 </feed>
