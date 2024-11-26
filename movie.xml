@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-26T12:31:43.502Z</updated>
+    <updated>2024-11-26T16:20:45.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 26 星期二 宜   坚持]]></title>
-        <id>https://www.cikeee.cc/mov/673887855264479/</id>
-        <link href="https://www.cikeee.cc/mov/673887855264479/"/>
-        <updated>2024-11-25T16:19:41.971Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/673887855264479/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 27 星期三 宜   重新出发]]></title>
+        <id>https://www.cikeee.cc/mov/674190182940931/</id>
+        <link href="https://www.cikeee.cc/mov/674190182940931/"/>
+        <updated>2024-11-26T16:20:41.341Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674190182940931/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/673887855264479.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674190182940931.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/673887855264479/?>" target="_blank">8.4分&nbsp;剧情/悬疑/惊悚&nbsp;2001&nbsp;法国</div>
+                    <div id="movie-information" href="/mov/674190182940931/?>" target="_blank">9.1分&nbsp;剧情&nbsp;1975&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">也许当恨过了，才知道爱曾有多深。</blockquote>
-                    <div id="movie-name" href="/mov/673887855264479/" target="_blank">——《穆赫兰道》</div>]]></content>
+                    <blockquote id="movie-text">究竟谁才是疯子，这是个问题。</blockquote>
+                    <div id="movie-name" href="/mov/674190182940931/" target="_blank">——《飞越疯人院》</div>]]></content>
     </entry>
 </feed>
