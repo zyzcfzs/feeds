@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-11-28T12:31:50.097Z</updated>
+    <updated>2024-11-28T16:19:28.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾壹月 28 星期四 宜   纵横驰骋]]></title>
-        <id>https://www.cikeee.cc/mov/676755243856020/</id>
-        <link href="https://www.cikeee.cc/mov/676755243856020/"/>
-        <updated>2024-11-27T16:19:42.978Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/676755243856020/" target="_blank">
+        <title type="html"><![CDATA[拾壹月 29 星期五 宜   坦荡]]></title>
+        <id>https://www.cikeee.cc/mov/680004035666438/</id>
+        <link href="https://www.cikeee.cc/mov/680004035666438/"/>
+        <updated>2024-11-28T16:19:24.856Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004035666438/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/102d/676755243856020.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004035666438.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/676755243856020/?>" target="_blank">8.2分&nbsp;剧情/喜剧/爱情&nbsp;2005&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/680004035666438/?>" target="_blank">7.8分&nbsp;剧情&nbsp;2012&nbsp;韩国</div>
                     
-                    <blockquote id="movie-text">有时候你生活里最想要的东西一直在你身边，可是到最后，发现也晚了。</blockquote>
-                    <div id="movie-name" href="/mov/676755243856020/" target="_blank">——《独自等待》</div>]]></content>
+                    <blockquote id="movie-text">钱，是一切的开始，也是结束。</blockquote>
+                    <div id="movie-name" href="/mov/680004035666438/" target="_blank">——《圣殇》</div>]]></content>
     </entry>
 </feed>
