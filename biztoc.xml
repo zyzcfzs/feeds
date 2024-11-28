@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-11-28T04:19:24.438Z</updated>
+    <updated>2024-11-28T08:21:09.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/808/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[FTC Opens Antitrust Probe Into Microsoft]]></title>
+        <title type="html"><![CDATA[Adani Scandal Triggers Sta in Indian Parliament]]></title>
+        <id>https://abcnews.go.com/Business/wireStory/adani-fraud-allegations-rock-indian-parliament-opposition-demands-116299973?ref=biztoc.com</id>
+        <link href="https://abcnews.go.com/Business/wireStory/adani-fraud-allegations-rock-indian-parliament-opposition-demands-116299973?ref=biztoc.com"/>
+        <updated>2024-11-28T08:21:08.359Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="15b3b9db782c75a0_sq.webp" class="pl" alt="">                        Adani Scandal Triggers Sta in Indian Parliament]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC Opens Antitrust Investigation into Microsoft]]></title>
         <id>https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/?ref=biztoc.com</id>
         <link href="https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/?ref=biztoc.com"/>
         <updated>2024-11-28T04:19:23.796Z</updated>
-        <content type="html"><![CDATA[FTC Opens Antitrust Probe Into Microsoft]]></content>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="df648092a7c7a9b8_sq.webp" class="pl" alt="">                        FTC Opens Antitrust Investigation into Microsoft]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK Plans to Water Down Green Targets Amid Economic Strains]]></title>
-        <id>https://www.politico.eu/article/cash-keir-starmer-prime-minister-government-climate-ambitions-ev-sales-economy-smmt-zero-emissions/?ref=biztoc.com</id>
-        <link href="https://www.politico.eu/article/cash-keir-starmer-prime-minister-government-climate-ambitions-ev-sales-economy-smmt-zero-emissions/?ref=biztoc.com"/>
-        <updated>2024-11-28T04:19:23.797Z</updated>
-        <content type="html"><![CDATA[UK Plans to Water Down Green Targets Amid Economic Strains]]></content>
+        <title type="html"><![CDATA[Biden Plans $725 Million Arms Aid for Ukraine]]></title>
+        <id>https://www.euractiv.com/section/global-europe/news/biden-readies-725-million-arms-aid-package-for-ukraine/?ref=biztoc.com</id>
+        <link href="https://www.euractiv.com/section/global-europe/news/biden-readies-725-million-arms-aid-package-for-ukraine/?ref=biztoc.com"/>
+        <updated>2024-11-28T08:21:08.362Z</updated>
+        <content type="html"><![CDATA[Biden Plans $725 Million Arms Aid for Ukraine]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTC Investigates Microsoft Over Antitrust Concerns]]></title>
-        <id>https://biztoc.com/</id>
-        <link href="https://biztoc.com/"/>
-        <updated>2024-11-28T04:19:23.799Z</updated>
-        <content type="html"><![CDATA[FTC Investigates Microsoft Over Antitrust Concerns]]></content>
+        <title type="html"><![CDATA[Russia Strikes Ukraine's Energy Grid with Missiles]]></title>
+        <id>https://www.bloomberg.com/news/articles/2024-11-28/russia-targets-ukraine-s-power-system-with-new-missile-barrage?ref=biztoc.com</id>
+        <link href="https://www.bloomberg.com/news/articles/2024-11-28/russia-targets-ukraine-s-power-system-with-new-missile-barrage?ref=biztoc.com"/>
+        <updated>2024-11-28T08:21:08.363Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="55a2473532b8ef81_sq.webp" class="pl" alt="">                        Russia Strikes Ukraine's Energy Grid with Missiles]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[United Airlines Reports Delays Over Air Traffic Controller Shortages]]></title>
-        <id>https://simpleflying.com/united-airlines-reports-delays-newark-liberty-international-airport-atc-shortage/?ref=biztoc.com</id>
-        <link href="https://simpleflying.com/united-airlines-reports-delays-newark-liberty-international-airport-atc-shortage/?ref=biztoc.com"/>
-        <updated>2024-11-28T04:19:23.800Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="73ffe8f475953a74_sq.webp" class="pl" alt="">                        United Airlines Reports Delays Over Air Traffic Controller Shortages]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Praises U.S. Firms Amid Trade War Fears]]></title>
-        <id>https://biztoc.com/</id>
-        <link href="https://biztoc.com/"/>
-        <updated>2024-11-28T04:19:23.802Z</updated>
-        <content type="html"><![CDATA[China Praises U.S. Firms Amid Trade War Fears]]></content>
+        <title type="html"><![CDATA[Fast Fashion Uses Toxic Chemicals, Study Finds]]></title>
+        <id>https://www.businessinsider.com/toxic-chemicals-in-shein-and-other-fast-fashion-clothing-2022-8?ref=biztoc.com</id>
+        <link href="https://www.businessinsider.com/toxic-chemicals-in-shein-and-other-fast-fashion-clothing-2022-8?ref=biztoc.com"/>
+        <updated>2024-11-28T08:21:08.365Z</updated>
+        <content type="html"><![CDATA[Fast Fashion Uses Toxic Chemicals, Study Finds]]></content>
     </entry>
 </feed>
