@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-11-27T20:17:53.737Z</updated>
+    <updated>2024-11-28T01:13:41.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/808/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[U.S. Moves Forward with $680 Million Arms Sale to Israel]]></title>
-        <id>https://www.wsj.com/articles/u-s-moves-forward-with-680-million-arms-sale-to-israel-586a94fb?ref=biztoc.com</id>
-        <link href="https://www.wsj.com/articles/u-s-moves-forward-with-680-million-arms-sale-to-israel-586a94fb?ref=biztoc.com"/>
-        <updated>2024-11-27T20:17:53.091Z</updated>
-        <content type="html"><![CDATA[U.S. Moves Forward with $680 Million Arms Sale to Israel]]></content>
+        <title type="html"><![CDATA[Microsoft Under US FTC Antitrust Investigation]]></title>
+        <id>https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns?ref=biztoc.com</id>
+        <link href="https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns?ref=biztoc.com"/>
+        <updated>2024-11-28T01:13:41.108Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="dcae50108f56e538_sq.webp" class="pl" alt="">                        Microsoft Under US FTC Antitrust Investigation]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Risks to Young People a Concern, Says Eric Schmidt]]></title>
+        <title type="html"><![CDATA[Biden Requests $24 Billion for Ukraine Aid]]></title>
+        <id>https://www.zerohedge.com/political/biden-asks-congress-authorize-24bn-more-spend-ukraine?ref=biztoc.com</id>
+        <link href="https://www.zerohedge.com/political/biden-asks-congress-authorize-24bn-more-spend-ukraine?ref=biztoc.com"/>
+        <updated>2024-11-28T01:13:41.111Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="bb87aa1b8c844ca6_sq.webp" class="pl" alt="">                        Biden Requests $24 Billion for Ukraine Aid]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US to Expand Influence in Lebanon After Ceasefire]]></title>
+        <id>https://www.zerohedge.com/geopolitical/us-deepen-footprint-lebanon-part-ceasefire-deal?ref=biztoc.com</id>
+        <link href="https://www.zerohedge.com/geopolitical/us-deepen-footprint-lebanon-part-ceasefire-deal?ref=biztoc.com"/>
+        <updated>2024-11-28T01:13:41.116Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="750cf65ae597deb9_sq.webp" class="pl" alt="">                        US to Expand Influence in Lebanon After Ceasefire]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s Energy Policy May Reshape US Foreign Relations]]></title>
         <id>https://biztoc.com/</id>
         <link href="https://biztoc.com/"/>
-        <updated>2024-11-27T20:17:53.093Z</updated>
-        <content type="html"><![CDATA[AI Risks to Young People a Concern, Says Eric Schmidt]]></content>
+        <updated>2024-11-28T01:13:41.117Z</updated>
+        <content type="html"><![CDATA[Trump’s Energy Policy May Reshape US Foreign Relations]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fed's Preferred Inflation Measure Rises in October]]></title>
-        <id>https://www.nytimes.com/2024/11/27/business/economy/inflation-pce-fed-interest-rates.html?ref=biztoc.com</id>
-        <link href="https://www.nytimes.com/2024/11/27/business/economy/inflation-pce-fed-interest-rates.html?ref=biztoc.com"/>
-        <updated>2024-11-27T20:17:53.095Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="a4373ca328d41c8f_sq.webp" class="pl" alt="">                        Fed's Preferred Inflation Measure Rises in October]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lebanon Ceasefire Shows Promise, Says Guterres]]></title>
-        <id>https://breakingthenews.net/Article/Guterres-says-Lebanon-ceasefire-'first-ray-of-hope'/63146108?ref=biztoc.com</id>
-        <link href="https://breakingthenews.net/Article/Guterres-says-Lebanon-ceasefire-'first-ray-of-hope'/63146108?ref=biztoc.com"/>
-        <updated>2024-11-27T20:17:53.096Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="87d49fb667f3a04f_sq.webp" class="pl" alt="">                        Lebanon Ceasefire Shows Promise, Says Guterres]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Tariff Plans May Spark Inflation, Analysts Warn]]></title>
+        <title type="html"><![CDATA[Chinese Automakers Overtake Japanese Rivals]]></title>
         <id>https://biztoc.com/</id>
         <link href="https://biztoc.com/"/>
-        <updated>2024-11-27T20:17:53.097Z</updated>
-        <content type="html"><![CDATA[Trump Tariff Plans May Spark Inflation, Analysts Warn]]></content>
+        <updated>2024-11-28T01:13:41.118Z</updated>
+        <content type="html"><![CDATA[Chinese Automakers Overtake Japanese Rivals]]></content>
     </entry>
 </feed>
