@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-11-28T01:13:41.846Z</updated>
+    <updated>2024-11-28T04:19:24.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/808/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Microsoft Under US FTC Antitrust Investigation]]></title>
-        <id>https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns?ref=biztoc.com</id>
-        <link href="https://www.theverge.com/2024/11/27/24307790/microsoft-is-being-investigated-by-the-ftc-over-antitrust-concerns?ref=biztoc.com"/>
-        <updated>2024-11-28T01:13:41.108Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="dcae50108f56e538_sq.webp" class="pl" alt="">                        Microsoft Under US FTC Antitrust Investigation]]></content>
+        <title type="html"><![CDATA[FTC Opens Antitrust Probe Into Microsoft]]></title>
+        <id>https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/?ref=biztoc.com</id>
+        <link href="https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/?ref=biztoc.com"/>
+        <updated>2024-11-28T04:19:23.796Z</updated>
+        <content type="html"><![CDATA[FTC Opens Antitrust Probe Into Microsoft]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Biden Requests $24 Billion for Ukraine Aid]]></title>
-        <id>https://www.zerohedge.com/political/biden-asks-congress-authorize-24bn-more-spend-ukraine?ref=biztoc.com</id>
-        <link href="https://www.zerohedge.com/political/biden-asks-congress-authorize-24bn-more-spend-ukraine?ref=biztoc.com"/>
-        <updated>2024-11-28T01:13:41.111Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="bb87aa1b8c844ca6_sq.webp" class="pl" alt="">                        Biden Requests $24 Billion for Ukraine Aid]]></content>
+        <title type="html"><![CDATA[UK Plans to Water Down Green Targets Amid Economic Strains]]></title>
+        <id>https://www.politico.eu/article/cash-keir-starmer-prime-minister-government-climate-ambitions-ev-sales-economy-smmt-zero-emissions/?ref=biztoc.com</id>
+        <link href="https://www.politico.eu/article/cash-keir-starmer-prime-minister-government-climate-ambitions-ev-sales-economy-smmt-zero-emissions/?ref=biztoc.com"/>
+        <updated>2024-11-28T04:19:23.797Z</updated>
+        <content type="html"><![CDATA[UK Plans to Water Down Green Targets Amid Economic Strains]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US to Expand Influence in Lebanon After Ceasefire]]></title>
-        <id>https://www.zerohedge.com/geopolitical/us-deepen-footprint-lebanon-part-ceasefire-deal?ref=biztoc.com</id>
-        <link href="https://www.zerohedge.com/geopolitical/us-deepen-footprint-lebanon-part-ceasefire-deal?ref=biztoc.com"/>
-        <updated>2024-11-28T01:13:41.116Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="750cf65ae597deb9_sq.webp" class="pl" alt="">                        US to Expand Influence in Lebanon After Ceasefire]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s Energy Policy May Reshape US Foreign Relations]]></title>
+        <title type="html"><![CDATA[FTC Investigates Microsoft Over Antitrust Concerns]]></title>
         <id>https://biztoc.com/</id>
         <link href="https://biztoc.com/"/>
-        <updated>2024-11-28T01:13:41.117Z</updated>
-        <content type="html"><![CDATA[Trump’s Energy Policy May Reshape US Foreign Relations]]></content>
+        <updated>2024-11-28T04:19:23.799Z</updated>
+        <content type="html"><![CDATA[FTC Investigates Microsoft Over Antitrust Concerns]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chinese Automakers Overtake Japanese Rivals]]></title>
+        <title type="html"><![CDATA[United Airlines Reports Delays Over Air Traffic Controller Shortages]]></title>
+        <id>https://simpleflying.com/united-airlines-reports-delays-newark-liberty-international-airport-atc-shortage/?ref=biztoc.com</id>
+        <link href="https://simpleflying.com/united-airlines-reports-delays-newark-liberty-international-airport-atc-shortage/?ref=biztoc.com"/>
+        <updated>2024-11-28T04:19:23.800Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="73ffe8f475953a74_sq.webp" class="pl" alt="">                        United Airlines Reports Delays Over Air Traffic Controller Shortages]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Praises U.S. Firms Amid Trade War Fears]]></title>
         <id>https://biztoc.com/</id>
         <link href="https://biztoc.com/"/>
-        <updated>2024-11-28T01:13:41.118Z</updated>
-        <content type="html"><![CDATA[Chinese Automakers Overtake Japanese Rivals]]></content>
+        <updated>2024-11-28T04:19:23.802Z</updated>
+        <content type="html"><![CDATA[China Praises U.S. Firms Amid Trade War Fears]]></content>
     </entry>
 </feed>
