@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-01T12:28:58.515Z</updated>
+    <updated>2024-12-01T16:18:17.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 01 星期日 宜   突破]]></title>
-        <id>https://www.cikeee.cc/mov/678327101059384/</id>
-        <link href="https://www.cikeee.cc/mov/678327101059384/"/>
-        <updated>2024-11-30T16:17:51.907Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678327101059384/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 02 星期一 宜   从容]]></title>
+        <id>https://www.cikeee.cc/mov/680004136594448/</id>
+        <link href="https://www.cikeee.cc/mov/680004136594448/"/>
+        <updated>2024-12-01T16:18:13.683Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004136594448/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/108d/678327101059384.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004136594448.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/678327101059384/?>" target="_blank">8.2分&nbsp;剧情/动作/悬疑/惊悚&nbsp;2003&nbsp;韩国</div>
+                    <div id="movie-information" href="/mov/680004136594448/?>" target="_blank">7.7分&nbsp;剧情/喜剧/家庭&nbsp;2017&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">回答错了问题并不可怕，可怕的是问错了问题，那就永远得不到正确的答案。</blockquote>
-                    <div id="movie-name" href="/mov/678327101059384/" target="_blank">——《老男孩》</div>]]></content>
+                    <blockquote id="movie-text">如果我可以让人们微笑，那就是我存在的意义。</blockquote>
+                    <div id="movie-name" href="/mov/680004136594448/" target="_blank">——《一条狗的使命》</div>]]></content>
     </entry>
 </feed>
