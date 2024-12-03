@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-03T12:31:31.894Z</updated>
+    <updated>2024-12-03T16:19:55.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 03 星期二 宜   乐观]]></title>
-        <id>https://www.cikeee.cc/mov/679906456279097/</id>
-        <link href="https://www.cikeee.cc/mov/679906456279097/"/>
-        <updated>2024-12-02T16:20:22.253Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679906456279097/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 04 星期三 宜   向善]]></title>
+        <id>https://www.cikeee.cc/mov/681076509169403/</id>
+        <link href="https://www.cikeee.cc/mov/681076509169403/"/>
+        <updated>2024-12-03T16:19:51.867Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/681076509169403/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679906456279097.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/106d/681076509169403.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679906456279097/?>" target="_blank">8.4分&nbsp;剧情/喜剧&nbsp;2016&nbsp;德国</div>
+                    <div id="movie-information" href="/mov/681076509169403/?>" target="_blank">8.4分&nbsp;惊悚/犯罪&nbsp;1992&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">世界上最漂亮的女孩不在我的故事里，可我的故事都是因为她才开始。</blockquote>
-                    <div id="movie-name" href="/mov/679906456279097/" target="_blank">——《契克》</div>]]></content>
+                    <blockquote id="movie-text">尿湿了裤子时，跳到水里游泳就是。</blockquote>
+                    <div id="movie-name" href="/mov/681076509169403/" target="_blank">——《落水狗》</div>]]></content>
     </entry>
 </feed>
