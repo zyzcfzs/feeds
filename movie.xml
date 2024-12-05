@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-05T12:32:08.595Z</updated>
+    <updated>2024-12-05T16:20:28.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 05 星期四 宜   奋斗]]></title>
-        <id>https://www.cikeee.cc/mov/682284398420396/</id>
-        <link href="https://www.cikeee.cc/mov/682284398420396/"/>
-        <updated>2024-12-04T16:21:24.999Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/682284398420396/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 06 星期五 宜   不负韶华]]></title>
+        <id>https://www.cikeee.cc/mov/679906468323760/</id>
+        <link href="https://www.cikeee.cc/mov/679906468323760/"/>
+        <updated>2024-12-05T16:20:24.583Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679906468323760/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/111d/682284398420396.webp" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679906468323760.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/682284398420396/?>" target="_blank">8.2分&nbsp;剧情/历史&nbsp;2005&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/679906468323760/?>" target="_blank">7.3分&nbsp;剧情/喜剧/悬疑/古装&nbsp;2023&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">爱的相反不是仇恨，而是漠不关心。</blockquote>
-                    <div id="movie-name" href="/mov/682284398420396/" target="_blank">——《杀戮禁区》</div>]]></content>
+                    <blockquote id="movie-text">有些事，比生死还重要。</blockquote>
+                    <div id="movie-name" href="/mov/679906468323760/" target="_blank">——《满江红》</div>]]></content>
     </entry>
 </feed>
