@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.manhuagui.com/list/update.html</id>
     <title>看漫画</title>
-    <updated>2024-12-06T12:31:31.985Z</updated>
+    <updated>2024-12-06T16:19:53.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.manhuagui.com/list/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[仅我知晓的秘密]]></title>
+        <id>https://www.manhuagui.com/comic/54208/</id>
+        <link href="https://www.manhuagui.com/comic/54208/"/>
+        <updated>2024-12-06T16:19:45.697Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54208.jpg" alt="仅我知晓的秘密"><div class="tt">更新至第01话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>6.8</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X国度]]></title>
+        <id>https://www.manhuagui.com/comic/54207/</id>
+        <link href="https://www.manhuagui.com/comic/54207/"/>
+        <updated>2024-12-06T16:19:45.697Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54207.jpg" alt="X国度"><div class="tt">更新至第01卷</div><div class="updateon">更新于：2024-12-06<p>评分： <b>10.0</b></p></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极限X战警V2]]></title>
+        <id>https://www.manhuagui.com/comic/7416/</id>
+        <link href="https://www.manhuagui.com/comic/7416/"/>
+        <updated>2024-12-06T16:19:45.703Z</updated>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/7416_13.jpg" alt="极限X战警V2"><div class="tt">更新至第13卷[完]</div><div class="fd"></div><div class="updateon">更新于：2024-12-06<p>评分： <b>9.0</b></p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[转生之后我想要在田园过慢生活]]></title>
         <id>https://www.manhuagui.com/comic/32258/</id>
@@ -52,7 +73,7 @@
         <id>https://www.manhuagui.com/comic/47595/</id>
         <link href="https://www.manhuagui.com/comic/47595/"/>
         <updated>2024-12-06T12:31:24.439Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/47595.jpg" alt="赛马娘：马娘饭"><div class="tt">更新至第04话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>4.9</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/47595.jpg" alt="赛马娘：马娘饭"><div class="tt">更新至第04话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>5.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[成为猫咪的奴隶吧]]></title>
@@ -80,7 +101,7 @@
         <id>https://www.manhuagui.com/comic/53592/</id>
         <link href="https://www.manhuagui.com/comic/53592/"/>
         <updated>2024-12-06T12:31:24.440Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53592.jpg" alt="幸运的意外"><div class="tt">更新至第03话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.3</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53592.jpg" alt="幸运的意外"><div class="tt">更新至第03话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>7.9</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的外星妈妈]]></title>
@@ -115,7 +136,7 @@
         <id>https://www.manhuagui.com/comic/11176/</id>
         <link href="https://www.manhuagui.com/comic/11176/"/>
         <updated>2024-12-06T12:31:24.455Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/11176.jpg" alt="P.S. Restart"><div class="tt">更新至第23话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.1</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/11176.jpg" alt="P.S. Restart"><div class="tt">更新至第23话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.2</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[成为夺心魔的必要]]></title>
@@ -143,7 +164,7 @@
         <id>https://www.manhuagui.com/comic/54206/</id>
         <link href="https://www.manhuagui.com/comic/54206/"/>
         <updated>2024-12-06T12:31:24.466Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54206.jpg" alt="月狂闪耀星"><div class="tt">更新至第03话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>0.0</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54206.jpg" alt="月狂闪耀星"><div class="tt">更新至第03话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>10.0</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[杂货店店员小咲的日常]]></title>
@@ -213,7 +234,7 @@
         <id>https://www.manhuagui.com/comic/53279/</id>
         <link href="https://www.manhuagui.com/comic/53279/"/>
         <updated>2024-12-06T12:31:24.487Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53279.jpg" alt="兔子如是说"><div class="tt">更新至第05话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>7.5</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53279.jpg" alt="兔子如是说"><div class="tt">更新至第05话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>7.6</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[果然是茎骑乐园]]></title>
@@ -248,7 +269,7 @@
         <id>https://www.manhuagui.com/comic/50400/</id>
         <link href="https://www.manhuagui.com/comic/50400/"/>
         <updated>2024-12-06T08:20:46.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50400.jpg" alt="每日换尾巴的尾崎诗穗"><div class="tt">更新至第19话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>7.8</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/50400.jpg" alt="每日换尾巴的尾崎诗穗"><div class="tt">更新至第19话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>7.7</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[因为生命有限所以成为了幕后黑手的儿媳]]></title>
@@ -269,7 +290,7 @@
         <id>https://www.manhuagui.com/comic/52797/</id>
         <link href="https://www.manhuagui.com/comic/52797/"/>
         <updated>2024-12-06T08:20:46.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52797.jpg" alt="今朝摇曳依旧"><div class="tt">更新至第08话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>9.4</b></p></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/52797.jpg" alt="今朝摇曳依旧"><div class="tt">更新至第08话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>9.3</b></p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[千春君不想女装]]></title>
@@ -277,26 +298,5 @@
         <link href="https://www.manhuagui.com/comic/54120/"/>
         <updated>2024-12-06T08:20:46.390Z</updated>
         <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/54120.jpg" alt="千春君不想女装"><div class="tt">更新至第06话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.8</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在丧尸遍地的世界里建造后宫]]></title>
-        <id>https://www.manhuagui.com/comic/53917/</id>
-        <link href="https://www.manhuagui.com/comic/53917/"/>
-        <updated>2024-12-06T08:20:46.390Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/53917.jpg" alt="在丧尸遍地的世界里建造后宫"><div class="tt">更新至第5.1话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.4</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老师温柔的杀人方法]]></title>
-        <id>https://www.manhuagui.com/comic/25852/</id>
-        <link href="https://www.manhuagui.com/comic/25852/"/>
-        <updated>2024-12-06T08:20:46.392Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/25852.jpg" alt="老师温柔的杀人方法"><div class="tt">更新至第27.3话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.9</b></p></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打是亲骂是爱、爱得不够用脚踹]]></title>
-        <id>https://www.manhuagui.com/comic/39721/</id>
-        <link href="https://www.manhuagui.com/comic/39721/"/>
-        <updated>2024-12-06T08:20:46.392Z</updated>
-        <content type="html"><![CDATA[<img src="https://cf.mhgui.com/cpic/b/39721_84.jpg" alt="打是亲骂是爱、爱得不够用脚踹"><div class="tt">更新至第22话</div><div class="updateon">更新于：2024-12-06<p>评分： <b>8.7</b></p></div>]]></content>
     </entry>
 </feed>
