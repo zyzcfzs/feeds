@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-08T12:29:23.555Z</updated>
+    <updated>2024-12-08T16:17:54.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 08 星期日 宜   坚韧]]></title>
-        <id>https://www.cikeee.cc/mov/679906466429884/</id>
-        <link href="https://www.cikeee.cc/mov/679906466429884/"/>
-        <updated>2024-12-07T16:18:20.375Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679906466429884/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 09 星期一 宜   飞黄腾达]]></title>
+        <id>https://www.cikeee.cc/mov/678868385439787/</id>
+        <link href="https://www.cikeee.cc/mov/678868385439787/"/>
+        <updated>2024-12-08T16:17:50.683Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678868385439787/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679906466429884.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/678868385439787.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679906466429884/?>" target="_blank">6.7分&nbsp;剧情/悬疑/历史&nbsp;2023&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/678868385439787/?>" target="_blank">8.1分&nbsp;剧情/传记&nbsp;2004&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">历史不应该被遗忘，这是篆刻在心里的时代印记。</blockquote>
-                    <div id="movie-name" href="/mov/679906466429884/" target="_blank">——《无名》</div>]]></content>
+                    <blockquote id="movie-text">过去的日子就像一场刺激的旅行，但我们不可能一直这样下去。</blockquote>
+                    <div id="movie-name" href="/mov/678868385439787/" target="_blank">——《飞行家》</div>]]></content>
     </entry>
 </feed>
