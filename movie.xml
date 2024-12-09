@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-09T08:22:25.666Z</updated>
+    <updated>2024-12-09T16:20:41.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 09 星期一 宜   飞黄腾达]]></title>
-        <id>https://www.cikeee.cc/mov/678868385439787/</id>
-        <link href="https://www.cikeee.cc/mov/678868385439787/"/>
-        <updated>2024-12-08T16:17:50.683Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/678868385439787/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 10 星期二 宜   慢下来]]></title>
+        <id>https://www.cikeee.cc/mov/679003280161929/</id>
+        <link href="https://www.cikeee.cc/mov/679003280161929/"/>
+        <updated>2024-12-09T16:20:38.150Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679003280161929/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/678868385439787.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/110d/679003280161929.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/678868385439787/?>" target="_blank">8.1分&nbsp;剧情/传记&nbsp;2004&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/679003280161929/?>" target="_blank">8.2分&nbsp;剧情/爱情&nbsp;2000&nbsp;中国大陆</div>
                     
-                    <blockquote id="movie-text">过去的日子就像一场刺激的旅行，但我们不可能一直这样下去。</blockquote>
-                    <div id="movie-name" href="/mov/678868385439787/" target="_blank">——《飞行家》</div>]]></content>
+                    <blockquote id="movie-text">无奈浪涛一浪又一浪，只不过是为了一次澎湃。</blockquote>
+                    <div id="movie-name" href="/mov/679003280161929/" target="_blank">——《苏州河》</div>]]></content>
     </entry>
 </feed>
