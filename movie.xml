@@ -2,7 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-11T04:20:03.210Z</updated>
+    <updated>2024-12-11T08:21:37.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[拾贰月 11 星期三 宜   自在]]></title>
+        <id>https://www.cikeee.cc/mov/675706744478355/</id>
+        <link href="https://www.cikeee.cc/mov/675706744478355/"/>
+        <updated>2024-12-11T08:21:33.846Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706744478355/" target="_blank">
+                        <div id="movie-img-box">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706744478355.jpg" alt="">
+                        </div>
+                    </div>
+                    <div id="movie-information" href="/mov/675706744478355/?>" target="_blank">7.9分&nbsp;剧情/动作/奇幻/冒险&nbsp;1999&nbsp;美国</div>
+                    
+                    <blockquote id="movie-text">我相信有备无患。</blockquote>
+                    <div id="movie-name" href="/mov/675706744478355/" target="_blank">——《木乃伊》</div>]]></content>
+    </entry>
 </feed>
