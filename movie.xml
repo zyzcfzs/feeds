@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-17T12:32:09.871Z</updated>
+    <updated>2024-12-17T16:20:20.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 17 星期二 宜   豁达]]></title>
-        <id>https://www.cikeee.cc/mov/675706850830054/</id>
-        <link href="https://www.cikeee.cc/mov/675706850830054/"/>
-        <updated>2024-12-16T16:20:31.323Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706850830054/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 18 星期三 宜   披荆斩棘]]></title>
+        <id>https://www.cikeee.cc/mov/677546763789609/</id>
+        <link href="https://www.cikeee.cc/mov/677546763789609/"/>
+        <updated>2024-12-17T16:20:16.125Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677546763789609/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706850830054.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677546763789609.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706850830054/?>" target="_blank">8.2分&nbsp;剧情/爱情/犯罪&nbsp;2019&nbsp;中国大陆</div>
+                    <div id="movie-information" href="/mov/677546763789609/?>" target="_blank">8.9分&nbsp;剧情/喜剧/家庭&nbsp;2013&nbsp;韩国</div>
                     
-                    <blockquote id="movie-text">不管这条路有多难，我都愿意陪你耗。</blockquote>
-                    <div id="movie-name" href="/mov/675706850830054/" target="_blank">——《少年的你》</div>]]></content>
+                    <blockquote id="movie-text">纵使我一无所有，也要给你世间最美。</blockquote>
+                    <div id="movie-name" href="/mov/677546763789609/" target="_blank">——《7号房的礼物》</div>]]></content>
     </entry>
 </feed>
