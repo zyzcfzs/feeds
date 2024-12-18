@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-12-18T01:12:23.789Z</updated>
+    <updated>2024-12-18T04:19:08.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/808/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Bipartisan Deal Reached to Avert US Government Shutdown]]></title>
+        <title type="html"><![CDATA[FTC Finalizes Rule to Ban Junk Fees on Tickets, Hotels]]></title>
+        <id>https://www.nbcnews.com/business/business-news/ftc-rule-bans-junk-fees-tickets-hotels-rcna184539?ref=biztoc.com</id>
+        <link href="https://www.nbcnews.com/business/business-news/ftc-rule-bans-junk-fees-tickets-hotels-rcna184539?ref=biztoc.com"/>
+        <updated>2024-12-18T04:19:07.582Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="e46a4f17b19d46d7_sq.webp" class="pl" alt="">                            FTC Finalizes Rule to Ban Junk Fees on Tickets, Hotels]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honda and Nissan in Merger Talks Amid Challenges]]></title>
+        <id>https://www.cnn.com/2024/12/17/business/honda-nissan-merger-talks/index.html?ref=biztoc.com</id>
+        <link href="https://www.cnn.com/2024/12/17/business/honda-nissan-merger-talks/index.html?ref=biztoc.com"/>
+        <updated>2024-12-18T04:19:07.584Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="756bf0e1f6d5ef12_sq.webp" class="pl" alt="">                            Honda and Nissan in Merger Talks Amid Challenges]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress to Vote on US Investment Restrictions in China]]></title>
+        <id>https://www.theglobeandmail.com/world/article-congress-to-vote-on-new-restrictions-on-us-investment-in-china/?ref=biztoc.com</id>
+        <link href="https://www.theglobeandmail.com/world/article-congress-to-vote-on-new-restrictions-on-us-investment-in-china/?ref=biztoc.com"/>
+        <updated>2024-12-18T04:19:07.585Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="27ccec7209ad7e6b_sq.webp" class="pl" alt="">                            Congress to Vote on US Investment Restrictions in China]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Congress Reaches Deal to Avert Government Shutdown]]></title>
         <id>https://www.benzinga.com/24/12/42544562/congressional-leaders-reach-bipartisan-deal-to-avert-government-shutdown?ref=biztoc.com</id>
         <link href="https://www.benzinga.com/24/12/42544562/congressional-leaders-reach-bipartisan-deal-to-avert-government-shutdown?ref=biztoc.com"/>
         <updated>2024-12-18T01:12:23.160Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="86677a9ac830be71_sq.webp" class="pl" alt="">                            Bipartisan Deal Reached to Avert US Government Shutdown]]></content>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="86677a9ac830be71_sq.webp" class="pl" alt="">                            US Congress Reaches Deal to Avert Government Shutdown]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Biden Supports Ban on Stock Trading by Congress Members]]></title>
-        <id>https://www.nbcnews.com/politics/joe-biden/biden-says-supports-congressional-stock-trading-ban-rcna184619?ref=biztoc.com</id>
-        <link href="https://www.nbcnews.com/politics/joe-biden/biden-says-supports-congressional-stock-trading-ban-rcna184619?ref=biztoc.com"/>
-        <updated>2024-12-18T01:12:23.162Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="e6adbadb37ad2319_sq.webp" class="pl" alt="">                            Biden Supports Ban on Stock Trading by Congress Members]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opioid Crisis Pushes for More Methadone Treatment Access]]></title>
-        <id>https://www.pbs.org/newshour/show/opioid-crisis-renews-focus-on-expanding-access-to-methadone-treatment?ref=biztoc.com</id>
-        <link href="https://www.pbs.org/newshour/show/opioid-crisis-renews-focus-on-expanding-access-to-methadone-treatment?ref=biztoc.com"/>
-        <updated>2024-12-18T01:12:23.163Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="454072861a8b08f6_sq.webp" class="pl" alt="">                            Opioid Crisis Pushes for More Methadone Treatment Access]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honda and Nissan Consider Merger Against Market Leaders]]></title>
-        <id>https://www.nytimes.com/2024/12/17/business/honda-nissan-talks-merger.html?ref=biztoc.com</id>
-        <link href="https://www.nytimes.com/2024/12/17/business/honda-nissan-talks-merger.html?ref=biztoc.com"/>
-        <updated>2024-12-18T01:12:23.165Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="40aa4dd2396ccf06_sq.webp" class="pl" alt="">                            Honda and Nissan Consider Merger Against Market Leaders]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Strikes in Syria & Yemen Lack Congressional Approval]]></title>
-        <id>https://www.zerohedge.com/geopolitical/us-conducts-new-strikes-syria-yemen-still-no-congressional-authorization?ref=biztoc.com</id>
-        <link href="https://www.zerohedge.com/geopolitical/us-conducts-new-strikes-syria-yemen-still-no-congressional-authorization?ref=biztoc.com"/>
-        <updated>2024-12-18T01:12:23.166Z</updated>
-        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="635fe4379f0e7c73_sq.webp" class="pl" alt="">                            US Strikes in Syria &amp; Yemen Lack Congressional Approval]]></content>
+        <title type="html"><![CDATA[Taiwan Plans First Rocket Site, Amazon Collaboration]]></title>
+        <id>https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Taiwan-eyes-first-rocket-launch-site-and-Amazon-satellite-collaboration?ref=biztoc.com</id>
+        <link href="https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Taiwan-eyes-first-rocket-launch-site-and-Amazon-satellite-collaboration?ref=biztoc.com"/>
+        <updated>2024-12-18T04:19:07.588Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="b5b4dc0ce684166f_sq.webp" class="pl" alt="">                            Taiwan Plans First Rocket Site, Amazon Collaboration]]></content>
     </entry>
 </feed>
