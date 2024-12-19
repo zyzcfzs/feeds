@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://biztoc.com/</id>
     <title>BitToc Hot</title>
-    <updated>2024-12-18T20:17:39.266Z</updated>
+    <updated>2024-12-19T01:12:26.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://biztoc.com/cdn/808/favicon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Dow Drops 400 Points as Powell Discusses Economic Progress]]></title>
-        <id>https://www.barrons.com/livecoverage/stock-market-today-121824/card/dow-slides-400-points-nasdaq-drops-1-4--AZcuQ26y7hEcQxDY3jyZ?ref=biztoc.com</id>
-        <link href="https://www.barrons.com/livecoverage/stock-market-today-121824/card/dow-slides-400-points-nasdaq-drops-1-4--AZcuQ26y7hEcQxDY3jyZ?ref=biztoc.com"/>
-        <updated>2024-12-18T20:17:38.523Z</updated>
-        <content type="html"><![CDATA[Dow Drops 400 Points as Powell Discusses Economic Progress]]></content>
+        <title type="html"><![CDATA[Fed's Rate Cuts Fewer, Focus Returns to Inflation]]></title>
+        <id>https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html?ref=biztoc.com</id>
+        <link href="https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html?ref=biztoc.com"/>
+        <updated>2024-12-19T01:12:25.800Z</updated>
+        <content type="html"><![CDATA[Fed's Rate Cuts Fewer, Focus Returns to Inflation]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Considers Banning TP-Link Routers Over National Security]]></title>
-        <id>https://news.slashdot.org/story/24/12/18/1249207/us-weighs-banning-tp-link-router-over-national-security-concerns?ref=biztoc.com</id>
-        <link href="https://news.slashdot.org/story/24/12/18/1249207/us-weighs-banning-tp-link-router-over-national-security-concerns?ref=biztoc.com"/>
-        <updated>2024-12-18T20:17:38.524Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/c2a19bd5dd685b75_sq.webp" class="pl" alt="" style="visibility: visible;">                            US Considers Banning TP-Link Routers Over National Security]]></content>
+        <title type="html"><![CDATA[Supreme Court to Hear TikTok's Appeal Over U.S. Law]]></title>
+        <id>https://www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/?ref=biztoc.com</id>
+        <link href="https://www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/?ref=biztoc.com"/>
+        <updated>2024-12-19T01:12:25.801Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="d2bea374725f80cb_sq.webp" class="pl" alt="">                            Supreme Court to Hear TikTok's Appeal Over U.S. Law]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supreme Court Agrees To Hear TikTok Appeal Case]]></title>
-        <id>https://www.zerohedge.com/political/supreme-court-agrees-hear-tiktok-appeal?ref=biztoc.com</id>
-        <link href="https://www.zerohedge.com/political/supreme-court-agrees-hear-tiktok-appeal?ref=biztoc.com"/>
-        <updated>2024-12-18T20:17:38.526Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/2289f87b9394483c_sq.webp" class="pl" alt="" style="visibility: visible;">                            Supreme Court Agrees To Hear TikTok Appeal Case]]></content>
+        <title type="html"><![CDATA[US DOJ Sues CVS Over Illicit Opioid Prescriptions]]></title>
+        <id>https://edition.cnn.com/2024/12/18/business/doj-cvs-opioid/index.html?ref=biztoc.com</id>
+        <link href="https://edition.cnn.com/2024/12/18/business/doj-cvs-opioid/index.html?ref=biztoc.com"/>
+        <updated>2024-12-19T01:12:25.803Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="37acbf9e1f3c4b46_sq.webp" class="pl" alt="">                            US DOJ Sues CVS Over Illicit Opioid Prescriptions]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nissan Stock Jumps 30% on Possible Merger With Honda]]></title>
-        <id>https://www.fastcompany.com/91249482/nissan-stock-honda-merger-talks-japan-china-evs-electric-vehicles?ref=biztoc.com</id>
-        <link href="https://www.fastcompany.com/91249482/nissan-stock-honda-merger-talks-japan-china-evs-electric-vehicles?ref=biztoc.com"/>
-        <updated>2024-12-18T20:17:38.528Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.biztoc.com/7437dbff0fa6ea6c_sq.webp" class="pl" alt="" style="visibility: visible;">                            Nissan Stock Jumps 30% on Possible Merger With Honda]]></content>
+        <title type="html"><![CDATA[Trump Pushes to Reject Spending Bill, Shutdown Looms]]></title>
+        <id>https://www.inc.com/reuters/shutdown-threat-looms-as-trump-urges-congress-to-reject-spending-bill/91068286?ref=biztoc.com</id>
+        <link href="https://www.inc.com/reuters/shutdown-threat-looms-as-trump-urges-congress-to-reject-spending-bill/91068286?ref=biztoc.com"/>
+        <updated>2024-12-19T01:12:25.804Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="9bc09cb7c2fef738_sq.webp" class="pl" alt="">                            Trump Pushes to Reject Spending Bill, Shutdown Looms]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manhattan Man Admits to Helping Chinese Secret Police]]></title>
-        <id>https://fortune.com/2024/12/18/manhattan-man-admits-secret-chinese-government-police-station-middle-of-nyc/?ref=biztoc.com</id>
-        <link href="https://fortune.com/2024/12/18/manhattan-man-admits-secret-chinese-government-police-station-middle-of-nyc/?ref=biztoc.com"/>
-        <updated>2024-12-18T20:17:38.529Z</updated>
-        <content type="html"><![CDATA[Manhattan Man Admits to Helping Chinese Secret Police]]></content>
+        <title type="html"><![CDATA[AI Stock Poised for Takeoff Amid Market Changes]]></title>
+        <id>https://www.aol.com/struggling-artificial-intelligence-ai-stock-233000116.html?ref=biztoc.com</id>
+        <link href="https://www.aol.com/struggling-artificial-intelligence-ai-stock-233000116.html?ref=biztoc.com"/>
+        <updated>2024-12-19T01:12:25.805Z</updated>
+        <content type="html"><![CDATA[<img src="/cdn/t.gif" data-img="72fe77d7c5e9342d_sq.webp" class="pl" alt="">                            AI Stock Poised for Takeoff Amid Market Changes]]></content>
     </entry>
 </feed>
