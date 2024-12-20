@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-19T12:30:57.313Z</updated>
+    <updated>2024-12-20T01:09:07.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 19 星期四 宜   追求]]></title>
-        <id>https://www.cikeee.cc/mov/675706636931131/</id>
-        <link href="https://www.cikeee.cc/mov/675706636931131/"/>
-        <updated>2024-12-18T20:17:35.276Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706636931131/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 20 星期五 宜   幻想]]></title>
+        <id>https://www.cikeee.cc/mov/679993479934143/</id>
+        <link href="https://www.cikeee.cc/mov/679993479934143/"/>
+        <updated>2024-12-20T01:09:03.299Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993479934143/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706636931131.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993479934143.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706636931131/?>" target="_blank">8.3分&nbsp;剧情/爱情/悬疑/犯罪&nbsp;2009&nbsp;阿根廷</div>
+                    <div id="movie-information" href="/mov/679993479934143/?>" target="_blank">8.9分&nbsp;剧情/家庭/运动&nbsp;2011&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">别人的痛苦有时能打动我们，是因为我们担心它会降临到自己身上。</blockquote>
-                    <div id="movie-name" href="/mov/675706636931131/" target="_blank">——《谜一样的双眼》</div>]]></content>
+                    <blockquote id="movie-text">如果你们离开就是懦夫，留下来就是我们的敌人。</blockquote>
+                    <div id="movie-name" href="/mov/679993479934143/" target="_blank">——《勇士》</div>]]></content>
     </entry>
 </feed>
