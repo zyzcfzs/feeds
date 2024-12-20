@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-20T12:28:49.148Z</updated>
+    <updated>2024-12-20T16:18:13.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 20 星期五 宜   幻想]]></title>
-        <id>https://www.cikeee.cc/mov/679993479934143/</id>
-        <link href="https://www.cikeee.cc/mov/679993479934143/"/>
-        <updated>2024-12-20T01:09:03.299Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/679993479934143/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 21 星期六 宜   幻想]]></title>
+        <id>https://www.cikeee.cc/mov/675438580749755/</id>
+        <link href="https://www.cikeee.cc/mov/675438580749755/"/>
+        <updated>2024-12-20T16:18:09.614Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438580749755/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/679993479934143.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438580749755.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/679993479934143/?>" target="_blank">8.9分&nbsp;剧情/家庭/运动&nbsp;2011&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/675438580749755/?>" target="_blank">8.8分&nbsp;剧情/家庭/传记&nbsp;1985&nbsp;中国台湾</div>
                     
-                    <blockquote id="movie-text">如果你们离开就是懦夫，留下来就是我们的敌人。</blockquote>
-                    <div id="movie-name" href="/mov/679993479934143/" target="_blank">——《勇士》</div>]]></content>
+                    <blockquote id="movie-text">一直到今天，我还常常想起祖母那条回大陆的路，也许只有我陪祖母走过那条路，还有那天下午，我们采了很多芭乐回来。</blockquote>
+                    <div id="movie-name" href="/mov/675438580749755/" target="_blank">——《童年往事》</div>]]></content>
     </entry>
 </feed>
