@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-23T12:29:16.583Z</updated>
+    <updated>2024-12-23T16:18:56.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 23 星期一 宜   踏实]]></title>
-        <id>https://www.cikeee.cc/mov/674190176783435/</id>
-        <link href="https://www.cikeee.cc/mov/674190176783435/"/>
-        <updated>2024-12-22T16:17:08.025Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674190176783435/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 24 星期二 宜   大吉大利]]></title>
+        <id>https://www.cikeee.cc/mov/680003938331173/</id>
+        <link href="https://www.cikeee.cc/mov/680003938331173/"/>
+        <updated>2024-12-23T16:18:52.802Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680003938331173/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/104d/674190176783435.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680003938331173.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674190176783435/?>" target="_blank">9.1分&nbsp;剧情&nbsp;1992&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680003938331173/?>" target="_blank">8.9分&nbsp;动画/奇幻/冒险&nbsp;1992&nbsp;日本</div>
                     
-                    <blockquote id="movie-text">一个人走向末路往往是因为不遗余力地寻找捷径。</blockquote>
-                    <div id="movie-name" href="/mov/674190176783435/" target="_blank">——《闻香识女人》</div>]]></content>
+                    <blockquote id="movie-text">火在一天之内把森林烧成灰烬，水和风却需要一百年以上的时间来造林。</blockquote>
+                    <div id="movie-name" href="/mov/680003938331173/" target="_blank">——《风之谷》</div>]]></content>
     </entry>
 </feed>
