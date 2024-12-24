@@ -1,9 +1,9 @@
 [manga]
 title = "看漫画"
-url = "https://www.manhuagui.com/list/update.html"
-entrySelector = "ul#contList > li"
-titleSelector = "p.ell"
-linkSelector = "p.ell > a"
+url = "https://www.manhuagui.com/update/"
+entrySelector = "div.latest-list:nth-child(2) li"
+linkSelector = "a.cover"
+titleSelector = "p.ell a"
 
 [movie]
 title = "电影日历"
@@ -13,10 +13,4 @@ titleSelector = ["span#month", "span#day", "span#week", "div#daytext"]
 linkSelector = "a#movie-img-a"
 contentSelector = "div#movie-wrap"
 
-[biztoc]
-title = "BitToc Hot"
-url = "https://biztoc.com/"
-entrySelector = "div#tpcontent a"
-titleSelector = "*"
-linkSelector = "*"
 
