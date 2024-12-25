@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-25T12:16:00.389Z</updated>
+    <updated>2024-12-25T16:10:33.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 25 星期三 宜   释然]]></title>
-        <id>https://www.cikeee.cc/mov/674319937355793/</id>
-        <link href="https://www.cikeee.cc/mov/674319937355793/"/>
-        <updated>2024-12-24T16:10:14.480Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319937355793/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 26 星期四 宜   勤恳]]></title>
+        <id>https://www.cikeee.cc/mov/674000202141560/</id>
+        <link href="https://www.cikeee.cc/mov/674000202141560/"/>
+        <updated>2024-12-25T16:10:32.914Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674000202141560/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/105d/674319937355793.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/103d/674000202141560.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674319937355793/?>" target="_blank">9.2分&nbsp;剧情/家庭/儿童&nbsp;1997&nbsp;伊朗</div>
+                    <div id="movie-information" href="/mov/674000202141560/?>" target="_blank">7.8分&nbsp;剧情/动作/战争/冒险&nbsp;2004&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">永远给自己一个梦想，即使它很远。</blockquote>
-                    <div id="movie-name" href="/mov/674319937355793/" target="_blank">——《小鞋子》</div>]]></content>
+                    <blockquote id="movie-text">你们想失去伦敦么？你们想让拿破仑当国王么？</blockquote>
+                    <div id="movie-name" href="/mov/674000202141560/" target="_blank">——《怒海争锋》</div>]]></content>
     </entry>
 </feed>
