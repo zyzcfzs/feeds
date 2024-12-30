@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2024-12-29T12:14:17.852Z</updated>
+    <updated>2024-12-30T00:42:51.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[拾贰月 29 星期日 宜   戒骄戒躁]]></title>
-        <id>https://www.cikeee.cc/mov/675706707494462/</id>
-        <link href="https://www.cikeee.cc/mov/675706707494462/"/>
-        <updated>2024-12-28T16:09:39.736Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675706707494462/" target="_blank">
+        <title type="html"><![CDATA[拾贰月 30 星期一 宜   慢下来]]></title>
+        <id>https://www.cikeee.cc/mov/680140109757689/</id>
+        <link href="https://www.cikeee.cc/mov/680140109757689/"/>
+        <updated>2024-12-30T00:42:51.072Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680140109757689/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/110d/675706707494462.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/103d/680140109757689.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/675706707494462/?>" target="_blank">8.9分&nbsp;剧情/动作/传记/历史/战争&nbsp;1995&nbsp;美国</div>
+                    <div id="movie-information" href="/mov/680140109757689/?>" target="_blank">8.2分&nbsp;剧情/动作/惊悚&nbsp;1998&nbsp;美国</div>
                     
-                    <blockquote id="movie-text">每个人都会死去，但不是每个人都曾经真正活过。</blockquote>
-                    <div id="movie-name" href="/mov/675706707494462/" target="_blank">——《勇敢的心》</div>]]></content>
+                    <blockquote id="movie-text">你在暗，他们在明，你只需记住别打赢不了的仗。</blockquote>
+                    <div id="movie-name" href="/mov/680140109757689/" target="_blank">——《国家公敌》</div>]]></content>
     </entry>
 </feed>
