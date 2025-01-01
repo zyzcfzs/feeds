@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2025-01-01T12:15:52.296Z</updated>
+    <updated>2025-01-01T16:10:36.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[壹月 01 星期三 宜   不务空名]]></title>
-        <id>https://www.cikeee.cc/mov/680004252486406/</id>
-        <link href="https://www.cikeee.cc/mov/680004252486406/"/>
-        <updated>2024-12-31T16:10:35.719Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/680004252486406/" target="_blank">
+        <title type="html"><![CDATA[壹月 02 星期四 宜   重拾]]></title>
+        <id>https://www.cikeee.cc/mov/677663206368988/</id>
+        <link href="https://www.cikeee.cc/mov/677663206368988/"/>
+        <updated>2025-01-01T16:10:35.426Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663206368988/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/523/102d/680004252486406.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663206368988.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/680004252486406/?>" target="_blank">8.2分&nbsp;剧情/爱情&nbsp;2013&nbsp;中国台湾</div>
+                    <div id="movie-information" href="/mov/677663206368988/?>" target="_blank">7.6分&nbsp;恐怖&nbsp;2016&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">我想用我自己的方式飞翔一次。</blockquote>
-                    <div id="movie-name" href="/mov/680004252486406/" target="_blank">——《逆光飞翔》</div>]]></content>
+                    <blockquote id="movie-text">他们似乎是想努力逃出去。</blockquote>
+                    <div id="movie-name" href="/mov/677663206368988/" target="_blank">——《无名女尸》</div>]]></content>
     </entry>
 </feed>
