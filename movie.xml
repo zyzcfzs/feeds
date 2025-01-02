@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2025-01-02T12:15:51.121Z</updated>
+    <updated>2025-01-02T16:12:03.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[壹月 02 星期四 宜   重拾]]></title>
-        <id>https://www.cikeee.cc/mov/677663206368988/</id>
-        <link href="https://www.cikeee.cc/mov/677663206368988/"/>
-        <updated>2025-01-01T16:10:35.426Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/677663206368988/" target="_blank">
+        <title type="html"><![CDATA[壹月 03 星期五 宜   纵横驰骋]]></title>
+        <id>https://www.cikeee.cc/mov/674319925283293/</id>
+        <link href="https://www.cikeee.cc/mov/674319925283293/"/>
+        <updated>2025-01-02T16:12:03.056Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319925283293/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/522/105d/677663206368988.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/105d/674319925283293.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/677663206368988/?>" target="_blank">7.6分&nbsp;恐怖&nbsp;2016&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/674319925283293/?>" target="_blank">8.4分&nbsp;喜剧/动作/冒险&nbsp;2015&nbsp;英国</div>
                     
-                    <blockquote id="movie-text">他们似乎是想努力逃出去。</blockquote>
-                    <div id="movie-name" href="/mov/677663206368988/" target="_blank">——《无名女尸》</div>]]></content>
+                    <blockquote id="movie-text">其实有时我还挺嫉妒那些对这个世界不是那么明白的人。</blockquote>
+                    <div id="movie-name" href="/mov/674319925283293/" target="_blank">——《王牌特工：特工学院》</div>]]></content>
     </entry>
 </feed>
