@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cikeee.cc/</id>
     <title>电影日历</title>
-    <updated>2025-01-03T12:15:46.629Z</updated>
+    <updated>2025-01-03T16:10:47.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cikeee.cc/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[壹月 03 星期五 宜   纵横驰骋]]></title>
-        <id>https://www.cikeee.cc/mov/674319925283293/</id>
-        <link href="https://www.cikeee.cc/mov/674319925283293/"/>
-        <updated>2025-01-02T16:12:03.056Z</updated>
-        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/674319925283293/" target="_blank">
+        <title type="html"><![CDATA[壹月 04 星期六 宜   大胆去干]]></title>
+        <id>https://www.cikeee.cc/mov/675438596349287/</id>
+        <link href="https://www.cikeee.cc/mov/675438596349287/"/>
+        <updated>2025-01-03T16:10:46.569Z</updated>
+        <content type="html"><![CDATA[<div id="movie-img-a" href="/mov/675438596349287/" target="_blank">
                         <div id="movie-img-box">
-                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/105d/674319925283293.jpg" alt="">
+                            <img id="movie-img" src="https://www.cikeee.cc/uploads/movimg/521/109d/675438596349287.jpg" alt="">
                         </div>
                     </div>
-                    <div id="movie-information" href="/mov/674319925283293/?>" target="_blank">8.4分&nbsp;喜剧/动作/冒险&nbsp;2015&nbsp;英国</div>
+                    <div id="movie-information" href="/mov/675438596349287/?>" target="_blank">9.1分&nbsp;战争/西部/冒险&nbsp;1971&nbsp;意大利</div>
                     
-                    <blockquote id="movie-text">其实有时我还挺嫉妒那些对这个世界不是那么明白的人。</blockquote>
-                    <div id="movie-name" href="/mov/674319925283293/" target="_blank">——《王牌特工：特工学院》</div>]]></content>
+                    <blockquote id="movie-text">识字的人告诉不识字的：是时候改变一下了</blockquote>
+                    <div id="movie-name" href="/mov/675438596349287/" target="_blank">——《革命往事》</div>]]></content>
     </entry>
 </feed>
